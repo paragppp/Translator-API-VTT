@@ -1,0 +1,2350 @@
+﻿WEBVTT
+
+00:00:49.090 --> 00:00:51.180
+Good morning.
+
+00:00:54.230 --> 00:01:06.040
+Good morning, and Welcome to build 2016 it's fantastic to be back here in San Francisco. Welcome to everyone here with us as well as everyone, joining us on the web.
+
+00:01:06.800 --> 00:01:35.240
+You know for me, it feels like I've marked all my adult life with Microsoft Developer Conference is in fact when I think about. Even the birth of my children. I think about the various platform errors at Microsoft. All my son belongs dry a** and my daughters areall.net and it's so it's so fantastic to be back here. I'm talking to developers. I mean, there's 1 thing that's so unique about developer conferences.
+
+00:01:36.380 --> 00:01:40.630
+Developers come here excited already about technology.
+
+00:01:41.360 --> 00:02:12.730
+They get to see more technology meet more people who are talking technology, but most importantly, they walk away. Inspired by what they see what they learn to build even more cooler technology that uniqueness of developer conferences is what we want to celebrate here over the next 3 days. That ability of developers to amplify technology is what we want to talk about over the course of this conference that belt.
+
+00:02:14.030 --> 00:02:17.130
+Talking about all of this technology.
+
+00:02:18.470 --> 00:02:22.680
+In fact, there is a much more mainstream dialogue.
+
+00:02:23.790 --> 00:02:25.960
+About the role of Technology.
+
+00:02:26.790 --> 00:02:28.010
+In our society.
+
+00:02:29.260 --> 00:02:41.960
+And it's the right time to have that dialogue because technologies so much more mainstream. It's embedded in our daily lives. It's embedded in our companies in our industries in our economies in countries.
+
+00:02:43.110 --> 00:02:45.240
+Much more so than ever before.
+
+00:02:46.150 --> 00:02:47.840
+And so we have these.
+
+00:02:48.780 --> 00:02:51.870
+Profound questions and issues in front of us.
+
+00:02:53.240 --> 00:02:54.750
+Is technology?
+
+00:02:55.900 --> 00:02:58.600
+Driving economic growth for every one.
+
+00:02:59.430 --> 00:03:03.070
+Or is economic growth stalled in spite.
+
+00:03:03.570 --> 00:03:05.670
+Of technological span.
+
+00:03:09.030 --> 00:03:13.640
+Is technology empowering people or is it displacing us?
+
+00:03:15.060 --> 00:03:22.960
+Is technology helping us preserve are enjoying values such as privacy or is it compromising it?
+
+00:03:24.900 --> 00:03:37.870
+These are the issues that are being discussed and they're the right issues for us to have a broad dialogue. Not just in one company, not just in our industry, but as a society.
+
+00:03:39.860 --> 00:03:41.780
+I am an optimist.
+
+00:03:42.810 --> 00:03:49.440
+We as a company are optimistic about what technology can do for us.
+
+00:03:50.060 --> 00:04:01.390
+I believe technology can in fact drive economic growth all over the world. I believe technology can empower us in our daily lives.
+
+00:04:02.740 --> 00:04:06.690
+I believe technology can be used to preserve our enduring values.
+
+00:04:09.000 --> 00:04:13.650
+We do, however, have to make choices how we go about building technology.
+
+00:04:14.540 --> 00:04:17.070
+We need to make design choice.
+
+00:04:17.840 --> 00:04:21.400
+Economic choices and social choices.
+
+00:04:22.120 --> 00:04:28.710
+That ensure that the way we build technology, the way we use technology helps us.
+
+00:04:29.590 --> 00:04:32.260
+Make progress as a society.
+
+00:04:33.380 --> 00:04:45.740
+That optimism and that several choices is embedded in coded in our mission to empower every person in every organization on the planet to achieve more.
+
+00:04:47.550 --> 00:04:51.620
+We want to make things so that others.
+
+00:04:52.560 --> 00:04:54.670
+Can make things and make things happen?
+
+00:04:56.040 --> 00:04:58.960
+That is our broad platform approach.
+
+00:05:00.680 --> 00:05:03.390
+And when we think about driving success.
+
+00:05:04.300 --> 00:05:06.690
+And empowering people and businesses.
+
+00:05:07.450 --> 00:05:09.120
+Through digital technology.
+
+00:05:09.800 --> 00:05:13.020
+We have to start with all of us developers.
+
+00:05:13.810 --> 00:05:22.980
+We have to empower you with technology, but more importantly, we have to create that opportunity for you to be able to express your creativity.
+
+00:05:23.630 --> 00:05:25.390
+That can change the world.
+
+00:05:26.450 --> 00:05:33.980
+And throughout this developer conference that's what we want to talk about one of the platforms that you get to work on.
+
+00:05:34.650 --> 00:05:38.480
+That really are going to help you change the world.
+
+00:05:41.650 --> 00:05:49.560
+We live in a mobile first Cloud First World and we've talked about this many times before, but it's always good to go back to make sure.
+
+00:05:50.730 --> 00:05:54.280
+That we are grounded in what we mean by mobile first cloud first.
+
+00:05:55.150 --> 00:06:06.410
+Foras mobile first is not about the mobility of any single device. It is the mobility of the human experience across all the devices that all the computing in our lives.
+
+00:06:08.570 --> 00:06:11.330
+Cloud is not a single destination.
+
+00:06:12.230 --> 00:06:14.920
+Cloud is a new form of computing.
+
+00:06:15.660 --> 00:06:19.860
+That, in fact enables that mobility of experience across all our devices.
+
+00:06:20.460 --> 00:06:30.650
+It infuses those experiences with intelligence because it has the ability to reason over large amounts of data using a distributed computing fabric.
+
+00:06:31.430 --> 00:06:36.080
+That's what is the rich mobile first cloud first world for which we are building.
+
+00:06:37.560 --> 00:06:42.060
+And we are building 3 interconnected platforms.
+
+00:06:44.240 --> 00:06:49.930
+Tomorrow, you're going to hear from Scott Guthrie about our intelligent cloud and Azure.
+
+00:06:51.770 --> 00:07:02.720
+Scotts going to talk about extensively how for all of the new application patent starting with eye or tied to mobile to web 2 machine learning.
+
+00:07:03.910 --> 00:07:09.450
+How you can use data and infrastructure to build these applications?
+
+00:07:10.350 --> 00:07:12.950
+More importantly, he's going to talk about how.
+
+00:07:13.460 --> 00:07:23.380
+Building on Azure gives you the opportunity to reach over 5,000,000 businesses that are already in Azure Active Directory.
+
+00:07:25.320 --> 00:07:31.250
+Shilu is going to talk tomorrow about the opportunity with Office 365.
+
+00:07:31.910 --> 00:07:40.460
+We're opening up Office 365, unlike ever before your applications your data through Office 365 connectors.
+
+00:07:41.300 --> 00:07:47.630
+And addons can be found within the us scaffolding of office very naturally by the users of office.
+
+00:07:48.770 --> 00:07:58.940
+That is 1.2 billion users of office ultimately will be able to get access to all of your applications because they get built in to the us scaffolding.
+
+00:07:59.450 --> 00:08:17.450
+We also want to take the rich semantic information underneath office that is people their relationships this schedules. The files and all the other artifacts and expose it as Microsoft graph so that you can use it. You can extend it as part of your application.
+
+00:08:18.130 --> 00:08:21.600
+The cheese going to talk about what that rich world looks like.
+
+00:08:22.570 --> 00:08:23.650
+And this morning.
+
+00:08:24.470 --> 00:08:27.320
+Terry and I will talk about more personal computing.
+
+00:08:30.300 --> 00:08:32.740
+Windows 10 is off.
+
+00:08:33.770 --> 00:08:41.510
+To an amazing start, it's the fastest-growing version of windows, but both consumers end up prices.
+
+00:08:42.930 --> 00:08:45.320
+We have tremendous innovation in devices.
+
+00:08:46.970 --> 00:08:54.600
+In fact, it's new categories of Windows devices whether they are a iot tea or hollow lens are getting created.
+
+00:09:00.310 --> 00:09:14.820
+And this morning you will hear from Terry in team about all of the advances with windows how we're bringing the natural user interface whether it be touch ink voice.
+
+00:09:16.250 --> 00:09:17.040
+Or even.
+
+00:09:17.780 --> 00:09:19.060
+Image recognition.
+
+00:09:20.920 --> 00:09:25.820
+So that you can use them to build new categories of applications.
+
+00:09:27.990 --> 00:09:39.190
+We also want to talk about how in gaming in consumptive applications. We are going to open up Boulder P**** in the consul for new opportunities for developers.
+
+00:09:41.190 --> 00:09:54.140
+We're also going to talk about how windows is your ultimate dev box where you can do all your application development for windows and beyond right there on a Windows P****.
+
+00:09:58.060 --> 00:09:59.940
+We also want to talk about.
+
+00:10:00.970 --> 00:10:03.320
+A new emerging platform.
+
+00:10:04.030 --> 00:10:10.750
+Then in the very early days of this, it's actually at the intersection of all of our 3 ambitions.
+
+00:10:12.190 --> 00:10:14.920
+Recall that conversations as a platform.
+
+00:10:15.950 --> 00:10:24.650
+It's a simple concept. Yet it's very powerful in its impact it is about taking the power of human language.
+
+00:10:25.250 --> 00:10:30.480
+And applying it more pervasively to all of a computing.
+
+00:10:32.590 --> 00:10:41.140
+That means we need to infuse into our computers and computing intelligence intelligence about us and our context.
+
+00:10:43.190 --> 00:10:45.110
+And by doing so, we think.
+
+00:10:45.950 --> 00:10:56.410
+This can have as profound an impact as the previous platform ships. I've had whether it be gui whether it be the Web or touch on Mobile.
+
+00:10:57.290 --> 00:11:02.340
+And so will have an extensive conversation about the beginning of this new platform journey.
+
+00:11:03.320 --> 00:11:18.280
+But we want to get started with Windows 10 and what that opportunity represents do all of you and to do that. Let me please. Welcome Terry Meyerson up onstage thank you. Thank you ooh.
+
+00:11:32.910 --> 00:11:36.960
+Non.
+
+00:11:43.170 --> 00:11:45.700
+Non.
+
+00:11:46.550 --> 00:11:48.470
+Non.
+
+00:11:51.730 --> 00:11:53.680
+Oh.
+
+00:12:07.840 --> 00:12:11.890
+Non.
+
+00:12:16.560 --> 00:12:20.620
+Non.
+
+00:12:25.330 --> 00:12:27.220
+Non.
+
+00:12:28.670 --> 00:12:30.210
+Hello developers,
+
+00:12:30.860 --> 00:12:33.690
+Non.
+
+00:12:34.680 --> 00:12:37.540
+I'm so excited to be back here and build with all of you.
+
+00:12:38.150 --> 00:12:45.230
+I mean, it really is such a great time to be a windows developer and today it's going to get even better.
+
+00:12:46.650 --> 00:12:50.840
+Such as shared our mission with Windows is that make computing more personal.
+
+00:12:51.400 --> 00:12:53.610
+And change the way all of us interact with.
+
+00:12:54.400 --> 00:12:56.890
+And benefit from technology.
+
+00:12:57.840 --> 00:13:00.870
+Enabling us to interact with devices more intuitively.
+
+00:13:01.480 --> 00:13:04.390
+Using natural language conversations.
+
+00:13:05.320 --> 00:13:08.280
+Evolving us mechanical keyboard and mouse.
+
+00:13:08.900 --> 00:13:19.060
+Touch and be on taking advantage of more human capabilities like our voice, hence our face gestures fingerprints.
+
+00:13:20.500 --> 00:13:23.400
+Expanding beyond today's PCs and phones.
+
+00:13:24.040 --> 00:13:27.500
+Bring computing into our world with Holograms.
+
+00:13:28.800 --> 00:13:31.570
+Immersing ourselves in games across devices.
+
+00:13:32.950 --> 00:13:39.610
+Windows 10 is our home for this evolution, making all of us more productive, enabling us to have more fun.
+
+00:13:41.330 --> 00:13:48.740
+Windows 10 it's been out for 8 months, is already being actively used by over 270000000 people.
+
+00:13:53.540 --> 00:14:00.020
+And customers are more games than ever before spending over 75,000,000,000 hours on Windows 10.
+
+00:14:00.780 --> 00:14:11.970
+And our hardware partners, they have launched over 500 new devices designed for Windows. Tens devices with a large screen small screens. No screens and everything in between.
+
+00:14:13.170 --> 00:14:20.600
+Were humbled by this response across the glow from Dubai here right here in San Francisco?
+
+00:14:28.470 --> 00:14:30.230
+Now um.
+
+00:14:31.280 --> 00:14:33.730
+The this momentum.
+
+00:14:34.450 --> 00:14:43.400
+It's not just cons Windows 10 is after the fastest adoption of any release a Windows ever and it's not just consumers.
+
+00:14:44.210 --> 00:14:55.230
+It's enterprise customers also consider just the United States Department of Defense 4000000 device 1,000,000 devices will upgrade to Windows 10 just this year.
+
+00:14:56.150 --> 00:15:04.980
+So on behalf of the entire windows team. We're happy to welcome all of these customers to Windows 10 where they have a brand new p****.
+
+00:15:05.760 --> 00:15:13.300
+A 5 year old p**** or granny Mac join us you're welcome on Windows 10.
+
+00:15:14.690 --> 00:15:21.270
+Now, every day, we are working hard. I'm making Windows 10 better to do, I all our users all around the world?
+
+00:15:22.110 --> 00:15:29.010
+And today was so excited to share with you what we've been working on the next wave and innovations for Microsoft.
+
+00:15:29.530 --> 00:15:37.580
+The anniversary update to Windows 10 coming this summer for free so uh all of our Windows 10 customers.
+
+00:15:39.020 --> 00:15:41.060
+Non.
+
+00:15:42.060 --> 00:15:44.160
+Now, how many or windows insiders.
+
+00:15:45.010 --> 00:15:47.870
+Cortana windows insiders out there.
+
+00:15:49.040 --> 00:16:08.960
+Non so awesome, I mean football team does things again, you guys got shape. Everything we're doing Microsoft, giving us feedback everyday on every pixel every ounce of performance. We can squeeze and of course. Today, you can go download. The latest builds and give us feedback and everything we're talking about today.
+
+00:16:10.050 --> 00:16:14.600
+With this anniversary update more personal computing really does come to life more.
+
+00:16:15.310 --> 00:16:16.530
+Think Windows Hello.
+
+00:16:17.240 --> 00:16:22.290
+Today, you can more securely in easily log into your device than ever before.
+
+00:16:23.020 --> 00:16:29.340
+But with this anniversary update you're not going to be able to use this secure and easy biometric authentication with your apps.
+
+00:16:30.080 --> 00:16:42.020
+Or even better with Microsoft Edge, now be the first and only browser to support this secure and easy biometric authentication to all of the supporting websites.
+
+00:16:44.300 --> 00:16:56.380
+Thank the anniversary update will introduce the all new windows ink experience. Our goal is to make using a pan with your device as soon wasn't as easy as pen and paper.
+
+00:16:57.660 --> 00:17:11.010
+With this and this anniversary update will come to your Xbox One now bring all of your Windows applications into your living room and enabling intern all any retail Xbox One into a dead kid.
+
+00:17:12.150 --> 00:17:19.180
+And, of course, the anniversary update will come. The holo lens near my all new ways to work communicate learn and play.
+
+00:17:19.800 --> 00:17:25.800
+And Cortana in the anniversary update to be incredibly new ways to get stuff done.
+
+00:17:26.950 --> 00:17:31.670
+So, please welcome Brian Showboat, Brian Roper into a demo of the anniversary update.
+
+00:17:34.700 --> 00:17:35.790
+Thank you very.
+
+00:17:37.670 --> 00:17:40.470
+Ladies and gentlemen how you're feeling this morning.
+
+00:17:42.120 --> 00:17:47.260
+Oh man this through this, I was a lot of uh give us out a chance now how you feeling.
+
+00:17:47.030 --> 00:18:06.840
+Ah awesome now, what does anniversary of the main opponent we're going to completely modernize the pece we're going to make it safer more secure. We're going to make it more personal and productive and we're going to keep yeah, really, and gaze with this more personal computing idea. I want to start with that safer and more secure alright make some noise if you use windows hello today?
+
+00:18:08.080 --> 00:18:52.930
+Uh you member we launched this man biometric authentication with enterprise grade. Keepin folks secure with a most personal things possible your finger your your face. It's awesome. Um we see folks love in this alright is coming to apps people are buying things in the windows store using this drop box integrated. But today, I want to talk about another partner is very excited. That's usaa alright there. The largest financial service provider to are a US military and they're actually going to extend hello support for their website using Microsoft edge because I knew final spect interview 3. See this implemented an edge of this convenience and security of edge can actually light up here so check it out. We're going to say the website now. This is so easy. I wanna device right not as a role my fingerprint all I'm going to do is touch log on windows hello.
+
+00:18:55.220 --> 00:19:02.500
+And now it's asking me to touch my fingerprint and just like this, it logs in it's that fast. It's easy. It's safe it's secure.
+
+00:19:03.380 --> 00:19:04.600
+We are pumped about it.
+
+00:19:06.560 --> 00:19:27.650
+Now let's talk about more personal computing and get a little bit productive here right. Terry mention a new experience to put ink front and center all right. We're going to help you with windows ink create ida and collaborate better okay. Uh an why do we do this Brian? Why would you put in front and center because a lot. You are still use pen and paper make some noise if you still write stuff down all the time on pen and paper.
+
+00:19:29.460 --> 00:20:18.740
+Why do we do that we do it could it's fast it's easy it's right there? It's a media. It doesn't require set up but then sometimes you lose a piece of paper and you know, man, where was it so our goal of windows think it's really combined up the naturalness in the speed of pen and paper with a powerpc there's 4 parts of this number one we're going to put this pen front-and-center so you know what to do with it number 2. We're going to make sure we solve the task that people are reaching for pen and paper most for a number 3. I'm going to show you how windows think is actually a deeper platform that enables faster and more fluid ink flow throughout the entire windows experience. Alright so let's start with that first one put in the pen, front-and-center okay. So when I got my pen, I was super excited, but I wasn't always sure what to do with it or which app to use so we're solving for that. I'm going to push this pen button check this out. This is the ink workspace. All things in car here. These are the 3 task. People do most I'm going to jump in on that in a second, but look at.
+
+00:20:18.740 --> 00:20:41.760
+This my most recently used apps, I can get right back in and do what I was doing also down here. Tips and tricks so users are going to know what to do this pen, we're going to walk you through that another thing. I want to call out to you folks this right here suggested apps. This is one place where if I touch this. I'm going to go to a dedicated section of the store that just is amazing. Apso support 10 all right. So we're going to light that up for folks are going to know what to do with the pen were put in it right front and center what do you think about that?
+
+00:20:43.530 --> 00:20:51.600
+I'm just getting started alright? What about the tasks. We do most number one. We jot down things to remember make some noise if you sticky notes in your life.
+
+00:20:53.250 --> 00:21:42.280
+I'm not surprise all right up at 3 AM sells 50,000,000,000 sticky notes. A year, all right, so they on Windows 10. We have 8000000 monthly active users are sticky notes, and 3000000 daily active users so of course. We're going to make this better. I think it's almost like you know it's right here. Check this out here, I had some stuff. I had to make sure I showed you guys were doing good on that, so far, but watch this. I'm going to make a new note here. My mom always gets worried when I did the demo. Socas me, you know, she speak spanglish. She mixes it up. Orlando yeah, Brian I'm worried that the mother good? How are you feeling so I got always number call my mom after this? I want to make sure that tomorrow I call mom, but watch what happens when I write tomorrow. Okay, look first of all look how easy and smooth. This bank is flowing but watch what happens next. I wrote the word tomorrow because we're combining the power. The pen in the pece you see it turn blue that's cause. We're smart enough to know that was handwriting to know that it was a day so if I touch it my Homie, who rots.
+
+00:21:42.280 --> 00:21:57.230
+Reminders Cortana easily able to come up and actually set that reminder for me. Okay am beyond just set reminders of Cortana Bing is integrate will be able to recognize places up maps. This is gonna be very smart this sticky. Notes are Geniuses, where you guys think about that.
+
+00:21:58.700 --> 00:21:59.180
+Yes.
+
+00:22:01.280 --> 00:22:34.770
+Why else do we write things down sometimes when you scratch out an idea this? Is easier to communicate visually? How many times when you're moving furniture, Europe off a piece of paper you start down on it, you devs are no you run up to the white board and write a bunch of stuff and then at the end, you're like all wait. Let me photograph. The White Board and later try to decipher what those things were that made sense of the time. Okay, so we want to make sure you have a way to do that, and that's why there's a sketchpad now, so check this out. This sketch pad. I already wrote. Some stuff here for you and what you're going to see is uh. I wrote of course, Windows Lobsang. Can I get all?
+
+00:22:35.740 --> 00:23:09.030
+Yard that nice it was smooth and buttery. So it takes a while, so we put in ink front-and-center. I'm going to hit you with some stats here. We did a little survey and found out that 72% of people still use pen and paper or various writing instruments. A lot, that's 72% that users are actually more than one hour per day. That's crazy, all right now that's 7 in 72%. Now, 32%, actually use it for more than 3 hours a day so there's a lot of people using 10 all right now.
+
+00:23:09.520 --> 00:23:28.140
+Check out how did that it was quick it was easy it was immediate. I got there I can illustrate my dear you? Here's what I want to call out cause I have the power. The PCI canoes cool. Stuff like have a ruler so maybe these lines were not as cool as I wanted them to be look. How easily able to come in and rotate this, I can come in and get my line super straight. I can come in and do this Oh, yeah, I like it.
+
+00:23:29.260 --> 00:23:48.000
+You like it cool and of course, the last thing this is a bother me. If I don't do it. Your member back in grade school. The first thing you learn is that whenever you have a heart. You God put the arrow. You gotta do. That okay now because this is the powerpc yes. At that person was excited about the heart, I wrote that heart for my my person so.
+
+00:23:48.690 --> 00:23:59.020
+I'm not gonna lose this white board cause I have the powerpc you know what to say. I could have this for later. I'm go ahead and tweet it to you so this way. I'll have it, you remember that, we love what you guys think about that.
+
+00:24:00.360 --> 00:24:01.170
+No yes.
+
+00:24:02.060 --> 00:24:17.220
+Kind of course, we don't want to take to get in the way so if I actually go and lock. My p**** right now check this out. I'm gonna lock. It then and tiring work space is available above lock. I can get right back to what I was doing so when it's time to rock and roll. You grab me to buy some NASA button and you're ready to go man okay.
+
+00:24:17.930 --> 00:24:18.490
+Now.
+
+00:24:19.120 --> 00:25:08.420
+Beyond all this cool stop thinking is actually a platform so um. I'm going to really showcase now a couple things of how this is ax, extending great thinking experiences in the office. A maps app that we have and then also in Adobe, so check this out. I'm gonna start with maps. Sometimes it's hard to actually explain something to somebody as far as where it is a map look at this. I want to make sure you see. I miss I take my pen and make a little dot right here. What happens, though, that is a smart man. It becomes a point of interest at the Register point of interest. And if I want to go over here. Me somebody over you know by this by the water and make another dot now watch what happens, I just draw line connecting the dots and look what happened. This ink is smart enough to know those 2 points to know that distance and actually see what's happening there. Okay, and also you'll be seeing the uh we can easily get directions are not beyond that, um. Here's not say hell and if you make some noise if you play with the 3 section of this map before.
+
+00:25:09.180 --> 00:25:39.350
+Yeah, if you have not you gotta check this out. Let's say. I want to go for a hike and I found a really cool. Route is to go do this now watch what happens this tank is going to be smart enough again to to dry and know that that's 2, .1 miles watch. This I can make a little place and say here's where we're going to meet an then up here. I'll say maybe we're going to stop and do some lunch. Okay, and then uh right up here. Maybe I'm going to go and say here's what we're going to do a picture all right. So I'm making his custom. Ross is custom no third available across all my windows devices, but watch what happens look at this.
+
+00:25:39.960 --> 00:25:55.680
+When I turn this to 3, Dee that ink is smart enough to actually stick to that thing didn't know that the top of graphical map ballistic into it and watch this. When I actually rotate this little billboards and I wrote a smart enough to face me the entire time. As the power of the pan in the pece coming together? How do you feel about that?
+
+00:25:57.330 --> 00:25:58.200
+That's right.
+
+00:25:59.280 --> 00:25:59.930
+Now.
+
+00:26:01.160 --> 00:26:27.850
+I'm going to revisit some childhood trauma here, my teachers mark in red stuff in my papers consistently but check this out. We've all done it whether you're helping your children with their homework or if you're a teacher yourself, but look? How is this is now in word across at a word? It's gone. Maybe I don't like this whole paragraph okay. We've always had ink in the world, but watch how the text is actually flowing now. Also, if you're like me and you're not artistically inclined maybe when you highlight stuff. It looks like this. That's cool look. What happens your lap if you're like, I could never write it yes.
+
+00:26:28.560 --> 00:26:29.790
+Do a whole paragraph.
+
+00:26:30.410 --> 00:27:15.520
+Now also today PowerPoint does a great job in aligning things naturally on vertical and horizontal axis is but check this out, um let me show you what the ruler can do here, um so 2 things when I move this really with 2 fingers. I'm easy. I'm able to easily control the rotation when I use one that rotations locked So what I can actually do is move this down here and snap. These objects alongside this ruler alright so this is it is easily coming together. Yeah, now when I line. This up check this out. It's really easy for me to draw some cool little diagonal lines to make my slide looks awesome. That's the power the pen in the pece coming together, all right now beyond office beyond maps. We know that windows think is a platform for everybody and Adobe's embracing something to talk you through something. They made for us. Check this out what you're seeing right now, it's gonna come up.
+
+00:27:16.100 --> 00:27:51.880
+So it's very fake, but that's a stencil called a French curve. It's willfully fake they'll be does not want their tools to get in the artist's way alright, but watch what happens simultaneous pendant touches enabled with the Windows platform. Look how that artist is easily able to use touch and pen together to be able to actually make these perfect lines on the shoe with the French curve stencil I mean that's awesome. This is an empowering new experiences. The Tech is not getting in the way it's enabling that is the goal what you're seeing here is an example of the amazing up a latency. I lack there of more of the Windows platform. The ink is flowing completely smoothly at 10. I mean, you would never know that it's actually a device doing that because that's our goal. How do you guys feel about that stuff?
+
+00:27:53.230 --> 00:28:03.940
+Ladies and gentlemen that is just the beginning. There is no way I could show you all this on stage. There's so much more common and to kind of give you a glimpse into what we got going on. There's a little sizzle video take a look.
+
+00:28:06.320 --> 00:28:09.370
+Non.
+
+00:28:14.920 --> 00:28:21.010
+Non.
+
+00:28:22.350 --> 00:28:45.020
+Non thank.
+
+00:28:47.440 --> 00:28:48.300
+Is that awesome?
+
+00:28:52.260 --> 00:28:57.590
+All those experiences Brian just showed are built on our universal Windows platform.
+
+00:28:58.350 --> 00:29:03.930
+We design this platform for all types of apps from productivity to gaming.
+
+00:29:04.480 --> 00:29:05.510
+It's a holographic.
+
+00:29:06.490 --> 00:29:17.210
+We design this platform for all types of devices in phones and tablets. The PCs, I owe tied to large screens like surface somehow once or Xbox and more.
+
+00:29:18.240 --> 00:29:27.700
+And we designed this platform for all of our customers for all the needs of our commercial customers and for those of our developer partners targeting consumers.
+
+00:29:29.050 --> 00:29:30.820
+And this is an open platform.
+
+00:29:31.460 --> 00:29:43.800
+For over 30 years, Windows as welcome open ecosystem of hardware partners software partners developer partners. Wherever they are around the world and nothing changes with the Universal Windows platform.
+
+00:29:44.950 --> 00:29:58.980
+The Universal Windows platform brings together all of that windows history as well as everything that today's users expect from a modern a platform like a seamless and robust install uninstall dancing with updates.
+
+00:30:00.900 --> 00:30:10.020
+Thanks, now are 270000000 users of Windows 10 they visited the store over 5,000,000,000 times.
+
+00:30:11.180 --> 00:30:23.300
+And are universal Windows platform developers have responded with some incredible new apps. The number of new developers is growing month over month with a 60% growth in just the last few months alone.
+
+00:30:24.100 --> 00:30:29.250
+And these developers are bringing some incredible new apps to the store some coming very soon.
+
+00:30:29.960 --> 00:30:37.130
+Partners like Twitter Bank of America, Starbucks over Disney's Square, Enix, Yahoo Worldwide Wrestling and more.
+
+00:30:37.760 --> 00:30:47.060
+In Facebook will be bringing a new universal app for Facebook Instagram and Messenger to the store very soon.
+
+00:30:47.740 --> 00:31:07.880
+And thank you very excited to share the Facebook will also be bringing their Facebook audience network. An app install SDK to all of our universal Windows platform developers say 3000000 Facebook advertisers can reach their customers 3 your apps.
+
+00:31:08.570 --> 00:31:13.610
+Thank now this is not just.
+
+00:31:14.210 --> 00:31:18.900
+Momentum in the consumer space processing great adoption from our commercial customers.
+
+00:31:19.510 --> 00:31:25.480
+Thousands of organizations are now piloting the use of the windows store for business within their organization.
+
+00:31:26.470 --> 00:31:28.720
+Building incredible apps to take advantage of it.
+
+00:31:29.570 --> 00:31:32.640
+Let's take a look at one partner who is really leading the way.
+
+00:31:36.660 --> 00:31:39.030
+Boeing is the world's largest aerospace company.
+
+00:31:39.660 --> 00:32:29.520
+So majority the world's airplanes are commercial airliners fly today or bowing Bernie Trouble, 7, came out to that. We thought that was a pretty data. Richer blindness 787, sitting back there behind me produces 30 times as much data as the troublesome at every succeeding generation will be even more as part of a linkage alleviation. We develop software to provide operational efficiency for airline customers. The electronic flight bag is essentially the workflow for pilots friend preflight through post fly off until about 3 or 4 years ago, pilots with hairy 3040 pounds worth of paper or navigation charge. There en route for the life are developers shows Windows 10 because I had in flexibility of the platform to the needs of transitioning onto it and some opportunities to.
+
+00:32:29.520 --> 00:32:47.850
+Percent content that we've not had the full power future business is going to be more and more. The accumulation of different applications over universal in the platform will help us to cope with my life with real time decision making to our business is all about harnessing that data coming off the airplane for making decisions.
+
+00:32:55.480 --> 00:33:03.370
+So you can do things with universal Windows platform. You just cannot do on any other platform.
+
+00:33:02.040 --> 00:33:06.260
+And this is a developer conference, so I think it's about time we looked at some code.
+
+00:33:06.880 --> 00:33:08.590
+Please welcome Kevin gal.
+
+00:33:09.730 --> 00:33:12.780
+Thank you Terry.
+
+00:33:14.790 --> 00:33:16.620
+Good morning, I'm so excited to be here.
+
+00:33:18.040 --> 00:33:27.190
+We know that every innovation and step forward with Windows is only as powerful as the ecosystem that rallies around it.
+
+00:33:27.900 --> 00:33:31.750
+That means not just building investments in windows for customers.
+
+00:33:32.410 --> 00:33:51.180
+More importantly, investing in windows for you are developers and not just a building windows apps either. But whether you're building your cloud services websites or even apps rather platforms. We want windows to be the place where you can be the most productive and successful.
+
+00:33:52.120 --> 00:33:55.790
+We want windows to be home for developers.
+
+00:33:57.160 --> 00:34:10.430
+Thank you. Let's start with some of the news innovations coming to universal Windows platform in how are enabling developers to push the envelope with natural input intuitive design?
+
+00:34:13.010 --> 00:34:16.260
+So here I have an application that built its gonna launch it here.
+
+00:34:17.530 --> 00:34:48.830
+Now, one of the great thing about native applications is the ability to really harness. The power of the Jeep, you in the old stunning in one point differentiated user experiences for your apps. We've added hardware accelerated 60 frames per second. Animacion affects these effects bring richer and more immersive designs that create a sense of depth layering in Fluidity, which help major apps more delightful intuitive to use semi app. I've been for me. Just a few of these and I want to show you the first one here is a blur effect.
+
+00:34:48.920 --> 00:35:38.620
+Pies so you can build some of the advance experiences that Brian showed you this is where I get all my strokes and drawing all that capability is all built into the single control for interesting new control at the stock control now built into the SDK. This is the ink toolbar. You also Sir Brian use. This has the pen, the tips eraser and that ruler that we showed you and all how to do was do a binding statement here from the actual toolbar to the canvas so knows which canvas is acting on 2 lines is animal. That's all you have to do. Let me show you what I get for those 2 lines. Just you know it's real so here I can just go start drawing right here on top of this chart. You can highlight something here and pointed out and I can also just pop up my ruler who here can move the ruler in your kind, maybe trying to find have their own eyes good Brian at this.
+
+00:35:38.840 --> 00:35:45.470
+And secondly draw some lines here between it and you see all of that with just those 2 lines of just those 2 lines exam.
+
+00:35:45.490 --> 00:35:57.080
+Make an war this is resonating with our web community. We've seen lots of highly rated web apps submit it to the Windows store, including America expressed Yahoo Mail Zoo Lilly and more.
+
+00:35:57.620 --> 00:36:12.440
+However, when we talk to develop web developers, they still struggled with using windows as their primary that box as many of them have workflows. Chelan open-source command line tools scripts and frameworks.
+
+00:36:13.100 --> 00:36:14.150
+We're going to fix that.
+
+00:36:14.790 --> 00:36:26.150
+So Windows can be your home, so today. I am so excited to announce the bash shell is coming to Windows. Non Yes,
+
+00:36:26.850 --> 00:37:16.860
+No real bash is coming to Windows. This is not a Villa and this is not cross compile tools is his native born to linex binaries running on windows to the Magic of the new windows subsystem appearances to the windows store. They can leverage your existing web investments and at the same time get full access to native capabilities like Cortana. Bluetooth ink and war. This is resonating with our web community. We've seen lots of highly rated web apps submit it to the Windows store, including American Express, Yahoo Mail Zoo Lilly and more. However, when we you know talk to develop web developers. They still struggled with using windows as their primary that box as many of them have workflows Chelan open-source command line tools scripts.
+
+00:37:16.990 --> 00:37:17.920
+And frameworks.
+
+00:37:18.660 --> 00:37:19.670
+We're going to fix that.
+
+00:37:20.330 --> 00:37:31.680
+So Windows can be your home, so today. I am so excited to announce the bash shell is coming to Windows. Non Yes,
+
+00:37:32.390 --> 00:38:22.400
+No real bash is coming to Windows. This is not a Villa and this is not cross compiled tools is his native born to linex binaries running on windows to the Magic of the new windows subsystem appearances to the windows store. They can leverage your existing web investments and at the same time get full access to native capabilities like Cortana. Bluetooth ink and war. This is resonating with our web community. We've seen lots of highly rated web apps submit it to the Windows store, including American expressed Yahoo Mail Zoo Lilly and more. However, when we talk to develop web developers. They still struggled with using Windows as their primary dad box as many of them have workflows Chelan open-source command line tools scripts.
+
+00:38:22.520 --> 00:38:23.520
+And frameworks.
+
+00:38:24.170 --> 00:38:25.210
+We're going to fix that.
+
+00:38:25.870 --> 00:38:37.220
+So Windows can be your home, so today. I am so excited to announce the bash shell is coming to Windows. Non Yes,
+
+00:38:37.920 --> 00:39:07.980
+No real bash is coming to windows. This is not a veum. This is not cross compiled tools is his native born to linex binaries running on windows to the Magic of the new windows subsystem. We parted with Canonical to deliver this great console experience, which you'll be able to download directly from the windows store inside a bash you have access to the native file system Vichy 100 support as a sage in all of your favourite command line tools. Let's dive into Tech and take a look.
+
+00:39:08.000 --> 00:39:21.250
+I'm all these demos. I miss Kahn comments and code does it takes too long to actually go modified also my comment that code in Ruby? It's saved all in. I need to do is uh restart the application so I get the latest version.
+
+00:39:22.160 --> 00:39:52.690
+Salsa's pop over here launch it, you might notice here. It added a new menu item at my you. I did so I can say a scan check here negative native experience I got this uh check here from a Giorgio $4000. But I'm really not can actually take a picture of his last time it bounced self. I miss can exit out here and be done so. Uh you know with fast coming and I get that native experience because they are the native app. APIs that I'm actually calling someone to save that.
+
+00:39:53.500 --> 00:39:58.710
+Now I'm going to ssh and to my linex Vienna sure there.
+
+00:40:00.070 --> 00:40:02.420
+Try to figure out my password.
+
+00:40:02.930 --> 00:40:03.750
+So here.
+
+00:40:05.230 --> 00:40:06.560
+What I'll do it again?
+
+00:40:07.060 --> 00:40:09.270
+Emacs and modify this file.
+
+00:40:12.200 --> 00:40:26.790
+So you know like I'm always demos. I miss Kahn comments encodes it takes too long. To actually go modified also my comment. That code in Ruby. It's saved all in. I need to do is uh restart the application so I get the latest version.
+
+00:40:27.690 --> 00:40:58.220
+Salsa's pop over here launch it, you might notice here. It added a new menu item at my you. I did so I can say a scan check here negatives native experience I got this uh check here from a Giorgio $4000. But I'm really not can actually take a picture of his last time it bounced self. I'm is going to exit out here and be done so you know with past coming and I get that native experience because they are the native app. APIs that I'm actually calling someone to save that.
+
+00:40:58.240 --> 00:40:58.700
+I think.
+
+00:40:59.590 --> 00:41:03.000
+For your son on work site.
+
+00:41:04.110 --> 00:41:11.130
+So no one asked how many people here have built either a win 32 at ora.net application.
+
+00:41:12.210 --> 00:41:12.810
+Who?
+
+00:41:13.530 --> 00:41:42.200
+Alright thank you for being a part of our windows family in so today. I'm excited to announce that we're adding desktop app. Converter for win 32 in.net apps and games with this converted does it takes in existing desktop app and converted into a centennial where we can now call a modern desktop app developers can now take advantage of the modern apps and games and submit them to the windows store.
+
+00:41:42.790 --> 00:42:02.800
+With this conversion code continues to run with very minimal changes. In addition, modern desktop apps also have access to all universal. APIs you know with fast coming to windows, bringing the power of open source command line tools to Windows.
+
+00:42:03.330 --> 00:42:04.290
+What do you think?
+
+00:42:05.140 --> 00:42:08.720
+Pretty awesome non work site.
+
+00:42:09.650 --> 00:42:16.630
+So now I want to ask how many people here have built either a win 32 at ora.net application.
+
+00:42:17.740 --> 00:42:18.350
+Who?
+
+00:42:19.070 --> 00:42:47.740
+Alright thank you for being a part of our windows family in so today. I'm excited to announce that we're adding desktop app. Converter for win 32 in.net apps and games with this converted does it takes in existing desktop app and converted into a centennial where we can now call a modern desktop app developers can now take advantage of the modern apps and games and submit them to the windows store.
+
+00:42:48.330 --> 00:43:02.200
+With this conversion code continues to run with very minimal changes. In addition, modern desktop apps also have access to all universal. APIs rain running on Windows 10.
+
+00:43:02.780 --> 00:43:06.410
+Let's see this attack, yes thank.
+
+00:43:08.850 --> 00:43:09.340
+So.
+
+00:43:10.120 --> 00:43:59.850
+Here, I am a kick this off. I'm running the desktop app. Converter takes existing installer in this case, it's an MSI, but it can be a setup that actually any installer out there and it's converting we working with sage who is an industry leader in accounting software to convert their siege 200 application into a modern desktop app. Converted then will produce in Apax package. That's age can take in submit to the windows store just like any other universal application. So what I'll do here is the app. Erica produce so I just double click on it now we've added support for double click on top of that Texas to make it easy to install in debugging locally guess night will delight are right there fine so don't get live tiles in full integration of actually already installed it from the store and so you can see here in the start menu. My win 32 application stages winter.
+
+00:43:59.850 --> 00:44:07.010
+Application is now have access to live tiles on the show. Some self figures and click it here and launches the application.
+
+00:44:08.130 --> 00:44:14.910
+Is that you see it also is able to pass the toast angle dismiss? Let me show you this in visual studio? What I had to go do to do.
+
+00:44:15.490 --> 00:44:51.250
+So there this is a single solution here and I have 2 projects. The first is the win 7 codes is just are standing winter 2 cohere with no modifications. So why modified it. I didn't have to it would have just worked then I added. This extra project, which is the universal code that although the live tiles and So what happens is when sage loads able to check if it's running on Windows 10, then reloaded dll and use the extra functionality. Otherwise continues like it was and over here, you see that boilerplate standard. You know, I'm not sick ation in lifestyle code that is just straight out universal windows code.
+
+00:44:52.580 --> 00:44:58.360
+So I'm also happy to share that sage 200, will be coming to the windows store this summer.
+
+00:44:59.030 --> 00:44:59.570
+And.
+
+00:45:00.640 --> 00:45:26.320
+Fasten for those of us use installshield or the which tool set. We're working with both sex error in fire giant to produce modern packages directly so you don't even have to use a converter. You set up date in this at your project and they get both in Apax as well as Riverside. We're making it easy for developers to bring them more than 16000000 win 32 indicted apps to the windows store.
+
+00:45:27.310 --> 00:45:54.270
+Now finally we want windows to be your home, not just for developing apps for Windows for developing apps for all devices. When I talk to developers. I hear them any reusing architecture. We have a shared Common Core then you build native you why for each of the us each of the platform that you're targeting and finally you light up native capabilities with platform specific APIs for things such as the camera notifications in Commerce.
+
+00:45:55.080 --> 00:46:10.760
+For csharp developers, they typically start with you wpa to grow target the grow ever growing base of Windows 10 devices in now exam. Are you can target iOS and Android as well. Let me hop over Visual Studio and show you.
+
+00:46:13.860 --> 00:46:30.860
+So here we're looking at the code for the real Microsoft Health app, which is a companion app to the Microsoft Band and you guys got bands out there absolutely awesome. So Microsoft band users have Windows Android and iOS devices. So the whole team needs to have an app for all of them.
+
+00:46:31.700 --> 00:46:46.760
+Do you to be pea app they started with uses a example you? Why on top of a csharp library contain the core business logic and the service connectivity because the health app was designed this way. He was easy to use Ameri to take it to iOS and Android.
+
+00:46:47.690 --> 00:47:37.230
+Let me show you hear the project so at the bottom here is one of the price. I have this is the bulk of the code. This is all the shared code among all the different platforms and you see is a huge amount of Coke really is. Like I said, This is the actual health application form a show in the code and left sided and want to share that it's like a lot of you don't want to show it, sometimes a real code not. It's pretty easy. One and now I have a word projects reach the heads one for their universe labs. They started with anyone for iOS and one for enjoyed the nice thing is with Sam are you can not only the bug um? Get me later for windows, but we now also have the ability to do the Inner Loop to cycle development for their Android head, she had the Android emulator here that you can go run and the wind is there any later as well. In addition for iOS developers we've also added.
+
+00:47:37.230 --> 00:47:51.070
+Belletti to have a remote designer so you stay in Visual Studio your entire time. Who loves staying in visual studio. The entire time. I do here is going to remote designer Infinite week that you why in that we could fire West as well.
+
+00:47:51.760 --> 00:47:57.280
+So Windows can now be your home for developing apps for all devices.
+
+00:47:58.050 --> 00:48:15.250
+Now before I go? I want to personally thank you. Our developers who have taken the time to give us feedback and departed with us to build a great platform together keep the feedback coming. We cannot build a platform without you now back to Terry.
+
+00:48:20.850 --> 00:48:28.620
+Thanks Kevin thanks anniversary. Update we've really been focused on making Windows 10 the best home for all of your development.
+
+00:48:30.090 --> 00:48:32.250
+Nami to choose whatever show you one.
+
+00:48:32.720 --> 00:48:38.510
+Where the power shell dos bash are more coming soon?
+
+00:48:39.260 --> 00:48:44.400
+Enabling you to embrace new device capabilities like Windows World Windows Inc.
+
+00:48:45.340 --> 00:48:56.590
+Enabling you to take yourexisting.net win 32 applications and distribute them in this through the windows store and enhance them with all the new device capabilities, we've been talking about.
+
+00:48:57.630 --> 00:49:02.720
+Running a bring it to build anew.net code bases and take them cross platform.
+
+00:49:03.830 --> 00:49:13.310
+And, of course, if you're working for the highest performance precision laptop and tablet to do all of your development on we have surface book.
+
+00:49:14.030 --> 00:49:18.380
+There really is been no better time to be a windows developer.
+
+00:49:19.100 --> 00:49:28.730
+Thank now with this anniversary update we have experiences that go beyond the Peasy.
+
+00:49:29.900 --> 00:49:39.060
+Take gaming you want to go beyond your mobile devices into your living room, you taking advantage of the game console, you have there your Xbox One.
+
+00:49:40.220 --> 00:49:46.590
+Or how once this is the world's 1st fully untethered holographic computer.
+
+00:49:47.950 --> 00:49:49.470
+In the last few years.
+
+00:49:49.960 --> 00:49:52.320
+Holman's is gone from a dream.
+
+00:49:53.130 --> 00:49:54.340
+To a prototype.
+
+00:49:55.220 --> 00:50:00.490
+And now today, we get to see real customers are doing with it every day.
+
+00:50:02.570 --> 00:50:15.270
+Now, thank please welcome Phil Spencer discuss gaming and then Alex Kidman will join us to discuss Holographic Computing Thanh on.
+
+00:50:21.010 --> 00:50:31.450
+Puts more sports, 6 Apex is the first step in the forts a franchise moving to Windows 10. It's a focused experience that brings the best of what motor sport has to offer 2 new player on the PCB.
+
+00:50:33.610 --> 00:51:23.040
+Apex is actually approve point of what the first party can do with utopian directx 12 non with Universal Windows platform were able to drive it at 4 Cayenne 60 frames a second. The highest Fidelity. We've ever delivered the universal aspect. That's a real true promise for us is the ability to write our code once we're still going to Taylor that experience of that it's the best thing you can get an Xbox the best thing you can get on. He see what it means is it's reduced the developmen time for us and I really surface is not only in the code that we write but also the tool, said that we get to use an that's the thing that's going to grow the most overtime. Nonetheless, the first party is to make sure that that platform that everyone's running on is the best one that they can deliver games on moving forward all of our games are going to be shipping on Windows 10 Xbox Non-universal.
+
+00:51:23.020 --> 00:51:33.910
+This platform is great for the game developers and gamers alike. It's going to become even more powerful as a way of delivering amazing experiences across all of the devices in windows ecosystem.
+
+00:51:41.550 --> 00:51:46.350
+Thank you.
+
+00:51:51.860 --> 00:52:05.100
+Hello everyone good morning. I'm Phil Spencer. I'm proud to represent to be here. My very first build conference to represent the talented and creative teams responsible for gaming at Microsoft.
+
+00:52:06.290 --> 00:52:18.750
+You've heard this morning about how windows is the best platform for developers today. Will spend time talking about how windows is the black best platform for the vast community of game developers.
+
+00:52:19.370 --> 00:52:32.730
+The Universal Windows platform provides developers the ability to write a game and deployed across all Windows 10 devices from desktop PCs, tablets and phones an Xbox One.
+
+00:52:33.260 --> 00:52:34.160
+This morning.
+
+00:52:35.000 --> 00:52:56.800
+Thank you this morning. We will demonstrate how Windows 10 provides the most productive and efficient platform for developers of all sizes because Windows is and will continue to be an open development ecosystem where anyone can build deploy sell and service their games and applications.
+
+00:52:59.000 --> 00:52:59.380
+Thanks.
+
+00:53:00.560 --> 00:53:17.210
+In the opening video we got to hear directly from one of our first party studios turn 10 on the impact of the Universal Windows platform had on bringing ports of Motor Sport 68 packs to Windows 10 and how you wpad can benefit both developers and gamers alike.
+
+00:53:17.950 --> 00:53:26.030
+Through the Universal Windows platform our plan is delivered games that will run better on windows with more predictable performance.
+
+00:53:26.670 --> 00:53:46.770
+More robust install uninstall in servicing capability through a modern application platform and greater safety for users through are protected runtime environment and distribution of modern desktop applications on any store, including the windows store and be any development deployment mechanism.
+
+00:53:48.180 --> 00:53:59.550
+We recently launched 3 blockbuster franchises in the windows store rise of the tomb Raider gears of war ultimate edition and just yesterday killer instinct season 3.
+
+00:54:00.800 --> 00:54:05.120
+And I'm looking forward to the upcoming launch of quantum break next week.
+
+00:54:05.680 --> 00:54:21.820
+We have heard the feedback from the pece gaming community loud and clear and we're working to ensure Windows 10 has a great game experience. We will be enabling the ability to disabled isync and adding support for Gee, sinking free sink in May.
+
+00:54:22.510 --> 00:54:31.650
+Directx 12 added support for new multiple Jeep Eugh scenarios, which work today for both Windows 32 can you Wii Games?
+
+00:54:32.540 --> 00:54:45.790
+And we're committed to ensuring we meet or exceed the performance expectation of full screen games as well as the additional features requested including support for overlays mading in more.
+
+00:54:46.980 --> 00:55:03.090
+We also know many of you have win 32 game code base is today and we want to give you access to the ability to easily package your games as modern desktop applications through the desktop app converter. Let's take a look and see how that works.
+
+00:55:04.090 --> 00:55:37.580
+So one of my favorite games and I hear it's a a favorite of our founder is age of empires, So what we did is we took age of empires 280. You can see it, then to the start menu. Now this is the package. You would get from steam where it's available today and in fact, if you watch you'll see the live tile turn and you'll see the number of people that are actually playing this game live right now and steam works. We have 5223 players So what we did is we took the package from steam ran it through the Converter and turn it on modern desktop application so let's wanted to see how it runs.
+
+00:55:38.250 --> 00:55:39.540
+Can see at launch?
+
+00:55:40.350 --> 00:55:41.610
+Our splash screen.
+
+00:55:43.260 --> 00:55:44.590
+Steam works kicks up.
+
+00:55:45.820 --> 00:56:11.850
+And here it is so we're now in age 2, running just as it would run if you bought it from Steve Today, Multiplayer is here, one of the requests. We've heard from people's support for my odds and how that's going to work so if you know anything about age too. You know in the steam workshop. We have the mod. Here's the list of mods that are available for age do. I could select any of these apply am against the running went running version of the game here, and they would work just fine. But I want to actually boot a game.
+
+00:56:12.650 --> 00:56:15.510
+Just show use proof is here without.
+
+00:56:17.190 --> 00:56:31.990
+And there, you go so age do 80 running is a modern desktop applications taking advantage of all the features that Windows stands enabled something while I love age to one of a want to challenge ourselves a little more to see how our platform is holding up.
+
+00:56:32.780 --> 00:56:47.170
+So we did an experiment in this is just an experiment with our friends at Sidi Project Red. We took the Witcher 3. But for many people with a 2015 p**** game of the year. An amazing game ran it through the same converter and let me show you how it works.
+
+00:56:48.550 --> 00:56:50.370
+So here it is been to the start menu.
+
+00:56:53.370 --> 00:56:55.180
+Bigger game takes a bit longer load.
+
+00:56:58.470 --> 00:57:01.570
+Here it is So what you see.
+
+00:57:04.780 --> 00:57:09.550
+Is there it is the Witcher 2 running at full frame rate as a modern desktop application?
+
+00:57:14.370 --> 00:57:29.460
+This allows these games to take advantage of the common services in technology. Both Xbox in Windows 10 things like platform specific features like live tiles support notifications like you just saw on this demo in Kevin's demo earlier.
+
+00:57:30.050 --> 00:57:39.270
+We have consisted input support with controller and mouse and keyboard across all of our devices and distribution in the windows store or any other store.
+
+00:57:41.360 --> 00:57:52.760
+We've said from the start. We want Xbox want to be a great place for games and also a great place for developers of all sizes, so you can create new games and application experiences.
+
+00:57:53.520 --> 00:58:03.290
+Today I'm pleased to announce Xbox Devmode, giving developers the ability to convert the retail Xbox One into a development kit.
+
+00:58:03.880 --> 00:58:04.380
+Sleep.
+
+00:58:05.470 --> 00:58:28.210
+Please welcome actually Spiker former Xbox platform team to show us. How thanks I actually we're building a truly universal platform where your apps from everywhere, including the Xbox One, which provides a huge opportunity for app developers to bring their experiences to life in the living room. So now I'm going to show you how anyone can take a retail Xbox One and turn it into a dev kit.
+
+00:58:29.610 --> 00:58:39.140
+Okay, so uh I was playing Ford's over here, but I really want to do is work on my app. Ash photo which I'll show you in a minute, but first I need to put my console into devmode.
+
+00:58:39.940 --> 00:58:54.800
+So go over here and I'll run the devmode activation app, which I've already downloaded from the store. This app allows you to register your console as a dev console, which I've already done using my same account in dead center were I submit all my other you wpa applications.
+
+00:58:55.990 --> 00:58:59.080
+This means that I can switch to download with a single button press.
+
+00:59:00.730 --> 00:59:13.570
+Once the Xbox is finished rebooting it will be in devmode, which means I can deploy and bug. Mia now well attributing. Let's go over here to the peace yanne look at ash photo running on the pece where I'm actually writing it.
+
+00:59:15.010 --> 00:59:19.780
+So you can see how the you elements moving to just as I change the size of the window.
+
+00:59:20.890 --> 00:59:24.720
+And now let's see how we can deploy the steam app to the Xbox One.
+
+00:59:25.330 --> 00:59:34.830
+So I'll stop bugging over here in the p**** and I'll switch local machine too. Remote machine, um. This is the Ipea Addressof My Xbox and then I'll just say go.
+
+00:59:35.390 --> 00:59:42.440
+And since I've already paired visual studio with my Xbox I can do a remote applied is like any other universal windows device.
+
+00:59:43.730 --> 00:59:45.500
+Yeah, right non.
+
+00:59:46.450 --> 00:59:47.260
+Okay.
+
+00:59:49.930 --> 00:00:02.490
+Right so that's my console and here's my app running on my Xbox One. Um so this is the exact same code that we were just debugging over here, but now that it's on the console you can tell that it's been optimized for the living room.
+
+01:00:03.460 --> 01:00:10.190
+Good news is at the Universal Windows platform did a lot of the heavy lifting for example, the controller just works.
+
+01:00:10.750 --> 01:00:19.240
+All the same controls have already been optimized to work with the game pad just like you would expect including focus navigation and not just an Xbox.
+
+01:00:19.990 --> 01:00:29.170
+It works, the same way on the desktop when you have a controller plugged in. In fact, all the ammo controls are designed to work great with touch mouse in controller.
+
+01:00:31.060 --> 01:00:33.300
+Yeah tells a lot.
+
+01:00:34.740 --> 01:00:36.130
+It also means that.
+
+01:00:36.740 --> 01:00:41.180
+You can continue to test when you don't have your Xbox look in your flight back home.
+
+01:00:42.470 --> 01:01:05.490
+Now, since this is a universal windows application. It also has access to the same universal. APIs, including APIs for speech recognition and synthesis. So I've added a fun feature, which allows me to add speech bubbles in my photos. I can simply use a speech recognizer to fill them in which an Xbox is way easier than typing. So let me show you how this works well captain. This photo right now.
+
+01:01:08.990 --> 01:01:10.470
+Lions bark right.
+
+01:01:13.480 --> 01:01:14.910
+There we go.
+
+01:01:14.990 --> 01:01:17.500
+Thanks so much easier than typing.
+
+01:01:18.800 --> 01:01:30.310
+Okay. I want to show you guys one more thing, so In addition to the devmode activation app. I showed earlier. There's another app called Dev home, which will automatically get loaded on to your console once you put it in devmode.
+
+01:01:31.690 --> 01:01:48.250
+And when you run it has everything that you need is a developer from anything from account management to developer settings. Most importantly, once I'm done working on my app for the night and I want to go back to playing sports. I can just go ahead and press leave developer mode and then back to read download.
+
+01:01:49.150 --> 01:01:53.070
+I should mention that a preview of demo will be available starting today.
+
+01:01:57.690 --> 01:01:59.520
+Thanks, Ashley.
+
+01:01:59.610 --> 01:02:16.180
+Our commitment to turn every Xbox One into a dedicated kid isn't a hobby. It's a commitment. It's a commitment to empower every developer on the planet to reach the largest addressable TV audience on one open app platform.
+
+01:02:17.720 --> 01:03:00.440
+But enabling developers to create and deploy you wpa apps and games on Xbox One is just the beginning with the upcoming Windows 10 anniversary. Update we will continue our progress that brought Xbox Live to wall. Windows devices in the Xbox app. Windows 10 were millions of gamers are connected around the world. We will also be adding a single una fide store across devices, giving developers new features and consumers, a consistent experience new support will be will include features that game developers have come to expect and require from Xbox One into the windows store, including support for bundles season passes pre orders and more.
+
+01:03:01.030 --> 01:03:14.070
+We will also be bringing Cortana to Xbox One Cortana will become your personal gaming assisted with help to help you find great new games new challenges or help you with tips and tricks.
+
+01:03:14.980 --> 01:03:22.730
+In the foundation for some of the most requested new features features like background music, which will also come with the anniversary update?
+
+01:03:26.510 --> 01:03:32.230
+Will announce new anniversary update features for Xbox One in Windows 1083 in June.
+
+01:03:33.170 --> 01:03:41.120
+Finally, I want to close with the technology that allows developers to maximize their own investment across Xbox One in Windows 10.
+
+01:03:41.790 --> 01:04:12.340
+Directx 12 allows developers to unlock the full potential of the graphics hardware in PCs in an Xbox One. It's the most powerful inefficient graphics API. We've ever shipped. We're seeing incredible industry adoption of directx 12. In fact, it's the fastest adoption of any directx version in history. Let's take a look at what that power can deliver when put in the hands of the greatest developers on the planet thank you.
+
+01:04:18.990 --> 01:04:22.630
+Non.
+
+01:04:42.610 --> 01:04:44.140
+Non.
+
+01:04:52.200 --> 01:04:53.570
+Non.
+
+01:05:13.150 --> 01:05:16.790
+Non.
+
+01:05:27.080 --> 01:05:28.370
+Good morning, everyone.
+
+01:05:29.070 --> 01:05:49.000
+Wow, what a phenomenal time to be a windows developer case realise that from Xbox to holograms windows and are universal platform is where this future is being created a future that is impossible on any other platform or set of devices.
+
+01:05:50.010 --> 01:06:08.300
+Last year, he rebelled we asked you to share in our dreams for holographic tomorrow. A future where we bring 3. Dee holographic content into the real-world enhancing that way we experience life beyond our ordinary range of perception.
+
+01:06:09.010 --> 01:06:09.950
+And today
+
+01:06:10.620 --> 01:06:15.620
+Today is the day where we leap from dreaming about makes worlds.
+
+01:06:16.170 --> 01:06:22.290
+To having Microsoft Hollow lens become a reality exclusively on Windows 10.
+
+01:06:22.800 --> 01:06:23.420
+And we have.
+
+01:06:25.010 --> 01:06:27.060
+Thank you.
+
+01:06:28.350 --> 01:06:36.030
+In to help us celebrate this moment. Let's help me welcome onstage hollow lenses. Co creator kudos you know to.
+
+01:06:38.590 --> 01:06:39.390
+Hey Kudo,
+
+01:06:40.640 --> 01:06:41.670
+Thanks Alex.
+
+01:06:43.060 --> 01:07:04.470
+Were related to announce and we couldn't be more proud that today? March thirty years 20:16 Microsoft Hollow lens. The first and still the only untethered holographic computer will start shipping to our windows developers and to our enterprise partners our journey starts right here.
+
+01:07:05.130 --> 01:07:11.140
+Right now with all of you are creators are dreamers are windows developers.
+
+01:07:12.790 --> 01:07:14.540
+Should we love for love?
+
+01:07:19.750 --> 01:07:22.470
+I have waited for this moment for a very long time.
+
+01:07:24.250 --> 01:07:33.890
+And becomes Hollow Lance is a Windows 10 device. All of our tools are familiar in your investment in you doubly peace will continue to carry forward.
+
+01:07:34.420 --> 01:07:44.040
+But to help a little bit with inspiration. Let me update you on a project that we launched earlier this year called share your idea.
+
+01:07:44.650 --> 01:07:59.660
+The community submitted ideas for applications that we could build all of you voted in. We built it. We built Galaxy explore in just a short 6 weeks and we chronicled a project all along the way.
+
+01:08:00.320 --> 01:08:14.070
+This week, we finish the project and today we are announcing that the project is going to go up on the windows store and all of the code will be made available online. The again have let's take a quick look.
+
+01:08:17.420 --> 01:09:04.620
+Woodhall instead kids about to go out into the world we ask the community. What would you want us to build after so many more than 5000 ideas you voted for Galaxy explore we've invited you into the process of brainstorming prototype being in developing for Holland's Galaxy explore is a jumping-off point for developing for Holland's so you can actually download all of our source code and see how we incorporated gaze gesture voice spatial sound and spatial mapping and then use that directly in your own projects. We wanted to show you how we actually develop pass through videos in Blanco's we let you into our development process. We also brought in to share your idea contributors take a look at Galaxy exploring give us feedback from the community seems like there's so many possibilities graph are building apps. I want to push creative boundaries names.
+
+01:09:04.670 --> 01:09:05.450
+To escape.
+
+01:09:06.190 --> 01:09:10.480
+There's still so much more you can now we want to see what ideas you can.
+
+01:09:11.280 --> 01:09:18.900
+They were really seem to have in the source code to you. You can extend the source code or you can use it as inspiration for your own amazing idea.
+
+01:09:19.600 --> 01:09:24.890
+Now balance here, we can't wait to see these non.
+
+01:09:36.000 --> 01:09:37.560
+From individual developers.
+
+01:09:38.680 --> 01:09:47.720
+To customers like Volvo Autodesk and Trimble, thousands of people have experience holo lens over the last year.
+
+01:09:48.350 --> 01:09:59.710
+Dreaming about holographic experiences that eventually become pilots and ultimately become a real experiences deployed in production.
+
+01:10:00.260 --> 01:10:03.740
+That changed the way we work communicate learn and play.
+
+01:10:04.780 --> 01:10:13.970
+Thank you school buildings as an example. They are rethinking the entire construction planning process from first-pitch through ground breaking development.
+
+01:10:14.920 --> 01:10:24.340
+Or take Japan Airlines on the other hand, they have a vision for holographic computing that will impact every area of their training and operations.
+
+01:10:25.330 --> 01:10:43.530
+Now these are just 2 examples of companies and organizations of all shapes and sizes across a wide range of Industries, who are piloting amazing. Universal Windows applications created specifically for mixed reality in our new holographic landscape.
+
+01:10:44.710 --> 01:10:45.560
+But pilots.
+
+01:10:46.280 --> 01:10:47.380
+In proof of concept.
+
+01:10:48.020 --> 01:10:50.260
+Eventually move into production.
+
+01:10:51.440 --> 01:10:55.610
+Last year, he rebuilt professor Mark Griswold join me onstage.
+
+01:10:56.620 --> 01:11:02.630
+And we showed you a proof of concept where we use hollow lens to innovate what how medical students learn.
+
+01:11:03.500 --> 01:11:18.960
+At the same time Case Western Reserve University and the Cleveland Clinic bro. Ground in the construction of their brand new medical school. A facility amazing facility that will use hollow lens as a key part of their curriculum.
+
+01:11:19.640 --> 01:11:41.320
+Now over the last 2 months, 12 months. This proof of concept has moved into production in today. I am honored to have doctor Pamela Davis Dean of Case Western Reserve University School of Medicine. In 2 of our team members. Henry and Jeff join us to tell us more about teaching medicine with holo lens welcome.
+
+01:11:42.280 --> 01:11:44.820
+Doctor Davies think if I say.
+
+01:11:47.040 --> 01:11:48.080
+Good morning.
+
+01:11:48.660 --> 01:11:53.480
+A Case Western reserve our motto is think beyond the possible.
+
+01:11:54.270 --> 01:12:01.140
+And today we in the Cleveland Clinic are constructing a state of the future health education campus.
+
+01:12:01.950 --> 01:12:11.930
+Within this building our students will learn using the most forward use looking educational programmes holo lens is a key part of this.
+
+01:12:12.840 --> 01:12:18.570
+Now last year, we showed a few things that we thought might be possible with holo lens.
+
+01:12:19.630 --> 01:12:26.560
+Since October, we've had a small team of 3 computer programmers, turning our ideas into reality.
+
+01:12:27.480 --> 01:12:37.550
+Today we're going to show you some of our work on our holographic. Anatomy program an example of the hours of curricular content that we have created?
+
+01:12:38.590 --> 01:12:55.270
+Now Anatomy is all about mastering the complex systems in the body and you can see from the digestive system here that there are a lot of parts in a small space and students need to understand not only how these parts fit together, but how they work together.
+
+01:12:55.910 --> 01:13:01.590
+Henry can you tell us which organ in the body aids in digestion and also makes insulin?
+
+01:13:02.620 --> 01:13:11.310
+Yes, that would be the pancreas could be a little hard to see it behind the stomach here, thankfully with holo lens. It's really easy to get the best view of things.
+
+01:13:13.320 --> 01:13:18.410
+Now, another area that's difficult for our students to fully grasp is the nervous system.
+
+01:13:19.210 --> 01:13:26.950
+Hollow lens can make this much easier by improving our interactive learning beyond the single classroom.
+
+01:13:27.820 --> 01:13:33.790
+Professor Mark Griswold can teach us about the anatomy of the brain, even though he's in Cleveland.
+
+01:13:34.400 --> 01:13:37.820
+Let's show, you how this works are you there mark.
+
+01:13:39.350 --> 01:14:05.590
+I am Hi Pam, my everybody. Welcome to our new classroom. This is our new system that allows me to teach and interact with you, even though I'm not there, it build. I'll tell you this feels really natural. The 3 of us can see each other's. We're talking which makes us feel connected and even though you can only see my head and hands you get a sense of my body language. This is really changing what it means to be in class.
+
+01:14:06.380 --> 01:14:08.980
+Mark let's show them the white matter tracts.
+
+01:14:10.050 --> 01:14:17.030
+These tracks act like superhighways, allowing messages to travel from one part of the brain to another.
+
+01:14:17.930 --> 01:14:27.950
+This example comes from an MRI scan of a real patient from the laboratory of Professor Cameron McIntyre at Case Western Reserve University.
+
+01:14:28.890 --> 01:14:47.160
+It's critical that our students know how these structures relat to one another. I can tell you I've looked at data sets like this for over 10 years and I never fully understood their 3. Dee structure until I saw them in holo lens. Let's say we have a patient with a brain tumor, which were showing here with this red area. Hey Jeff and Henry.
+
+01:14:47.690 --> 01:14:58.900
+Can you see how this tumor intersects the light blue tracked but not the green tractor the yellow one this allows us to predict the impact of this tumor on the patient's symptoms in their outcomes after surgery.
+
+01:15:00.280 --> 01:15:02.730
+This could impact the occipital lobe back here.
+
+01:15:03.430 --> 01:15:04.930
+Which may harm the patient's visit?
+
+01:15:05.550 --> 01:15:10.470
+It might also influence the parietal lobe here, which would affect their sense of touch.
+
+01:15:11.890 --> 01:15:20.890
+The quicker our students learn facts like these 2 more time they have to think with them. We're teaching them to think like a doctor.
+
+01:15:21.770 --> 01:15:24.110
+Thanks mark for joining us today.
+
+01:15:24.990 --> 01:15:25.930
+By everybody.
+
+01:15:26.790 --> 01:15:33.720
+Feeding untethered unable to walk around 3, the holographic content gives our students are real advantage.
+
+01:15:34.560 --> 01:15:47.490
+Students have commented that a 15 minute session, it with holo lens could have saved them. Dozens of hours in the cat cat of Eric Lab when we have only 4 short years to train them. This is extremely valuable.
+
+01:15:49.740 --> 01:15:57.420
+We're so grateful to Microsoft for giving us the opportunity to develop this technology and we can't wait to collaborate with others.
+
+01:15:58.070 --> 01:16:03.460
+Using holo lens to think and to see beyond the possible.
+
+01:16:05.850 --> 01:16:07.760
+Just amazing, thank you so much.
+
+01:16:08.660 --> 01:16:09.510
+Thank you so much.
+
+01:16:12.140 --> 01:16:12.670
+Now.
+
+01:16:13.220 --> 01:16:28.080
+Now, NASA was our first partner they have also made incredible progress over the last year. They have ever develop several applications. There are already deployed in production. Let's take a quick lock.
+
+01:16:30.260 --> 01:17:04.520
+At NASA were excited to apply mixed reality technologies to the challenges were facing in space exploration will collaboration with Microsoft were building applications support engineers responsible for the design and Assembly of spacecraft national working on the International Space Station in scientists are now using our Mars tool on site in mission operations on site. A powerful tool process scientists and engineers to explore Mars, but because we always felt it should remain only within mass for the taking that hold on site. Amazing amazing experience that allows the public for explore the Red Planet.
+
+01:17:05.180 --> 01:17:07.680
+We call this new experience destination.
+
+01:17:10.290 --> 01:17:23.990
+Mars can be a lonely place, so we've created holographic captures of an astronaut in a member of the Curiosity rover team to be our guides on this journey. This gave us an opportunity to immortalise I fear of either I was old.
+
+01:17:26.300 --> 01:17:35.940
+Looking forward to opening the destination Mars exhibit at the Kennedy Space Center visitor complex in summer 2016. We can't wait to share this journey with the world.
+
+01:17:36.750 --> 01:17:38.160
+Go to Mars.
+
+01:17:45.600 --> 01:17:46.860
+And here's the best part.
+
+01:17:47.530 --> 01:17:48.470
+Oh, thank you.
+
+01:17:53.740 --> 01:18:09.880
+Here's my favorite part, NASA brought destination. Mars here to the build conference so that all of you are windows. Developers can be the first people in the world to view Mars from the same perspective as NASA scientists work in today.
+
+01:18:17.160 --> 01:18:20.270
+Hollow lens star shipping today.
+
+01:18:21.150 --> 01:18:21.610
+Mark.
+
+01:18:22.540 --> 01:18:23.200
+Thank you.
+
+01:18:24.390 --> 01:18:34.050
+Marking another great stepped on our journey of interacting with computers in ever more person aways my ask of all of you.
+
+01:18:34.970 --> 01:18:55.290
+Actually join us and help us create this new reality. Our partners have done exactly that over the last 12 months in the progress is nothing short of spectacular so let me leave you today with a snapshot of their tremendous creativity. I hope to see all of you this week, you rebuild thank you.
+
+01:18:57.020 --> 01:19:00.650
+Oh non.
+
+01:19:18.460 --> 01:19:19.570
+Ash.
+
+01:19:20.660 --> 01:19:22.890
+Room a
+
+01:19:50.640 --> 01:19:53.020
+Non.
+
+01:20:33.760 --> 01:21:04.170
+It's fantastic to see the progress on the Windows platform in one of the things that I'm most excited about is how windows can become that Dad box of choice, whether you're writing win 32 apps and converting them into modern desktop apps writing universal. Windows apps web apps. Even Linex back ends or iOS or Android apps. You can do them all right on windows and it's fantastic to see bringing that developer love ought to belt.
+
+01:21:05.080 --> 01:21:29.790
+We also really excited about. I think the opportunities. The new frontiers that windows represents for all of us developers whether it be writing that next an app. Whether it's the speech app. It's computer vision or holograms. These new frontiers. I think are a fantastic opportunity where you can learn a lot about the MIT build and we really hope to see your creation in our store.
+
+01:21:30.560 --> 01:21:34.900
+So wanna now switch gears to talk about this conversation is a platform.
+
+01:21:35.510 --> 01:21:43.050
+As I said, This is at the confluence of all of our 3 platforms, Azure Office 365 as well as Windows 10.
+
+01:21:44.250 --> 01:21:49.290
+It is in fact, you know best brought home with an anecdote.
+
+01:21:49.820 --> 01:21:53.600
+That she Lou shared with me about his mom.
+
+01:21:54.320 --> 01:22:37.380
+Who is 80 years old lives in China? She has been trying to use we cause of cheese influence computers and she found it very hard. Even the web, um, although it was one of the greys democratizing forces of computing up. She found it hard to navigate between websites was uncomfortable clicking on links on the mobile phone in the app revolution. Um you know for the democratize things. But even there are going in finding the right app was difficult and so she never got around to using it, but was using SMS and now with reach at she's able to at the age of 80 not only have all the conversations with people seamlessly.
+
+01:22:37.920 --> 01:22:42.980
+But she's also able to interact with businesses and box.
+
+01:22:43.690 --> 01:22:47.640
+And that shows the power of human language.
+
+01:22:48.210 --> 01:22:58.620
+We want to take that power of human language and as I said earlier apply it more pervasively to all of the computing interface and the computing interactions.
+
+01:22:59.510 --> 01:23:17.100
+And you do that, though, you have to infuse into computers in computing around us intelligence. That means you have to bring forth. These technologies of artificial intelligence in machine learning so that we can teach computers to learn.
+
+01:23:17.600 --> 01:23:21.350
+Human language have conversational understanding.
+
+01:23:21.930 --> 01:23:26.310
+Teach them about the broad context people places things.
+
+01:23:26.970 --> 01:23:31.120
+Context about your preferences your personal knowledge.
+
+01:23:31.840 --> 01:23:39.110
+So that they can really help you with your everyday tasks in everyday life, both at work and elsewhere.
+
+01:23:41.260 --> 01:23:43.710
+And so as we infuse.
+
+01:23:44.610 --> 01:23:50.040
+Intelligence into everything I think it's very important to have a principled approach.
+
+01:23:51.140 --> 01:23:55.460
+How are we to guide our design as well as how we build things?
+
+01:23:56.190 --> 01:24:05.350
+So at Microsoft. We are focused on an approach that is grounded in our mission to empower people and organizations all over the planet to achieve mall.
+
+01:24:06.020 --> 01:24:08.330
+The 3 core principles here.
+
+01:24:08.890 --> 01:24:09.610
+First.
+
+01:24:10.570 --> 01:24:15.400
+We want to build intelligence that augment human abilities.
+
+01:24:16.300 --> 01:24:17.510
+And experiences.
+
+01:24:18.520 --> 01:24:24.920
+Ultimately, it's not going to be about man versus machine. It is going to be about a man with machines.
+
+01:24:25.630 --> 01:24:28.500
+Each of us Excel at very different things.
+
+01:24:29.280 --> 01:24:32.720
+The fact that we have creativity empathy emotion.
+
+01:24:35.070 --> 01:24:36.290
+And judgment.
+
+01:24:37.960 --> 01:24:51.350
+That can then be mixed with fast computation the ability to reason over large amounts of data and do pattern-recognition fast. It's that bringing together that I think is going to help us move our society forward.
+
+01:24:53.100 --> 01:25:06.630
+We also have to build trust right into our technology. That means you have to have technology that has built in protections for privacy. Scott transparency you have security as well as compliance.
+
+01:25:08.750 --> 01:25:09.700
+And lastly.
+
+01:25:10.400 --> 01:25:21.140
+All technology that we build has to be more inclusive and respectful. We need to build technology, so that more people can use technology.
+
+01:25:22.580 --> 01:25:28.070
+And we want to build technology such that it gets the best of humanity not the worst.
+
+01:25:31.150 --> 01:25:46.700
+And this is already guiding us as we build Skype translate to have conversational understanding as rebuild out Cortana to have more expertise as we build whole Leinster have environmental understanding.
+
+01:25:48.200 --> 01:25:49.240
+Also.
+
+01:25:50.720 --> 01:26:01.500
+We use this approach when we get it wrong. In fact, just last week when we launched our incubation. Tai, which is a social bought in the United States. We quickly realised that it was not up to this mark.
+
+01:26:03.220 --> 01:26:05.210
+And so we're back to the drawing board.
+
+01:26:06.560 --> 01:26:15.570
+While we continue to incubate Charly's in Reno in China and Japan and learn why is it that the social bots there'd work differently?
+
+01:26:17.570 --> 01:26:23.200
+And that's how we want to make progress this approach is always going to be front-and-center to us.
+
+01:26:25.470 --> 01:26:28.060
+When we talk about conversations is a platform.
+
+01:26:29.090 --> 01:26:32.360
+Deltree actors there's a** people.
+
+01:26:34.450 --> 01:26:39.610
+We want to be able to have the most natural conversations with other people.
+
+01:26:40.400 --> 01:26:53.690
+We want in fact to enrich our conversations in Skype translator is a fantastic example of that because I'm able to talk into 2 different languages and really have automatic translation. We may also have.
+
+01:26:54.160 --> 01:27:00.010
+Presence are you saw in the Holographic demo how you can have remote presence.
+
+01:27:01.310 --> 01:27:05.160
+These are always for us to enhance human conversations.
+
+01:27:07.900 --> 01:27:13.300
+But we want to take that same power of human conversations and applied to everything else.
+
+01:27:14.970 --> 01:27:27.470
+And that's where these other actors come in a personal digital assistant that knows you knows about your world. It is always with you across all your devices, helping you with your everyday tasks.
+
+01:27:29.100 --> 01:27:38.180
+And Bots Bots are like new applications that you converse with you're not really looking for multiple applications.
+
+01:27:39.140 --> 01:27:48.190
+Pages and pages uh websites or apps, but you just able to call on any application is a box right within a conversational cameras.
+
+01:27:50.810 --> 01:27:58.110
+So this is the rich world, the conversations that we envision people-to-people people to your personal digital assistant.
+
+01:27:59.350 --> 01:28:05.480
+People to box and even personal digital assistant calling on Bots on your behalf.
+
+01:28:06.180 --> 01:28:10.260
+That's the world that you're going to get to see in the years to come.
+
+01:28:15.340 --> 01:28:18.420
+And so you can conceptualize this platform.
+
+01:28:19.540 --> 01:28:23.420
+Where human language is the new you wilaya?
+
+01:28:25.570 --> 01:28:28.280
+Bots are like new applications.
+
+01:28:29.800 --> 01:28:34.440
+And Digital Assistance Armata apps or like the new browsers.
+
+01:28:36.190 --> 01:28:43.200
+And intelligence is infused into all of your interactions that's the rich platform that we have.
+
+01:28:46.500 --> 01:28:47.700
+So let's start.
+
+01:28:48.510 --> 01:28:50.050
+By talking about Cortana.
+
+01:28:51.410 --> 01:28:57.790
+We introduce Cortana 2 years ago, an ever since then, it's becoming smarter every day.
+
+01:28:58.690 --> 01:29:01.910
+Because of its ability to know you.
+
+01:29:02.910 --> 01:29:10.270
+To know about your organization to know about the world and reason about all of this on a continuous basis.
+
+01:29:11.520 --> 01:29:14.010
+It's built natively into windows.
+
+01:29:14.570 --> 01:29:23.620
+But it's not limited to Windows. It's going to be available on all your devices whether iOS Android across all of your applications.
+
+01:29:24.430 --> 01:29:31.450
+Because if it's going to be a useful personal digital assistant it has to be about you not a single device.
+
+01:29:32.380 --> 01:29:36.160
+And that's really how we're building out Cortana.
+
+01:29:41.410 --> 01:29:47.110
+And we're also making it such that the expertise of Cortana is extensible.
+
+01:29:48.190 --> 01:29:50.320
+It's truly unbounded in that way.
+
+01:29:50.840 --> 01:30:24.410
+So the opportunity for developers to adex their expertise. The expertise that they have in their applications. Their services into Cortana so that can further drive engagement for their applications and services that developer opportunity is something that we won't talk about so to show you how this unbounded personal digital assistant works across all of your devices and creates this ability for developers to extended with your expertise. Please help me welcome Marcus Ash from the Cortana team.
+
+01:30:25.960 --> 01:30:29.980
+Thanks.
+
+01:30:30.890 --> 01:30:36.110
+Good morning. Everyone it's great to be here at build to get a chance to give you an early preview of our future plans.
+
+01:30:36.690 --> 01:30:43.770
+First, I want to talk about a new experience. The anniversary update we want windows to be the best place to have a voice conversation with Cortana.
+
+01:30:44.310 --> 01:30:56.530
+Cuartas answering 1,000,000 voice questions for day we have almost a thousand applications that integrate with Cortana voice commands and today there's a new Cortana App Store collection available, so customers can check out some great examples.
+
+01:30:57.590 --> 01:31:03.670
+We want to go even further, and make a voice conversation with Cortana as easy as a voice conversation with a human.
+
+01:31:05.340 --> 01:31:12.450
+Sir I've got this beautiful all-in-one with a nice, big screen. You can see at the top left corner. Cortana is ready for me to have a conversation.
+
+01:31:13.510 --> 01:31:18.340
+I gotta go softly, other night. I don't know where that is. I don't know how long is going to take Cortana can help me with that.
+
+01:31:18.960 --> 01:31:19.950
+Hey Cortana,
+
+01:31:20.730 --> 01:31:22.960
+How long will it take to get to salsa lido?
+
+01:31:27.700 --> 01:31:32.930
+It'll take 27 minutes to drive to saw Salido it's about 12 miles away.
+
+01:31:33.500 --> 01:31:43.510
+All the things you'd expect to work in this experience on the lock screen. I can play my music. I can set alarm and this also gives a much bigger stage, Delecour times personality shine through.
+
+01:31:44.200 --> 01:31:45.230
+Hey Cortana,
+
+01:31:46.220 --> 01:31:47.640
+Tell me a science joke.
+
+01:31:52.170 --> 01:31:56.930
+Sodium Sodium Sodium Sodium Sodium Sodium Sodium Sodium Batman.
+
+01:31:59.490 --> 01:32:04.090
+No no no no no now old school Batman, Batman, you guys with me.
+
+01:32:05.250 --> 01:32:05.980
+All right.
+
+01:32:07.100 --> 01:32:11.780
+This experience is going to be shipping in the anniversary update it's also going to be available in 13 countries.
+
+01:32:12.690 --> 01:32:19.010
+Cortana is going to be here all week in the Expo Fair. Please go check her out, but now I want to show you how she helps me get stuff done.
+
+01:32:20.130 --> 01:32:23.890
+Here's an early preview of some new experiences that will release in the coming months.
+
+01:32:26.490 --> 01:32:32.250
+Notice that Cortana is coming to outlook in schedule. Some appointments for me, it's the blue with the circle.
+
+01:32:32.900 --> 01:32:57.700
+The idea there is Cortana is now in outlook and she's looking at my email in my calendar with my permission, and help when we get things done stay on top of things a good example this week. I was exchanging a bunch of email with our Microsoft. Ravel service trying to figure out the best time to get home on Friday. Cortana was able to understand that conversation about me doing anything I can create appointment, she automatically put all that flight information on my calendar to make it really easy for me to track.
+
+01:33:00.270 --> 01:33:09.230
+She applies the same conversational intelligence to help me stay on-topic commitments. An email, I get a ton of email, which makes it easy for me to for get things I said, I would do.
+
+01:33:09.970 --> 01:33:19.030
+So here Cortana Cflags, something I said, I'd send my manager today. I was actually going to get ahead of this on the plane. But the siren song of that flight infotainment system got me again.
+
+01:33:19.640 --> 01:33:26.680
+No problem Cortana is there and she knows the last time I made an update. She knows where the document as I can asking to go take care of this for me.
+
+01:33:28.830 --> 01:33:31.540
+Send Chuck the PowerPoint that I worked on last night.
+
+01:33:34.440 --> 01:33:39.050
+Sure thing I found this PowerPoint document is this it.
+
+01:33:40.280 --> 01:33:41.750
+And I go ahead and get that sent.
+
+01:33:42.430 --> 01:33:45.570
+Since Cortana is not bound a specific device. Thank you.
+
+01:33:46.330 --> 01:33:47.040
+Thank you.
+
+01:33:49.380 --> 01:33:57.720
+Now, since Cortana is not bound a specific device. She helps me keep track of notifications that are happening right here on my Android phone, while I'm doing work on my p****.
+
+01:33:58.450 --> 01:34:08.510
+So here I've got a notification a text message that came in for my friend. Then he's here in the Bay Area. We went to Michigan together go blue and we were talking about getting together after the kino any Michigan.
+
+01:34:09.310 --> 01:34:10.110
+There we go.
+
+01:34:12.480 --> 01:34:14.930
+I can go ahead and respond right here for my p****.
+
+01:34:24.790 --> 01:34:29.100
+Cortana knows that I'm talking about meeting with Ben. She offers to add this to my calendar.
+
+01:34:29.950 --> 01:34:33.610
+And then she tells me you got a couple of other things, there can I help you movies?
+
+01:34:34.640 --> 01:34:37.400
+The banner some work related stuff I choose Ben.
+
+01:34:38.490 --> 01:34:46.790
+And what she did there is appointments from noon on Wednesday, automatically shift to the appointment. The free block of time, I had there on Thursday.
+
+01:34:51.030 --> 01:34:57.570
+Now, since that meeting with vendors over lunch. You can see here. The Cortana brought in some proactive actions that she thinks can help me.
+
+01:34:58.380 --> 01:35:27.950
+Cortana has a team of experts that she relies on this idea that Cortana doesn't need to know everything she can go and ask experts for health, experts are all of you developers that are creating these amazing apps and services that can integrate right in the Cortana so in the case is this meeting's over lunch I might want to book a table. We might not have time so I might need to bring in some food. Or she can offer some helpful suggestions about things to do here. You can see a bunch of options city food tour sounds great here. Some information about that notice the option to buy tickets.
+
+01:35:29.420 --> 01:35:43.970
+Extensibility also means help me get that actually done here create a very simple sample application. City food tours notice. Cortana passed in some context for me. There are 2 of us in the meeting invite here. Some other information, I can confirm my order and I've got tickets purchased.
+
+01:35:46.620 --> 01:36:12.730
+This same experience also works for business applications, so the next time I go to Cortana. She's queuing up another thing, she thinks I might want to work on in this case. I took a taxi last night and Cortana found out that there was a receipt. My email and she's offering to help me put that into my expense report. We use the Microsoft expense application internally to track this kind of thing when I click on that notice that all of the information and details Matt seat are put into that application.
+
+01:36:14.040 --> 01:36:16.330
+And I'm go ahead and add choose to save that.
+
+01:36:20.220 --> 01:36:26.120
+Since Cortana is not bouncer particular device, I can finish all these tasks here on my Android phone.
+
+01:36:26.900 --> 01:36:28.730
+So when I go ahead launch Cortana.
+
+01:36:31.990 --> 01:36:40.310
+You can see that my meeting with then is here, and I got the tickets to the food city tours. The Microsoft expense applications here. I go ahead and choose to submit that.
+
+01:36:41.420 --> 01:36:42.780
+And it's all taken care of.
+
+01:36:43.670 --> 01:36:57.210
+Since the phone as my most personal devices, with me all the time. Cortana can augment mean very interesting ways, so I'm a 5 year old son and I started this tradition 2 years ago, when I brought him home, a toy from a business trip.
+
+01:36:58.980 --> 01:37:06.490
+Now, every time there, it goes in a business trip. Little man thinks it's his birthday and Eddie better deliver and bring home yet another choice.
+
+01:37:07.270 --> 01:37:16.410
+I don't remember the name of the toy store that I went to last year when I was here, but it had great transformers. And things that he wants so this is Cortana is with me, she can help enhance my memory.
+
+01:37:19.270 --> 01:37:21.770
+What toy store did I go to last year at build?
+
+01:37:28.520 --> 01:37:32.770
+Here you can see, she finds the correct choice turn again, she brings in helpful proactive actions.
+
+01:37:34.130 --> 01:37:37.390
+Now let me show you how easy it is to create these actions.
+
+01:37:38.800 --> 01:37:47.700
+Here among the developer portal today, we're announcing an invite base preview for proactive actions and here's the portal that you can use to connect your apps and websites to Cortana.
+
+01:37:49.110 --> 01:37:53.480
+I want to share 2 examples uh partners that have already integrated glimpse and just eat.
+
+01:37:54.320 --> 01:38:01.750
+Guns provides an easy way to safely share your location with someone in real time they had a great idea for improving the I'm running late experience beatings.
+
+01:38:02.490 --> 01:38:15.540
+Instead of fumbling around trying to figure out how to send a text message and figure out what am I going to get there and I really going to get there at the time I think I can just send the glimpse, which gives all the attendees. Real-time tracking of me with a map and tells me my expected eta.
+
+01:38:17.010 --> 01:38:23.500
+Just eat is a leading food delivery service based in you. Kaya they're very excited about scenarios like helping you order dinner when you're working late.
+
+01:38:24.840 --> 01:38:29.250
+Let me show you how easy it was for just need to configure the portal only a few steps.
+
+01:38:29.900 --> 01:38:35.500
+The first thing you do is you go on at insights insights control when Cortana surface is your action.
+
+01:38:36.160 --> 01:38:50.990
+That's this column right here. This column is the contextual info. This is the information that you want. Your app to request from customers so that just example. Just he would like to know my cuisine preferences because they can do a much better job of. Give me helpful suggestions that they knew that I Love Sushi.
+
+01:38:54.150 --> 01:39:01.880
+Customers are always in control, the data. Cortana shares so she's always going to ask permission before any data center applications of services.
+
+01:39:03.350 --> 01:39:16.990
+Here, the deep links that you create open you wrap. These deep lines are not restricted to a particular device or platform. We support Windows applications. We support Android applications iOS. Applications are coming in the future and we also support websites.
+
+01:39:19.050 --> 01:39:25.970
+And then finally some meta data that you add to that shows how the experience shows up and the court. I knew I along with an icon.
+
+01:39:31.060 --> 01:39:41.350
+So here you can see a sample appointment and both glimpse and just either here as actions. It only take to just eat 15 minutes to get the rap registered to work in this experience.
+
+01:39:47.990 --> 01:39:56.980
+We're looking forward to seeing all the great ideas. You half integrating with Cortana. Please request and invites. The Cortana Developer Preview and I hope to see you at the Cortana sessions. Thank you.
+
+01:40:02.490 --> 01:40:26.470
+Thanks mark is that gives you a glimpse of how Cortana is a truly unbounded personal assistant that's always with you and for developers. It represents a new opportunity for review for you to be able to take the expertise that you have in your applications. The intelligence that you have in your services and then register them as extensions an insights and actions.
+
+01:40:27.480 --> 01:40:36.870
+So we want to now move to another canvas. Another set of tools where conversations are taking place. These are communications tools.
+
+01:40:37.950 --> 01:40:49.890
+There are wide variety of them in fact, we envision a world. Where are going to be in more and more communications tools because that's 1 of the most innate things that we as people do.
+
+01:40:51.070 --> 01:40:54.420
+And we want all of these conversational.
+
+01:40:54.920 --> 01:40:59.570
+Tools to become rich canvases for computation.
+
+01:41:01.850 --> 01:41:05.310
+In our case, we have outlook and Skype.
+
+01:41:06.770 --> 01:41:21.270
+And we want to turn this into these rich conversational Kansas Skype has over 300000000 connected users each month every day there is over 3,000,000,000 minutes of.
+
+01:41:21.970 --> 01:41:28.140
+Voice calls happening on Skype so it's a tremendous amount of activity.
+
+01:41:28.770 --> 01:41:30.880
+And so now imagine.
+
+01:41:31.390 --> 01:41:43.980
+If we can open up Skype not only to have all the rich people-to-people conversations things that we're doing with Skype Translite or Skype on the hollow lens.
+
+01:41:45.230 --> 01:41:47.290
+What if we can now?
+
+01:41:48.040 --> 01:41:54.430
+Bring in your personal digital assistant right to your conversational canvas.
+
+01:41:55.160 --> 01:42:01.540
+What if we brought the world the bots the new applications to be able to do anything?
+
+01:42:02.150 --> 01:42:03.700
+Like hire a cab.
+
+01:42:04.590 --> 01:42:05.660
+Book a ticket.
+
+01:42:06.410 --> 01:42:14.320
+Anything that you may want to do that. You've done historically with applications and websites now with bots right from within Skype.
+
+01:42:15.020 --> 01:42:16.600
+We don't even stop there.
+
+01:42:17.260 --> 01:42:21.990
+We want to add richness these bots so it's not just text spots.
+
+01:42:22.740 --> 01:42:36.610
+We want to have animation. We want to have videos and we also want to have holograms and to show you this rich world of conversational canvases starting with Skype. I wanted to invite up onstage million from the Skype, the million.
+
+01:42:37.490 --> 01:42:41.080
+Thank you thank.
+
+01:42:41.760 --> 01:42:43.120
+Alright hello everyone.
+
+01:42:43.850 --> 01:42:55.210
+I'm super excited to be here with you. Today I get the pleasure of showing you our vision for how we see intelligence integrated into one of the most popular ways that people communicate today.
+
+01:42:55.850 --> 01:42:56.430
+Skype.
+
+01:42:57.800 --> 01:43:04.140
+Skype that you know, and Love is going to be smarter more helpful and entertaining.
+
+01:43:05.510 --> 01:43:09.970
+We're moving into a world where you will soon be able to plan trips shop.
+
+01:43:10.490 --> 01:43:12.260
+Even talk to intelligent, but
+
+01:43:12.790 --> 01:43:14.650
+All from within your Skype chat.
+
+01:43:16.060 --> 01:43:25.160
+I'm going to show you a demo of this next generation of Skype since it Skype. It will work on iOS. Android map web. You name it, but I'm going to show it to you on my Windows Phone.
+
+01:43:28.330 --> 01:43:32.270
+So here I see that I have one miss notification. Let's see who that's from.
+
+01:43:33.980 --> 01:43:44.890
+And uh it's from greedy for those of you that don't know good eats our corporate vice president for escape. So I can ignore this uh so let's go into it and you see. I have a visual video mail from some greedy. I'm going to play it.
+
+01:43:46.870 --> 01:43:53.030
+Hey, I just wanted you can ask Sookie Hogares again, this year, congratulations and thanks for everything universe Skype.
+
+01:43:55.030 --> 01:43:59.800
+That is amazing I'm a huge fan of code istmina sent him a quick thank you.
+
+01:44:01.040 --> 01:44:17.720
+So right away as you're seeing here there are some new things in this next generation of Skype. You see this visual video mail. So we have a video message with the transcript right below. This is one of the examples where we taking intelligence from things like Skype translator and bringing them directly into everyday features like video messages.
+
+01:44:18.640 --> 01:44:25.040
+And now grievous telling me the team has sent me a little something so that's really nice. I'll send him a quick little happy emote acan.
+
+01:44:26.160 --> 01:44:34.430
+I'm so in this next generation. You said the other thing that you'll notice in the canvas is my personal assistant Cortana is always there in the upper right hand corner.
+
+01:44:35.070 --> 01:44:46.250
+Cortana is there if I want to talk to her at one on one or in a group or even as you can see here. She subtly improving my messages by highlighting key points in my text like codice.
+
+01:44:47.550 --> 01:44:59.350
+So I can tap on code as you see this rich card powered by Bing that showing us that could this is a real organization that Microsoft sponsors to really promote women in technology, which is something that I'm very passionate about.
+
+01:45:01.650 --> 01:45:15.360
+So now you see Cortana is actually sending me a private message. I'm going to tap that and I go into the one on one conversation. I have with Cortana so she's telling me the cups and cakes, but would like to know my location for delivery. And yes, I'll share it.
+
+01:45:17.740 --> 01:45:22.840
+And what I like to track delivery. Also, yes, I'll share it, so right away what you're seeing here is that?
+
+01:45:24.020 --> 01:45:29.900
+The agent Cortana is actually brokering the conversation with the third party bought the cuts in cakes by it.
+
+01:45:30.970 --> 01:45:40.180
+Now I see this rich card that is showing me that the cupcake is on its way. And that it will be here within a few minutes, all of this is happening within my Skype chat.
+
+01:45:40.700 --> 01:45:48.160
+This is just one example of the many ways that you're going to start seeing businesses using the power of Skype and Cortana to interact with their customers.
+
+01:45:49.790 --> 01:45:55.310
+Now, since I'm already talking to Cortana and I've committed to doing this keynote. I'm going to go ahead and try to plan the rest of my trip.
+
+01:45:57.270 --> 01:46:01.060
+Please let my calendar for Codice from April 10 through April 12.
+
+01:46:06.930 --> 01:46:09.690
+So you saw there are you push talk as I didn't feel like typing.
+
+01:46:10.210 --> 01:46:22.760
+I'm in my league everything your load is here is that Cortana actually has context for my previous chat with gritty so even though I just told that the dates. It actually knows the location and you know that it's from the conversation with pretty.
+
+01:46:24.690 --> 01:46:34.700
+Now Cortana is proactively thinking about the next steps in coordinating my trip, so she's actually suggesting that I connect with the West about anybody that knows me knows I normally stay at a West Symbiote's.
+
+01:46:35.390 --> 01:46:53.020
+I'm so when you see here now is Cortana is actually introduce the Westin by into the conversation, but not only has she done that. She has given the West about context. So I don't have to repeat myself. The West about knows this is for Dublin and it's for those particular dates all of this saves me a lot of time and effort.
+
+01:46:54.780 --> 01:46:58.380
+Now there are suggested rooms. I'm going to choose the normal room.
+
+01:47:00.970 --> 01:47:08.610
+Confirmation and just like that in 2, simple steps. I was able to block my calendar and also a book my hotel room.
+
+01:47:09.580 --> 01:47:09.990
+Now.
+
+01:47:17.780 --> 01:47:22.540
+Now there's nothing else, the Westin by can do for me, so I'm going to say no thank you.
+
+01:47:26.800 --> 01:47:32.340
+And now because Cortana has all my relevant details. The Westin by can actually leave the conversation.
+
+01:47:33.180 --> 01:47:46.050
+Now we're seeing a third aspect of Cortana. She knows my connection. She knows who I communicate with and so here you're seeing her actually suggests that when I go on this trip to Dublin that I communicate with my friend Jenny.
+
+01:47:46.600 --> 01:48:09.090
+I mean, I see this card. I could call her directly from here or video call her, but I don't know what time it is an so I'm going to choose to message her clicking that takes me to the conversation. I have with Johnny. The other thing you'll notice is that Cortana because she has context about why I'm thinking Jenny, she's prepopulated. The text with context around when I'm going to Dublin and basically why I want to talk to her.
+
+01:48:15.110 --> 01:48:19.210
+And Fantastic Jenny's available and she's even going to show me around town.
+
+01:48:21.950 --> 01:48:30.770
+So this is just a glimpse into you have Skype and Cortana powered by Bing can make our conversations more productive informed and fine.
+
+01:48:35.240 --> 01:48:37.570
+Non.
+
+01:48:39.720 --> 01:48:53.920
+Now, if you know real time video is a big part of how Skype is used today. I just showed you intelligence applied to messaging conversations and I now have the pleasure of announcing we will also be bringing intelligence into real-time video.
+
+01:48:55.280 --> 01:49:01.190
+Skype video bots will reinvent the way that friends, family and businesses get together.
+
+01:49:02.110 --> 01:49:10.690
+For the first time we will enabler very personalized experience for you to connect with your favorite character business, or brand.
+
+01:49:12.600 --> 01:49:20.230
+And the best part is that starting today developers will have access to our first ever Skype by SDK.
+
+01:49:26.810 --> 01:49:34.590
+And if you can see, there, you can also sign up to one of our global hackathon. We're starting with the first one in May, which is happening here down in Silicon Valley.
+
+01:49:35.090 --> 01:49:44.530
+And you'll be able to seamlessly integrate into chats like I showed you or even invent totally new audio and video experiences for an audience of millions.
+
+01:49:46.680 --> 01:49:57.000
+Also to make this even sweeter for developers. As of today. Skype consumers will have access to bots in our latest windows iOS and Android apps.
+
+01:50:03.520 --> 01:50:05.000
+But this is just the beginning.
+
+01:50:05.770 --> 01:50:12.570
+With holo lens, becoming available, we're also bringing intelligence into your virtual conversations.
+
+01:50:13.930 --> 01:50:16.910
+Skype for hollow lens, please rolled video.
+
+01:50:18.350 --> 01:50:59.350
+Thank you nan.
+
+01:51:00.400 --> 01:51:24.820
+Non a
+
+01:51:26.630 --> 01:51:31.240
+A non
+
+01:51:40.570 --> 01:51:48.740
+Now, now that you seen what these rich conversational canvases as well as personal digital assistants can do for you.
+
+01:51:49.520 --> 01:51:57.490
+As developers we think that this represents a huge opportunity for you to write new types of applications.
+
+01:51:58.250 --> 01:52:01.940
+We want to empower all developers.
+
+01:52:02.730 --> 01:52:07.750
+To do this new work that means we want every developer.
+
+01:52:08.450 --> 01:52:11.910
+To build experts for Cortana.
+
+01:52:12.680 --> 01:52:21.700
+We want every developer to be able to build box as the new applications for every business in every service.
+
+01:52:22.820 --> 01:52:25.310
+We want all developers.
+
+01:52:26.070 --> 01:52:29.540
+To be able to infuse intelligence into their applications.
+
+01:52:31.810 --> 01:52:36.160
+And you really make this possible we think of a new runtime.
+
+01:52:36.830 --> 01:52:38.820
+Which is this intelligence runtime?
+
+01:52:39.660 --> 01:52:44.100
+That's all coming together as part of Cortana intelligence sweet.
+
+01:52:45.400 --> 01:52:46.790
+The runs an Azure.
+
+01:52:47.340 --> 01:52:58.800
+That's going to have a rich block framework. A bot framework that will allow you to build rich dialogue capability into your application into your bot.
+
+01:53:00.400 --> 01:53:10.990
+About framework that will allow you not just to build bots for any one canvas. We don't envision such a world we envision a world of many conversational campuses.
+
+01:53:12.510 --> 01:53:22.650
+So you will be able to take the bot framework and in fact, integrate with all of them slack. Skype line out low all of the canvases.
+
+01:53:24.650 --> 01:53:39.540
+We also want to give you a set of Micro Services. These cognitive services so that you can have language. Understanding speech understanding computer vision built into your applications and also rich machine learning capability.
+
+01:53:40.280 --> 01:53:50.020
+Because we think of this intelligence runtime and Cortana intelligence suite is going to be core just like howthe.net run times were.
+
+01:53:51.340 --> 01:53:54.580
+To all the applications that you're going to build going forward.
+
+01:53:55.550 --> 01:54:13.190
+And to give you a glimpse of this world and what Cortana Intelligence. We can enable a warning wind up on stage my colleagues. Then Lily as well as corniglia to give you a sense for what development looks like with these new set of tools in micro services. Damn first you thank such a.
+
+01:54:17.040 --> 01:54:44.340
+In today's demos of Windows Cortana, an Skype. We've shown you how Microsoft is creating new conversational experiences if your developer or business professional you may want to add bots in conversations your own product's and we want to share our services and open source are tools. So you can use them to build your own great. Bots so today. I'm so excited to introduce our brand new platform for creating intelligent an connected bots the Microsoft bought framework.
+
+01:54:49.130 --> 01:55:02.680
+What are you building a simple tic-tac-toe bot creating a productivity bought to make your business smarter or faster or adding conversation to an existing brand like you saw with the West and bought the Microsoft bought framework has everything you need to get your bot stocking.
+
+01:55:03.320 --> 01:55:04.660
+Let me give you an introduction.
+
+01:55:06.230 --> 01:55:15.520
+If you've already got a bot the Microsoft bought framework and seamlessly connect that Bartz's users on Skype Slack, Telegram as a mass email and more.
+
+01:55:16.850 --> 01:55:31.840
+Don't have a bot are open source bot builder. SDK available on Github has everything you need to give your node dot jazz or see Shark Bay spot great dialogue. In conversation skills and also makes it easy to integrate natural language processing in machine learning services.
+
+01:55:33.020 --> 01:55:45.630
+Coming soon our bot directory will contain many fantastic Bots written using the bot framework, including the build bot which is available to give you information about the build event like session information rest nearby restaurants and more.
+
+01:55:46.670 --> 01:56:01.470
+But I'm a developer and I'm really excited to show you how easy it is to write code using the Microsoft framework to show you what it's like I put together a simple bought that orders me pizza from Domino's This is going to be great. You're all going to get to see some code and I get to order myself lunch.
+
+01:56:03.810 --> 01:56:24.490
+Here's the source code for my bot. When a user sends my bottom message. The bot framework calls into this method right here. And if the user, said slash order. We drop into this block of code were first. I put together my pizza medium hand tossed with spinach and mushrooms, then I put that pizza into an order rough specified the delivery address and a credit card that I found.
+
+01:56:27.160 --> 01:56:29.740
+Okay, it's okay. Such assures me, he's buying.
+
+01:56:30.430 --> 01:56:43.370
+And then I place the order to Domino's secure rest. API now since I'm dealing with a credit card. I don't want to don't want to transmit that in plain text. And so I want to make sure that it's committed a cent securely over a secure channel.
+
+01:56:44.110 --> 01:56:47.570
+To try out our bot I'm going to show you my bots web page and about directory.
+
+01:56:49.660 --> 01:56:59.850
+Now it can be really hard to try out new bots so as part of the baht framework. We've included a reusable and securable check control the developers can put in their own web pages, so customers can talk directly with their bots.
+
+01:57:00.360 --> 01:57:09.660
+Let's try it out. I'll say hi to my bot ended a respond. If I says such order. It will take just a second and there, we go my orders on its way.
+
+01:57:10.640 --> 01:57:11.570
+Now, this is.
+
+01:57:15.800 --> 01:57:36.060
+This is great for simple Bots, but interesting bots need real dialogue and language skills that they can hold a real conversation. I want my bike to be able to accepted an order from a real customer where they can specify the size of their pizza toppings and more and you heard such a talk about trustworthiness. It's important for about to get the user's permission before it actually sends the order on its way to Domino's.
+
+01:57:37.260 --> 01:57:45.960
+Now this is where a bot builder. SDK really shines are bot builder. Sdks available in no Jessen Csharp, but I'm writing in Csharp, so I'll show you that.
+
+01:57:46.710 --> 01:57:52.250
+Do you zare bot builder SDK? I'm just going to remove the existing simple bar code that I've got?
+
+01:57:52.780 --> 01:57:54.720
+An ad in a couple of lines here.
+
+01:57:55.590 --> 01:58:18.390
+And then up at the top right configured the bot builder. SDK uh so that my bought talks. The way I wanted to. I've added a welcome message, a confirmation prompt and then actually added in the code to place the order. The bot builder. I seek a does all the work of walking my user through filling in my arm of the object. That represents my pizza, which I've defined as a plane see sharp object with a few annotations.
+
+01:58:19.690 --> 01:58:23.410
+Now next we're going to actually connect my bot to users.
+
+01:58:23.990 --> 01:58:28.250
+So I'm going to go to my bots dashboard in the developed in our developer portal in the bar framework.
+
+01:58:29.140 --> 01:58:49.280
+Uh you can see here it's easy to connect my bought up to services like Skype Slack, Telegram and others. We built the bot framework to be an open platform and so we include many third party services, including pervasive services. Like SMS, which are accessible worldwide and available even an inexpensive devices like this $14 mobile phone.
+
+01:58:54.260 --> 01:59:16.960
+Now we're really excited to introduce the bot framework, but we're even more excited to see the kinds of things you write using it. We have a session coming up immediately after the keynote 11-30. Where will walk you through the process of building a conversational bot from zero to 60 using the framework hope to see their up next. I'd like to introduce Lily Chang, who is going to give you a sneak peek at some upcoming intelligent tools come into the bot framework in the future.
+
+01:59:22.060 --> 01:59:23.020
+Thanks, Stan.
+
+01:59:24.900 --> 01:59:31.960
+This is Dan said. I'm gonna give you a sneak peek a some tools. We've been experimenting with to help you build your bots brain.
+
+01:59:36.130 --> 01:59:42.980
+Alright so here I have my chat control and I can type in Please send me a large pepperoni pizza.
+
+01:59:45.060 --> 01:59:51.870
+Um and you can see that my bot understands the size and toppings that asked me to clarify what kind of pressed, I want.
+
+01:59:52.470 --> 01:59:56.630
+Now in order to do this your bodies to understand natural language.
+
+01:59:57.180 --> 01:00:08.770
+So as you begin before you have real users using your bottle before you have real user response data. We've provided some simple tools to help you build your natural language rules. Let's take a look.
+
+02:00:13.620 --> 02:00:33.390
+All right, so these are the rules behind my bots brain just like Dan showed you except we provided to you. Why don't make them a little bit easier to read so if you look at the first rule it matches responses such as deliver me some quantity of some size pizza with some kind of topping.
+
+02:00:34.160 --> 02:00:35.510
+That's pretty cool right.
+
+02:00:41.140 --> 02:00:52.730
+So I can just click into the deliver bourbon to understand it more. And here you can see that not only the word deliver triggers the verb, but also order and by so that's pretty cool, too.
+
+02:00:53.630 --> 02:00:56.350
+But what if people use other words.
+
+02:00:57.900 --> 02:01:13.230
+Because we mind the web and understand language things like verb tense translation into other language common spellings. We can help you by providing you some suggestions for synonyms. All you need to do is click.
+
+02:01:14.740 --> 02:01:16.160
+Select the ones you want.
+
+02:01:19.960 --> 02:01:23.540
+And you've expanded your dictionary, it's really easy.
+
+02:01:24.930 --> 02:01:26.570
+Thanks.
+
+02:01:28.460 --> 02:01:37.510
+What else is great is if I have other boss like the cupcake bot that Lillian showed you earlier I can share these dictionaries across my various spots.
+
+02:01:39.180 --> 02:01:53.130
+Now rules are great and critical for getting started. But as you start getting more and more users and more and more response. Data rules can be very complex to manage and this is where we provide you with another tool.
+
+02:01:55.240 --> 02:02:01.640
+Here we use machine learning and deep learning to create your conversation model.
+
+02:02:02.420 --> 02:02:15.070
+So building upon what I just showed you we automatically add your semantic dictionary an your rules. We also make it really easy for you to upload additional training data, um to get started.
+
+02:02:15.650 --> 02:02:16.860
+Now we know.
+
+02:02:17.580 --> 02:02:21.350
+That people can be very unpredictable as they use robots.
+
+02:02:22.340 --> 02:02:29.340
+So here you can see a user has said can you deliver 3 large pepperoni pizzas to my crib?
+
+02:02:31.320 --> 02:02:46.940
+So you're laughing so you know, an I know that my crib is slang for house. But the system doesn't know that so it's really easy for me. If I think it's appropriate to tag it at is a location and save.
+
+02:02:48.170 --> 02:03:00.160
+So it's that easy to help teach your bot and help it become smarter and you don't need to be a data science expert and in fact, you don't even really need to know how to code to help your bot improve.
+
+02:03:01.090 --> 02:03:02.640
+So that's pretty cool right.
+
+02:03:03.320 --> 02:03:04.750
+Thanks.
+
+02:03:07.770 --> 02:03:18.280
+Alright so finally we know intelligence systems have their limitations. So here I type send me a large pepperoni pizza too must go on A?
+
+02:03:18.980 --> 02:03:19.580
+At 2.
+
+02:03:23.050 --> 02:03:27.410
+Alright and here my body is telling me I don't understand.
+
+02:03:27.960 --> 02:03:33.330
+And what it can do for tasks that are rare complex, um.
+
+02:03:34.180 --> 02:03:39.140
+Or just that it doesn't understand it can automatically escalate to a person.
+
+02:03:39.610 --> 02:03:48.040
+And this is something that we think is a great example of what such I mentioned earlier to combine with people do best with intelligence system.
+
+02:03:49.130 --> 02:03:51.910
+So let's take a look at what the worker might see.
+
+02:03:55.200 --> 02:04:07.100
+Alright so here as I'm working the system in real time is automatically, suggesting me responses and you can see, those responses below my text entry in the chat window.
+
+02:04:07.880 --> 02:04:25.300
+And then on the side of the system is automatically pre filling. My order form based on what it knows now I can see here. The system has incorrectly classified Mosconi's a person so all I need to do again is click.
+
+02:04:26.770 --> 02:04:29.240
+Correct the annotation and say that.
+
+02:04:30.690 --> 02:04:43.180
+The system prompts me to cook uh clarify that it's Moscone Center, an again. My suggested responses. Update I can just click and enter to have to facilitate my interaction with my customer.
+
+02:04:50.590 --> 02:05:01.470
+So this is exciting because while working I can continue to teach my bot without needing to know natural language gene learning deep learning or even coding.
+
+02:05:03.240 --> 02:05:10.270
+All of my input can make the system more intelligent an intelligent system can help me get my work done more effectively.
+
+02:05:11.090 --> 02:05:14.930
+That's it for my sneak peek. We know we have a lot to learn.
+
+02:05:15.700 --> 02:05:20.550
+As we continue to experiment and make we will make these tools more broadly available.
+
+02:05:26.940 --> 02:05:46.270
+And, of course, as you've already heard you can get started today with both the bot framework that Dan showed you earlier to building connector baht to the places people connect Skype, but tools and also cornelia is up next to show you the new cognitive services, which will help make your tools more intelligent. Thank you.
+
+02:05:48.380 --> 02:05:49.380
+Thank you Lily.
+
+02:05:51.260 --> 02:06:18.830
+Alright Hello, everybody in a year ago. We introduced the first portofolio love intelligence services from Microsoft. We had 5 APIs for you to go use and add intelligence to your apps well today. I want to introduce you to microsoft.com slash cognitive our new portofolio of intelligence services. An we have 22 APIs for you to get started with for free today.
+
+02:06:19.520 --> 02:06:21.210
+We have APIs.
+
+02:06:21.960 --> 02:06:26.280
+We have APIs across vision from image to video understanding.
+
+02:06:26.960 --> 02:06:27.630
+Speech.
+
+02:06:28.920 --> 02:06:30.920
+Language understanding APIs.
+
+02:06:31.720 --> 02:06:33.240
+Knowledge APIs,
+
+02:06:33.770 --> 02:06:49.750
+And Ofcourse Search APIs through being 22 APIs for you to get started with this is years of machine learning. In AI Research from Microsoft ready for you to use at your fingertips now you can just.
+
+02:06:50.530 --> 02:06:51.160
+Thank you.
+
+02:06:54.110 --> 02:07:01.070
+You can just imagine all the cool stuff. You can build with these APIs and to showcase what's possible. I'm going to show you a handful of demos?
+
+02:07:02.190 --> 02:07:05.480
+The first time without I'll show you is a quick app. We put together.
+
+02:07:05.980 --> 02:07:21.570
+All I need to do in this up is either take a photo or upload some image. URL was just take this desk here and use that it calls into the new vision. APIs and what is able to do it's able to recognize objects in the image?
+
+02:07:22.330 --> 02:07:22.950
+Thank you.
+
+02:07:26.960 --> 02:07:39.090
+There are thousands of objects, we can recognize and we also give you confidence core if the confidence is low. You know, we're not quite sure if we're seeing what we say we're seeing if the confidence is high you can probably take it.
+
+02:07:39.650 --> 02:07:40.700
+For for real.
+
+02:07:41.640 --> 02:08:00.490
+Now it's cool, we have object recognition. We can take it a step further and that's what I'll show you in my next demo. We could take it a step further by not just recognizing objects, but also figuring out the relationships behind them and then using natural language to create a coherent description of what you're seeing in the image.
+
+02:08:01.460 --> 02:08:10.830
+This is caption about that AI knew them over side. We're going to allow you to play with today. I went in earlier picked up a couple of random images off of Bing.
+
+02:08:11.550 --> 02:08:28.480
+Now let's see what our little caption, but simple to say it thinks it's a herd of cattle standing on a dry grass field. I love the fact that it gives a vocabulary right. It doesn't say group of cattle or group of animals. No, it's a herd of cattle and it also sees that it's a dry grass field.
+
+02:08:29.490 --> 02:08:30.630
+Let me try different one.
+
+02:08:31.710 --> 02:08:34.060
+This is the Mona Lisa as most of you here now.
+
+02:08:34.810 --> 02:08:38.230
+Let's see what our little caption, but can do.
+
+02:08:41.350 --> 02:08:41.980
+All right.
+
+02:08:42.490 --> 02:08:50.280
+So it trips up it says I'm not really confident but I think is Leonardo Davinci. Sitting in front of the mirror and she seems neutral face.
+
+02:08:52.610 --> 02:09:10.180
+This goes to show you our bought wasn't taught any art. So then it doesn't recognize the Masters of the Renaissance if their masterpieces. We haven't shown at any of that data. We've only shown it landscapes and gatherings and you know your average day to day life to learn from.
+
+02:09:10.770 --> 02:09:28.610
+And I showed you this example to show just how important data is when you are trying to take advantage of these machine learning services and APIs and we're working on allowing you to bring your own data to these algorithms and customize them for your needs.
+
+02:09:29.390 --> 02:09:30.840
+Frankly, to my third demo.
+
+02:09:32.570 --> 02:10:13.500
+This demo is a quick little app that we put together to show you a service. We call Chris custom recognition intelligence service. It allows you to bring any audio files and customize our speech to text technology. That's already shipped in product like Cortana and being so if your scenario calls for audio that has a lot of background noise think of you know a busy drive-through and you're trying to understand what your customers ordering or think you know you're trying to understand what people with heavy Romanian accents like me are trying to say, Well, you bring those files and you're able to train the speech to text algorithms to have higher precision for your scenarios.
+
+02:10:14.050 --> 02:10:36.530
+What I'm showing you here is uh an example that we train with child speak and I hold the audio is hooked up cause. It's important to realise just how bad. The audio can be here and the difference between speech. Regular speech to text versus Chris left side shows you a regular speech to text right side is Chris and now let's see what our system is able to recognize.
+
+02:10:38.020 --> 02:10:44.740
+Chance like large packs okay years is that correct stuff.
+
+02:10:46.870 --> 02:10:57.180
+We had some kids here read a book about Giants and you can clearly see that Chris gets that it's kids not talking about dancing. He's talking about Giants and the fact that they love large bags.
+
+02:10:58.470 --> 02:10:58.970
+Now.
+
+02:11:01.320 --> 02:11:01.960
+Thank you.
+
+02:11:04.910 --> 02:11:11.510
+Now these demos are all fun. I'm going to finish up by show young showing you a real customer scenario.
+
+02:11:12.100 --> 02:12:02.010
+Vidigal is the start of and they do. Real-time Twitter analysis monitoring they try to create a Twitter analysis for anything from brands to politics, and I went in earlier and use the product. The dashboard that they offer their customers. To actually create a dashboard for the current presidential elections, you can see the mood of the entire election in this in this little blurb here. Now the cool thing is about physical was that it doesn't just give you these more indicators is also offers extra a context like the gender of the people who tweet or their age ranges and in creating these gender and age range indicators. They actually use the vision, APIs from cognitive services, they use the vision APIs to look at the profile image and add extra precision too.
+
+02:12:02.010 --> 02:12:14.760
+The age or the gender identifica ter they further use cognitive services also filter out any kind of tweets or content that are just irrelevant to the dashboard's they're trying to create.
+
+02:12:15.620 --> 02:12:32.210
+Now just like veggie glow who's 1 of the partners who started testing our APIs early on. You too, can go to microsoft.com slash cognitive 2 day get started for free. We can't wait to see the stuff you build with these cool APIs. Thank you.
+
+02:12:38.910 --> 02:12:47.160
+Thank you so much cornelia so hopefully, you get a feel for the richness of these intelligence services that you can use.
+
+02:12:47.990 --> 02:13:08.350
+And now it is up to each of us as developers to imagine what's possible imagine would Boeing can do to the business applications in the aerospace industry? What Case Western Reserve can do to medical education? What NASA can do for space exploration.
+
+02:13:09.000 --> 02:13:25.610
+What a fast food restaurant can do for order taking through a drive-through using Chris? What a news organization can do to be able to interpret all text all images. All videos on a social media stream in real time.
+
+02:13:26.830 --> 02:13:34.940
+And one developer truly inspired me this last year, very close to home for us at Microsoft.
+
+02:13:35.450 --> 02:13:39.140
+I want to see what he dreamt of roll the video.
+
+02:13:50.760 --> 02:13:54.480
+I'm sucking shake my lost my sight when I was 7.
+
+02:13:55.200 --> 02:13:58.490
+And shortly after that, I went to a school for the blind.
+
+02:13:59.420 --> 02:14:06.070
+And that's when he was introduced to talking computers and that really open up a whole New World of chain teas.
+
+02:14:07.280 --> 02:14:22.990
+I joined Microsoft 10 years ago, as a software engineer. I love making things, which improve people's lives and one of the things I've always dreamt of since I was a University was this idea of something that could tell you at any moment? What's going on around.
+
+02:14:26.060 --> 02:14:29.360
+I think it's a man jumping in the air doing a trick on a skateboard.
+
+02:14:31.940 --> 02:14:48.720
+I teamed up with like minded engineers to make about which lets you know who and what is around you? It's based on top of the Microsoft Intelligence APIs? Which makes it so much easy to make this kind of thing. The app runs on smartphones, but also on the pivot head smart classes.
+
+02:14:49.610 --> 02:15:00.440
+When you're talking to a bigger group, sometimes you can talk and talk and there's no response, and you think is everyone listening. Greeley well or they half asleep and he never that.
+
+02:15:02.640 --> 02:15:16.550
+I see 2 faces 40 year old man with a beard looking surprised 20 year old woman looking happy the app can describe the general age and gender of the people around me and with the relations on which is incredible.
+
+02:15:17.920 --> 02:15:37.300
+One of the things that's most useful bad the apathy is the ability to read our text. Public opinion is too many great thank you. I could use the app on my phone to take a picture of the many and it's going to guide me. I want her to take that correct photo move camera to the bottom right and away from the document.
+
+02:15:38.060 --> 02:15:46.170
+And then they'll recognize the text read me the headings I see appetizers salads panini pizzas, pastas.
+
+02:15:46.990 --> 02:15:59.090
+Years ago this was science fiction. I never thought it would be something that you could actually do. Um artificial intelligence is improving had to move a faster rate. I'm really excited to see where we can take.
+
+02:15:59.470 --> 02:16:19.660
+As engineers, we always standing on the shoulders of Giants building on top of what went before and in this case, we've taken years of research from Microsoft research, to pull this off. I think it's a young girl throwing in Orange Frisbee in the park for me. It's about taking that far-off dream and building it one step at a time I think this is just the beginning.
+
+02:16:39.390 --> 02:16:40.870
+Thanks.
+
+02:16:41.820 --> 02:16:42.570
+For me.
+
+02:16:44.440 --> 02:16:49.640
+Docupro village do have a chance to share the stage with Saki.
+
+02:16:50.250 --> 02:16:55.970
+And you know, Sucky took his passion his empathy.
+
+02:16:56.770 --> 02:16:58.650
+And is going to change the world.
+
+02:16:59.410 --> 02:17:49.110
+And to me that's what build is all about, he's here. In fact, add build to network inspire other developers learn himself on how to take his applications and make them better, but more importantly, he's also here to teach she's got a couple of of your sessions that he's going to do is well and to me. That's what makes these developer Conferences Magical. It is about being able to take our passions. Our empathy and go after the opportunities that we see go after the dreams that we have and what's a key was down his being a real inspiration for me and we as developers have this tremendous opportunity in a tremendous responsibility because not only do we get to dream of the future we get to build the future. I can't wait to see?
+
+02:17:49.110 --> 02:17:56.640
+What do you dream up and what do you build thank you so very, very much have a fantastic fails? Thank you thank you.
+
+02:18:11.250 --> 02:18:20.550
+Thanh on

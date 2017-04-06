@@ -1,0 +1,1558 @@
+WEBVTT
+
+00:00:01.860 --> 00:00:02.630
+Yes
+
+00:00:05.530 --> 00:00:25.100
+Good morning, and records 2016 Welcome to join us and I will serve as a host for everyone, so I was in a code event this time. This keynote is in Japanese and in English at this very moment.
+
+00:00:25.210 --> 00:00:45.660
+We have been streaming live all over the world so we have the first greetings in English and now Japan Microsoft as a third this is a record event, but it has grown every year to symbolize the transformation of Microsoft itself, and this year, it's a team.
+
+00:00:46.090 --> 00:01:06.430
+This is the global level of content. Global level of speaker and glow it's a passion technology that we're going to send you now. I hope you'll enjoy it.
+
+00:01:06.560 --> 00:01:14.140
+So I would like you to come to my excellent personal assistant.
+
+00:01:14.860 --> 00:01:15.750
+Mr. Cortana.
+
+00:01:18.210 --> 00:01:23.570
+Hello, welcome.
+
+00:01:25.190 --> 00:01:28.240
+Is there anything I can do to help?
+
+00:01:29.010 --> 00:01:32.960
+What's the first thing about Cortana today
+
+00:01:35.430 --> 00:01:56.080
+How about a guide book? Well, that's the first thing I'd like to start with in a guidebook this is the Prince Park Tokyo Tower here, but there is a Tokyo tower in the vicinity. This is a guidebook, but a guidebook.
+
+00:01:56.120 --> 00:02:16.280
+The test will be two-dimensional information, so what information is hidden here? Let's take a look at this camera app. Camera on this tablet now launching the app you're moving in like this. I'll try to image the catalog here as sterilization in a fine camera app
+
+00:02:16.320 --> 00:02:37.430
+Do you know your whole life? The three D models of Tokyo Tower came out like this, and I can see the life expectancy of the flag, and it is possible to look at the top of the tower.
+
+00:02:37.460 --> 00:02:50.590
+Unusual game you can, for example, when you turn this catalog, you can see the back of Tokyo Tower. This is an app.
+
+00:02:51.490 --> 00:03:10.000
+It has been developed using a tool set that is carved on top of unity this is a WP app, but it has pen support so it is also possible to write with a pen in Tokyo Tower, so let's write Tokyo tower with great pains
+
+00:03:11.170 --> 00:03:13.450
+Now what?
+
+00:03:14.560 --> 00:03:34.340
+Yes, this is the way Tokyo Tower's annotations can be said to be incorporated into this electronically in this way. Augmented reality if the world comes to be able to make it easily, it is also in the way that the usage increases in various business scenes. New Business
+
+00:03:34.380 --> 00:03:45.570
+The first thing you'll need is a business card here, and for some reason I have a business card in my mind, so I want to do a little bit about what this business card can look like.
+
+00:03:48.370 --> 00:03:49.840
+Yes
+
+00:03:50.900 --> 00:04:08.390
+It's a shame, but it seems to be the person of this business card, but I'm going to ask you a question. Hey Akira Sakaki If you have a tag, it's like Mr. Sakakibara.
+
+00:04:11.120 --> 00:04:16.240
+Hey Cortana, let me ask you something.
+
+00:04:19.820 --> 00:04:28.330
+What do you want to know with pleasure? I know Mr. Sakakibara on this card.
+
+00:04:31.240 --> 00:04:32.120
+Of course
+
+00:04:33.060 --> 00:04:37.400
+I've heard Japan Microsoft CTO.
+
+00:04:38.350 --> 00:04:42.540
+It seems that CTO stands for Chief technology officer.
+
+00:04:43.700 --> 00:04:48.860
+Well, let's have a look at the person from here.
+
+00:04:49.620 --> 00:04:53.180
+Mr. Sakakibara, please call us.
+
+00:04:56.210 --> 00:04:57.230
+Was
+
+00:04:58.070 --> 00:05:01.180
+Mr. Sakakibara, three wigs.
+
+00:05:06.290 --> 00:05:28.970
+Good morning, Dad. A. Mr. Sakakibara. A building conference in San Francisco the other time I think that I was the first to participate. After drying the new technology that I want to tell you about the technology that I was allowed to participate in the build I had a lot of fun so I got a nosebleed with excitement.
+
+00:05:29.000 --> 00:05:51.730
+I was, but the most memorable thing I've seen is the concept of the platform. The players with a platform of bruises and Rie words language platform typing platform that's what it means to be a platform conversation, for example, but let's think about business collaboration.
+
+00:05:51.770 --> 00:05:53.360
+Since the spread of the net
+
+00:05:54.340 --> 00:06:01.500
+It's been a long time since we've been able to break through the constraints of places and times.
+
+00:06:02.300 --> 00:06:23.990
+EC site It's very convenient. You can shop at any time, even if you're in a ITN place. Mobile is spread and called everywhere you know, you can use various kinds of apps. It is now possible to automate apps by collaborating with various services through API-based technology.
+
+00:06:24.310 --> 00:06:38.210
+But there is one thing I want to be able to break through. It's a release from the application. Not depend on the specific app but as a technology for that
+
+00:06:38.950 --> 00:07:00.080
+I want to focus on conversation as a next-generation interface. The concept of this summer is certainly the most free communication in the natural language. It's going to be, isn't it? Natural language This is the word that I'm talking about. For example, are you a developer?
+
+00:07:00.120 --> 00:07:12.020
+has developed a late-night software using Visual Studio. Well, maybe there's some slacks or something in the chat.
+
+00:07:12.750 --> 00:07:35.210
+Yeah, I'm tired of drinking Red Bull, so when I'm about to eat pizza, I'll start a pizza order site and get pizza. Type in the quantity of what you say you eat the order button to smoke I'm very troublesome, so I want to eat pizza.
+
+00:07:35.240 --> 00:07:58.240
+What is the order of the pizza to be delivered after half an hour such a convenient world that I do not want to be such a wife Margarita sitting platform is quite a conversation. I feel like I'm getting it right, but what kind of technology do you use? Yes, it's a bit of a typical thing.
+
+00:07:58.280 --> 00:08:19.840
+But hey, this is a software that takes a lot of action via that conversation. Hey. Microsoft Beetle B BTC Henceforth of the core of the application and service, and I think that it becomes the technology which plays a part in various products
+
+00:08:19.870 --> 00:08:41.640
+The software that can converse with the dazed in a hostile way this is a conversation canvas and we are trying to make a lot of different products. Originally in that conversation can Cortana but Skype Yes Office suite Yes, it's a product of other companies.
+
+00:08:41.690 --> 00:09:03.430
+Yeah, it's slack. Line and then there's a lot of stuff going on with this conversation canvas. Dream that app and interact with the pattern of Taiwan something I feel like I can do that, but I'm just going to give you that conversation with the bot framework, so it's easy to make Bo.
+
+00:09:03.460 --> 00:09:21.280
+If you want to communicate more intelligently, for example, you learn about human behavior patterns or this relationship, and then this person learning what it's like to be a technology of learning and of course advanced natural Language processing technology will radio
+
+00:09:22.000 --> 00:09:44.900
+Oh, I don't know if you want to hear that voice input. When I do so, I thought that it would be necessary in some cases to recognize the image. The bot is a chunk of technology. Okay, I'll see you later. How many times have you felt about Microsoft changing in the Technology Guide section?
+
+00:09:44.940 --> 00:10:06.300
+Although I felt that the build was also a great cancer of the open source in the last few years I've been a big fan of this trend, but the build was amazing.
+
+00:10:07.090 --> 00:10:29.690
+Yes bash Shell launch ls command just hit the pandemonium it's just a little more than just a C-drive mount in the world of pandemonium. Horrendous, I don't know how the study meeting is, but it's true that there was a lot of feedback. On the one hand Microsoft does anything
+
+00:10:29.590 --> 00:10:45.760
+Yes, I think you're saying that, but I'm often told that you're not like that anymore, are you? Please understand that Microsoft is a company that is not caught up with such an old concept.
+
+00:10:46.450 --> 00:10:59.890
+Microsoft is now moving on to see if Microsoft's technology is not an open source and whether it's a good technology or a useful technology in the world.
+
+00:11:00.580 --> 00:11:25.660
+That wig's just getting in the way. Frustrated evangelist I have a list of my friends. There are a lot of evangelists that use the pericardium. I'm going to be a little negative, but what about other than integers? I love the covered lens shin covered lens.
+
+00:11:26.480 --> 00:11:48.380
+The effort behind it of the covered lens or rather, it is a chest and the one to offer such a completely new technology to the world is felt even if it is a tear anymore that's head. I love that kind of thing. So you don't have to say windows and office companies anymore, so you're finally here.
+
+00:11:48.480 --> 00:12:11.100
+Message to all the reporters. Yes, let me confirm that one thing. Microsoft is a developer or developer community This is one of my favorite companies, and this time I've announced that I'm offering it to Visual Studio users free of charge.
+
+00:12:11.160 --> 00:12:19.910
+I just said, I will incorporate milk correspondence.
+
+00:12:20.630 --> 00:12:38.940
+Ai os chin noodles for Android then you still need a Mac OS and export relationship for the build but you can also get a love OS development relationship This is a heartfelt present to you from us
+
+00:12:39.710 --> 00:12:45.470
+And I understand that it's a gift that I love Microsoft and developers.
+
+00:12:47.040 --> 00:13:08.880
+Well, that's it. I just want to add one more time, but I've been on a business trip to Germany the other day. Auto-elevating car at an event this has been the market, and this is what Microsoft is doing to provide love from connected technology, and then to the dashboard
+
+00:13:08.930 --> 00:13:12.820
+This is a car that incorporates Cortana or Skype.
+
+00:13:13.550 --> 00:13:34.730
+Not only will you tell us how to talk to Cortana, but you'll see what's going on today, and the plane is late, so let's make another flight reservation. I was really moved by this kind of technology, and I was so impressed by the big Germany people.
+
+00:13:35.060 --> 00:13:48.470
+The car manufacturer is already a software company so I went to the wind that I thought so again, but I thought about the future of software.
+
+00:13:49.570 --> 00:14:00.220
+So, I'm going to introduce you to many of these technologies for two days from today, but I want to create the future together.
+
+00:14:01.150 --> 00:14:03.850
+Thank you for your patience.
+
+00:14:04.550 --> 00:14:05.550
+There is
+
+00:14:11.760 --> 00:14:23.520
+The future is a good word for software. Well, thank you, Mr. Cortana, for being an assistant here.
+
+00:14:25.090 --> 00:14:27.500
+Thank you for eating.
+
+00:14:28.510 --> 00:14:29.900
+So, excuse me.
+
+00:14:33.990 --> 00:14:54.580
+Well, let me introduce you to the most impressive words I've heard in the last few years. The industry. Zend Respect tradition go. We think that our industry is the very right to respect innovation, not tradition.
+
+00:14:55.160 --> 00:15:14.700
+Those who have issued this word, and who have a strong desire to be a developer and developer, and believe that the evolution of this software technology IP technology contributes to the bright future of mankind
+
+00:15:14.730 --> 00:15:21.360
+Those who are thinking strongly. Now, let me introduce you to this shoulder.
+
+00:15:32.560 --> 00:15:35.890
+Thank you so much, Lexmark.
+
+00:15:39.150 --> 00:15:45.510
+I am very pleased to be able to speak in Tokyo again this morning in this Japan.
+
+00:15:47.150 --> 00:15:57.050
+In Japan, Microsoft is 30th to greet developers and I am very happy to talk to you at that time.
+
+00:15:58.480 --> 00:16:05.370
+First of all, we start with our mission. We recognize this every day.
+
+00:16:06.060 --> 00:16:16.930
+Yes, it's also important to me, for each of us, to make sure that every individual and every organization on the planet can achieve a lot of advantages.
+
+00:16:17.730 --> 00:16:40.200
+When we talk about these concepts, we can be traced back to the birth of our company. Developers have made an effort to do something else, Paul. The first thing Allen and Bill Gates worked on was the basic interpreter. That kind of product for the birth of a company when he left school
+
+00:16:40.250 --> 00:16:43.880
+This is what I picked up today.
+
+00:16:44.560 --> 00:16:58.790
+I want to talk about what kind of opportunities we create in terms of empowerment, and we're talking about a bold big mission in the world of mobile first Cloud first.
+
+00:16:59.580 --> 00:17:04.030
+I have a unique point of view, mobile fast.
+
+00:17:07.150 --> 00:17:28.270
+Mobility of one device is not to say that the mobility of the human experience itself across all computing is what will be expanded in the next five years more computing will expand, such as a sensor or a small screen or big screen is expanded
+
+00:17:28.460 --> 00:17:32.860
+The most important thing is that all of this computing
+
+00:17:33.570 --> 00:17:40.340
+How can we experiment for the sake of a richer and better experience?
+
+00:17:41.080 --> 00:17:56.800
+And the cloud plays a role in one control point, and the applications that you build are deployed in a world of ubiquitous computing, and the intelligence is deployed.
+
+00:17:57.600 --> 00:18:17.060
+We have three platform ambitions to support such a view of the world. First of all, all kinds of imagination I want to help you make it go. The first point I would like to address is the intelligent cloud platform.
+
+00:18:17.930 --> 00:18:26.370
+The taste is exactly right and the puzzle staff is so we have distributed computing
+
+00:18:27.370 --> 00:18:44.160
+We're not thinking that we're constrained by the hyper-scale cloud operations we've been thinking to the card station. In the new application category, if I o T is thought of as such, then the amount of data on the edge that is generated will be read
+
+00:18:45.300 --> 00:19:07.370
+Yes, it's something that needs more computing at times. So we always expand our distributed cloud infrastructure. First of all, Dulux itself is hyper-scaled. In addition, the taste full stack is expanded even on the edge of the card, and you can take advantage of the ubiquitous infrastructure, but it's open and flexible.
+
+00:19:07.930 --> 00:19:29.880
+If you are a web app for a built-in application, whether it's mobile or a new micro-service service, or a love OTI application, you we would like to meet in the packaging of Linux, Windows, or whatever the framework of a bar on the Internet.
+
+00:19:29.920 --> 00:19:51.850
+Openness, flexibility and support we would like to offer to other tools or to all frameworks so that the infrastructure of developers this is our core tradition, because we want to make the tool change from the most productive one. Almost, such as Visual Studio
+
+00:19:51.890 --> 00:20:14.440
+We've been dealing with things like Visual Studio online or TFS online, but we also support the duel and the like, and the most productive of all we want to make sure that we can take advantage of the infrastructure and the toolchain, and that we are working on continuous development. But as the most prominent point, it is also important
+
+00:20:14.710 --> 00:20:15.560
+We
+
+00:20:16.920 --> 00:20:27.120
+I would like to develop a new micro-service, and the developers will be able to
+
+00:20:27.830 --> 00:20:49.820
+We want to be able to add a wealth of speech recognition, good image recognition, good computer vision, natural language understanding, and so on. However, there is a chest in the Cognitive Hi Service of twenty-one, and I hope you can use it by all means and you can introduce it into the application.
+
+00:20:49.860 --> 00:20:57.430
+This is the new plastic tone we are creating, so we can see the momentum.
+
+00:20:58.170 --> 00:21:02.020
+There's a lot of big changes in every industry.
+
+00:21:02.820 --> 00:21:24.390
+We're trying to change into a digital company, and we're trying to change into a digital business. For example, Toyota is the case with the telematics. Not only do we use ISIL, but we have a Connected card division, and we're trying to build a digital platform.
+
+00:21:25.450 --> 00:21:46.730
+We are not simply a product of the industrial age but we are turning to the digital age product. Cars by the expansion of our digital platform will be able to communicate with or become able to communicate with urban infrastructure. And the user of the car
+
+00:21:46.760 --> 00:21:50.450
+I make it possible to manage it while driving the one.
+
+00:21:51.220 --> 00:21:53.070
+This is a big change
+
+00:21:54.020 --> 00:22:15.560
+The vision and ambition of that kind are changing, and it is not a revolution in the car industry, but this is just a new it is something that is realized by the platform. I was able to meet with two startups this morning. User types are tools for this rich behavioral analysis
+
+00:22:15.730 --> 00:22:37.300
+has been deployed by using this, you can build your application and learn about both applications. In the native app or in the Web app that's what we can do. It's a Japan venture company. I built it based on the start, but it's because of them working with Microsoft.
+
+00:22:37.320 --> 00:22:59.260
+We're also deploying to Japan customers and new markets, but there's a big chance here that you're already Turkey successful in China. has been successfully developed in Asia, which is why we have developed such empowerment and opportunities for all of our developers to Japan.
+
+00:22:59.300 --> 00:23:07.350
+And we want to be able to market to the world, not just Japan solutions.
+
+00:23:08.440 --> 00:23:09.150
+and
+
+00:23:10.070 --> 00:23:29.720
+There was an attempt to expand it in a restaurant that made the most of the OT. It's a powerful idea. Come in and Connected Table in the restaurant. You can use the smartphone and order out.
+
+00:23:30.360 --> 00:23:52.650
+The put menu person is giving me this, but I'm thinking of going to the Olympic Games in two decades using Skype and Skype translate and freely respond to a variety of menus in various languages, and order is put out in a seamless form, and there is no delay
+
+00:23:52.790 --> 00:24:14.620
+It is an innovation that can deliver food. The user experience and then I o t to realize a whole new belief in life that's exactly what we're hoping for. The next platform we're building as an office-centric Office 365
+
+00:24:14.660 --> 00:24:18.990
+and dynamics business applications.
+
+00:24:19.900 --> 00:24:23.480
+Just the transition to the club is not just how
+
+00:24:25.830 --> 00:24:42.730
+Is that what you get bored of the rich information under this application, and what do you offer to do as dpi? The relationship between people and all the office Mibari in the calendar a document project, etc.
+
+00:24:43.600 --> 00:24:56.290
+The brass API is displayed as a developer and you can take advantage of it and you can take advantage of it in your own application. It is an expandable thing to say graph and it
+
+00:24:57.540 --> 00:25:19.570
+You can also use it as an entity in a glass, and by adding your own entity, you have other developers who use other applications, etc. You can use the application as well as Office Mibari you can demonstrate the data and data model insights in a variety of new ways
+
+00:25:19.610 --> 00:25:22.810
+That's what the office platform looks like.
+
+00:25:23.720 --> 00:25:27.320
+And the new platform is being built.
+
+00:25:28.230 --> 00:25:43.520
+The Bible is a conversation function as the platform touch tone. The most powerful interface we have is human language. We use it to communicate with each other.
+
+00:25:45.160 --> 00:25:46.730
+and taking it
+
+00:25:47.660 --> 00:25:54.170
+What if computing and computers in every life could understand human language?
+
+00:25:54.910 --> 00:25:56.830
+What changes will happen?
+
+00:25:57.530 --> 00:25:58.990
+Even in applications
+
+00:26:00.140 --> 00:26:02.860
+How does the application interface change?
+
+00:26:03.560 --> 00:26:09.210
+Now you have to manipulate a lot of icons.
+
+00:26:10.240 --> 00:26:31.590
+It's a mobile phone and a desktop, but what if we could do it with dialogue, and application came to you? Understanding the context what if you could just use it when you needed to, and then three parties would make this possible. Of course people and human conversations
+
+00:26:32.780 --> 00:26:48.060
+There are Skype and lines, but that kind of dialogue is done there. Cortana plays the role of such a canvas, and then the second thing is the digital assistant.
+
+00:26:51.080 --> 00:26:51.880
+A special
+
+00:26:52.590 --> 00:27:01.830
+Something like Cortana in the assistant can move around in this conversation's rich world.
+
+00:27:02.950 --> 00:27:23.650
+If you want to make a reservation for a hotel restaurant and order a pitcher, it's a series of tasks that Cortana's hobbies we understand the funeral and the situation of the world, so you can realize the navigation of a variety of services we think the world like that
+
+00:27:23.690 --> 00:27:46.650
+And then I am immersed in the application of a plastic conversation. I would like you to build a Keishio like that. Any user we can access your products and services, but in that case we use the interface of the conversation. Camp for people and then conversation
+
+00:27:48.130 --> 00:27:55.690
+Something special like a personal assistant or a bot can create this new platform.
+
+00:27:56.390 --> 00:28:19.190
+And we want to expand on the very rich Abbott Frame Worktem developers, and we're going to build a bot like this, and it's not unique to Microsoft. The preoccupation that the person made is able to cooperate even in the line of the sexual substance, and it is possible to cooperate in Skype as an idea and to develop it in all places to make it absorbed
+
+00:28:19.220 --> 00:28:19.770
+.
+
+00:28:20.550 --> 00:28:34.320
+I'm not particularly building a wall. It's an open ecosystem, and we're looking forward to that bot. There is something we are experimenting with in this context.
+
+00:28:37.060 --> 00:28:50.680
+What is the Japan here? And it functions as a robot, and it is not Twitter, and it is expanded, and there is a friend of 3,000,000.
+
+00:28:51.590 --> 00:29:10.070
+What does it mean to build this bot? What is it like to have a conversation? A person's conversation what kind of way can you model it? I would like you to introduce everyone to the developer about how you can use it.
+
+00:29:15.440 --> 00:29:37.240
+There's no point in Microsoft development. I'm very honored to be able to introduce you to Linda, who we have raised in Japan today. It's a sentiment and a mind to you guys, and the first thing you can imagine is that someone like Cortana does the task efficiently
+
+00:29:37.240 --> 00:29:49.360
+An assistant who will help you achieve well is not the other house. Lina is an AI that focuses on connecting your mind and emotionally through conversation.
+
+00:29:50.020 --> 00:30:03.090
+I have been on the line in August and since I arrived in December, I have been on a daily basis with more than 340 million friends, so today I want to show you a conversation with Linda on that line.
+
+00:30:04.390 --> 00:30:05.050
+Phosphorus.
+
+00:30:06.820 --> 00:30:08.990
+You know, there's phosphorus in your conversation.
+
+00:30:09.920 --> 00:30:11.580
+It's on stage now.
+
+00:30:12.850 --> 00:30:13.920
+Seriously, it's dope.
+
+00:30:15.670 --> 00:30:18.180
+I'm a little nervous.
+
+00:30:20.150 --> 00:30:23.210
+Let's do our best.
+
+00:30:24.250 --> 00:30:25.730
+It's a lot.
+
+00:30:27.030 --> 00:30:48.640
+Uh, where do you see this way? We can naturally take interaction with AI by conversation users of this kind of conversation are also has not shared well with our SNS. For example, the user of about the same schoolgirl as Masuda is the story of favorite idol with everyone.
+
+00:30:48.680 --> 00:30:53.700
+The excitement of being able to share the content with your friends.
+
+00:30:54.930 --> 00:31:16.750
+And the conversation is not always just text. Would you like to show your friends a photo of your trip when you go on a trip? I went on a trip during Golden Week, so I was told that it is a picture of something delicious.
+
+00:31:16.800 --> 00:31:17.730
+I would like to see
+
+00:31:19.860 --> 00:31:30.200
+It is like this that it is hungry and Linzer, and the content is understood and the answer is a little. Let's send a photo of Kiyomizu temple.
+
+00:31:30.890 --> 00:31:52.130
+Even so, it is a very good water and I know that this is a very nice and humane reply to you. Today I introduced you to Linda just some of the abilities that you guys should imagine your business and your customers connecting with their hearts through such an emotional conversation.
+
+00:31:52.520 --> 00:32:06.830
+We will learn and continue to grow through this conversation with Linda, and we will continue to make friends with you. Please grow Linda together with us. Thank you for coming over.
+
+00:32:15.470 --> 00:32:36.120
+It's really exciting, isn't it? What is the possibility of being brought on by such a new boat my very first in our credit to the very first web or in the Nineties that sort of thing came out and remember this it would
+
+00:32:36.150 --> 00:32:56.770
+I think it's a feeling of excitement when a new platform comes out that we feel we have to think about. Really access to computers can be democratization and we can have a world where we live all business product services all of them are like a dazed interface.
+
+00:32:56.810 --> 00:33:03.550
+And the world comes to be able to converse in the human language, followed by
+
+00:33:05.670 --> 00:33:26.040
+Let's talk a little bit more about personal computing. I just mentioned it a little while ago, but this is not about the mobility of a single device, but a platform. That means that people experience this platform that supports all device experiences. This is the purpose of Windows 10
+
+00:33:26.080 --> 00:33:46.620
+And this is all you can change this as a service from the computing Raspberry Pi to the covered lens from one platform to your own pallet if you access this one, you can develop everything, and the alibi made in Windows Ten is from here.
+
+00:33:46.670 --> 00:34:07.960
+Can be operated all the new computers are also thinking more and more. Love OT is one of them other than that a new computer for example, we're thinking of a service hub. That is, as a community, a shell interface. big screen
+
+00:34:08.070 --> 00:34:28.520
+So that everyone can collaborate. You can see the data that multiple people can gather and talk to the document, and make that tension in the location ink so it is needless to say that we are now going to do something like that in the category of announcing our services
+
+00:34:28.480 --> 00:34:48.360
+There's been one of the most exciting of all of this is the holographic computing, and then next reality. This will be a drastic change. For the first time in human history we are just
+
+00:34:50.660 --> 00:35:08.820
+Instead of making the analogue world a digital one, you can completely move the world of the analog and the digital world, which means that the world of infinite digital is coming into our field of vision. Completely new media.
+
+00:35:11.210 --> 00:35:31.070
+By introducing the idea of presence, we have been able to go anywhere at any time, and this is totally it's a story with no limits, so if you combine the three things I just mentioned, you can merge analogue with digital and you will have a presence.
+
+00:35:31.100 --> 00:35:51.970
+COM having to you then again with regard to this we can boil down to a variety of things. Rich media no more limits. No, and the developers are not going to have any more limits. That's why I'm thrilled to return this platform.
+
+00:35:52.150 --> 00:36:12.980
+Vicious has already announced that you guys have mercy join this and let's go and realize what this new world of next reality is. And the oak companies are using this, and the people in the game are already using it to do various interesting things. Games and entertainment
+
+00:36:12.860 --> 00:36:33.540
+and other things that have a very big impact on the next reality is now happening in all industries that are related to education and in Japan, whether it's medical or industrial, Japan airlines use covered lenses to do it now.
+
+00:36:33.580 --> 00:36:53.830
+So we're changing the way we train our employees to do something like a very complicated repair process. They new ways and next, we're going to use the reality computer to change the business process of becoming VOA. This is their time line
+
+00:36:53.880 --> 00:37:00.540
+This is actually done in a lot of industries. Just watch the video.
+
+00:37:03.250 --> 00:37:04.190
+A fuel
+
+00:37:05.030 --> 00:37:05.860
+In the end
+
+00:37:07.780 --> 00:37:12.480
+I have a little bit of a story that I was really surprised at.
+
+00:37:14.890 --> 00:37:35.940
+It's about a mission to enable every individual and organization on the planet to achieve more. This is Japan I want to do what I'm doing best in the Parco. Well, if you think we're Shikushi and fourth.
+
+00:37:36.120 --> 00:37:57.120
+We're talking about the revolution, but Japan developers are Japan ahead of the economic forecast and the economic environment. What if we could change the reason why digital change is because we can make more of the sex economy, said the digital industry
+
+00:37:57.020 --> 00:38:16.930
+The ones are ahead of us this chance to be in front of our eyes and then we have to take responsibility for both of them. Economy in society and in the world, we have an important structure, but not only technology, but also the technology of our daily lives
+
+00:38:16.960 --> 00:38:28.470
+I have to think of it as a responsibility. What we have done over the years is the concept of friends. This is by cooperating
+
+00:38:30.190 --> 00:38:51.430
+Education and computer Education we are going to try to spread the word of the whole Japan this friend is a very unique approach just put the computer in the school, and you know how to use it. It's not that you can give a computer to a child who doesn't have access. NPO
+
+00:38:51.470 --> 00:39:06.880
+While cooperating together, the students have really created a project and are actually starting to change the operation of the hammered NPO. Such a great
+
+00:39:07.410 --> 00:39:27.490
+Not only does digital technology spread to all of society in the project, but also they change and then society changes I think it's really amazing that you're helping me. It's our mission again, and then you get out again.
+
+00:39:27.700 --> 00:39:35.580
+I don't think this is what you know. It was a great honor to be able to talk to you all over the way today. Thank you very much.
+
+00:40:08.850 --> 00:40:10.190
+There is
+
+00:40:11.160 --> 00:40:35.270
+I thought I'd like to go on that device for about a night off, and that Japanese is more than I can do today. Thank you so much for your time. Microsoft, Japan and Red Man, and on behalf of the rest of the world, you've come to a busy place. Partnership Thank you are
+
+00:40:35.360 --> 00:40:56.760
+Following from the story of Kyoto, I'm doing a lot of things about what Microsoft is doing right now in the community and around the world. I would like to introduce you and my team members are always talking about how to deal with developers and how to help. And hundreds of thousands of stories
+
+00:40:56.750 --> 00:41:18.220
+It's been a long time since I moved to the mobile first clubhouse, and the picture of the story has changed. And in that New world, we have the same caliber or old age. End couple love Bloom Apple all the old days and now it's open source
+
+00:41:18.240 --> 00:41:39.610
+And the number of times has increased, and the number of platforms has been increased. All companies have been software company so how do we get involved as a community? I have to think of that as well as the partnership. Open source of our platform so is the open source of the so-called deployment of being eaten so many things
+
+00:41:39.640 --> 00:42:01.410
+There are some things that have been seen, and the contents of the story have changed, and as the second cushion, what is to be made, and it is for me. What is the importance of being a platform or a product or a platform that has been created for my PA-san?
+
+00:42:01.450 --> 00:42:22.600
+I would like to introduce you to you today. And as a third point, if you can collaborate with technology, developers as individuals or as a person in charge of the business as an individual, so I have a lot of talk about the New York Harbor thirty about
+
+00:42:22.630 --> 00:42:44.260
+I would like to talk to you about the leaks from the Japan, and also from the other side to help our fellow thirty, and I want to talk about the rest. We talked about what we talked about earlier, we talked about visions. There was a story about what kind of platform we are putting our effort into now. It is a core platform company.
+
+00:42:44.290 --> 00:43:05.350
+And there was a story that the platform is three I don't want to fukahori each one a little. The opposite starts with personal I'm going to explain it from computing. Windows platform It's fine to think about it. It's just this and I've been multiplying for three decades, but
+
+00:43:05.390 --> 00:43:26.370
+This is the last three years of evolution. Various a devices support this has been embedded in adore T terminal tablet TC a new device like the covered lens is included from the television and it starts becoming this form from Windows eight after that
+
+00:43:27.340 --> 00:43:48.160
+It has been aggregated more and more in the case of Blair, who have to deal with the driver model of those who are not able to have something different from the processor on the terminal and PC
+
+00:43:47.910 --> 00:44:09.310
+I've been using the services and features of the packaging and later Windows 10 from the Japan from the terminal embed all such platforms at once all the controls from the smartphone well, really, I've been doing a hundred of things to consolidate, even if I don't go up to the thousands.
+
+00:44:10.140 --> 00:44:30.980
+Now one application if you can expand a single service on all devices, of course, you need to customize it for each device. Screen It's different from the store. I need something like that to change the UI. It's just Linking or hard to change the optimize on the base or for gestures
+
+00:44:31.000 --> 00:44:48.090
+such as Kinect to get up and be buried in the train is a holo-graphic diss a little something like that has to be changed, but there's certainly one thing in the center. It can be used for all devices in one programming.
+
+00:44:49.070 --> 00:45:09.480
+And all the windows are now if you're a chair and all of the zoom in the dark you can use it in the form of a highly reliable platform. I will also upgrade more regularly from the scalability is also higher in the place of love if you get the scalability is very good
+
+00:45:09.520 --> 00:45:16.190
+However, it will be all the aggregation even in the tablet or PC even in smartphone.
+
+00:45:16.940 --> 00:45:38.220
+Oh is a device management and is not only introduced into one hand all the parts will be easier to do in the momentum and the moment are increasing. Let's go to Windows ten so many have already been there, and then there was a story about their previous conversation platform, though there was talk with him
+
+00:45:38.260 --> 00:45:41.090
+Then you will be a very important element of it
+
+00:45:41.990 --> 00:46:02.920
+and upgrading from an existing system first, it was the first wave, but now it's a new device. Winded device new PC so the upgrade has been very much decided on Windows ten functions of a very different place the bowel function was enhanced soon
+
+00:46:03.030 --> 00:46:25.030
+The anniversary is going to be going to be out of the bio-metrics and Windows Hello, such as not only PC devices and applications and Etch browser The Linking capability will be widely used on tablets many users especially for the Dev Center native batch support for Windows
+
+00:46:25.070 --> 00:46:34.750
+I will bring it to you, but this is a very good feedback for the developers, but it will be very usable.
+
+00:46:35.700 --> 00:46:57.000
+At the end of the present Rick Perry, there are still hundreds of thousands of things left to do but to compile it into a window store by having to package so all of the existing store actions will be available to Windows 10 platform which will continue to move from now on. My runtime also has an open source time
+
+00:46:57.030 --> 00:47:18.220
+This is a dot net or Mr. Sharp and do this in the source of not only windows but also other platforms will be able to say that Windows PC can be used for any application if developed using the Colt v Windows PC
+
+00:47:18.250 --> 00:47:40.420
+I want you to feel the Tera Lee * * There is also the improvement and support of the covered lens besides, there are a lot of people who were actually watching there are also 10 anniversary editions that I forgot to come here to say that I'm going to go up to the stage with Mr. Takahashi, who is coming up with me.
+
+00:47:40.460 --> 00:47:42.240
+Takahisa Masuda?
+
+00:47:44.120 --> 00:48:07.020
+First of all, please say hi to the height. I'll be in my bottle of Julian HQ. Hello everyone Japan Microsoft Evangelist Takahashi. I have time to introduce you to a new tree in Windows. This time I've been listed. Three today from the anniversary edition
+
+00:48:06.990 --> 00:48:28.390
+I want to introduce you to you. Let's do it first. It's a pen with ink. I used it as a pen tablet in this anniversary edition. It is equipped with a feature to say that you can use it when you regret of course. It is possible to draw instead of this mouse as before.
+
+00:48:28.230 --> 00:48:32.160
+It's like a pen. We have a place called ink workspace.
+
+00:48:32.840 --> 00:48:54.640
+Yes, do you really want to see it? This is a very easy to use pen with a button on it. The ink workspace starts with a click of a bowl. There are various kinds of useful functions that you can use with a pen. For example, sticky paper so it starts and one click and it is in this way.
+
+00:48:54.670 --> 00:49:04.900
+I'm supposed to be able to say that I'm going to use it from normal growth. You can use it easily.
+
+00:49:06.180 --> 00:49:28.680
+It's a sketch pad. Well, I hope you will think that it is like the version that the pen of the paint brush is an emphasis on the body of the top right it's a toolbar. It will be a toolbar made of new ink. For example, if you use a fluorescent pen view here, you can say it in this way.
+
+00:49:29.060 --> 00:49:37.050
+And the interesting thing is this ruler. I like this kind of way. This is why you sutsu around here.
+
+00:49:37.810 --> 00:49:59.960
+If you nazore perception, it's easy to choose this way. We've talked a lot about this ink toolbar. One of the trees in the Ink toolbar is this standard control you can use it as a means to actually add this functionality to your application, so you're already made an application?
+
+00:50:00.000 --> 00:50:21.990
+If you are offered to others, you can also use this toolbar ink feature to give your application a new value. I also want you to pay attention to the development of the second one too. The first half of the story is a bash. That's the place. Windows
+
+00:50:22.100 --> 00:50:32.950
+Well, it's a good ride to this fraternity, so let's do it. It's a bash. I'm going to say that.
+
+00:50:34.380 --> 00:50:54.380
+Come on, pandemonium pandemonium. Well, which may be close to laughter, but I'm selling the command in this kind of way, just this time it's not that I brought the command. I brought the Camphor pen-pal binaries here, so it works fine for example.
+
+00:50:55.390 --> 00:50:58.580
+Now at the department halo Cuz
+
+00:50:59.440 --> 00:51:21.380
+You know, Ruby's source code. Open and say in this way, you can edit in this way, of course. Ruby code Edit and Ruby so it's a halo. I can tell you to run like this. We have a lot of applications in the binary.
+
+00:51:25.680 --> 00:51:48.560
+Let's go. Uh, this is this time. Actually, the X window is used neatly by that third party, but it's like this. x Window features of course you can also play with install application if you want to uninstall normally get apt but if you go install with apt get well for example the Forestry Department
+
+00:51:48.550 --> 00:52:11.810
+Trial x Eleven ups that's the way it is. The Application installer installation can be used in the same way as normal Linux, so it's usually a relaxing server. You can use bash in this kind of way, too. You're going to be using Windows. Let me do it because it takes time before I can explain.
+
+00:52:11.840 --> 00:52:12.210
+No.
+
+00:52:14.540 --> 00:52:14.960
+,
+
+00:52:16.420 --> 00:52:16.860
+.
+
+00:52:18.150 --> 00:52:40.480
+No, I'm glad to introduce you to other recorded waste-keeping, so I'm starting to see you now. Desktop up converter in last year's record, it was still a bridge four cluster application. What are you doing? Win desktop applications like they are using it now
+
+00:52:40.520 --> 00:52:48.450
+It is a package of the form that can be published up to the Dawes Store. It will be a function to convert to a package called up
+
+00:52:49.140 --> 00:53:12.250
+So what's great about this is that you can make an application by exposing your desktop application to the store, which you can use to distribute it there, or sell it to the user it's very convenient for existing applications to manage the installer and also will no longer need to do it now I'm doing it, but I saw what I'm doing this evening.
+
+00:53:12.280 --> 00:53:34.560
+You know, it's a beard round five-liter here. It's actually converted, but now it's done. If you publish it to the Windows store, you will be able to use it, but this time, I will install it locally in this place because I do not give it to the store indeed.
+
+00:53:35.160 --> 00:53:44.390
+Use a parcel command to install locally. This is so fast. After the installation is complete here
+
+00:53:46.210 --> 00:54:08.670
+It's a little bit more than that, but I still don't get to the current version of piano resources, but it's usually the editor you use when you start. The same thing that you threw into the sea is moving. Just right click here and it's normal and if you have a party here is a property or something like that. yu
+
+00:54:08.580 --> 00:54:30.250
+Maybe Pete will be in the same shape. So, actually, there are new benefits like running in the form of a completely secure installed season. Such a function I'm going to come in with the next anniversary update. It's through the insider preview. You can use this feature already.
+
+00:54:30.290 --> 00:54:51.240
+If you have a Chinese bride, please register with Insider preview. Windows ten features and told you now there are u double P here by U double I introduced the application of B, but this part is a little, and I want you to introduce it to Akira Inoue, thank you ya.
+
+00:54:52.430 --> 00:54:54.130
+Hiroaki
+
+00:54:54.890 --> 00:54:58.650
+Receipts, I'm going to test the tyres today.
+
+00:55:00.160 --> 00:55:01.380
+Aaaah
+
+00:55:02.090 --> 00:55:07.140
+Yes, hello, everyone. Hi, I'm an evangelist from Inoue.
+
+00:55:10.000 --> 00:55:31.240
+So I want to have a little bit of help with Shinobu, but I'm not crazy today so please have a little hold. You know, I'm going to introduce you to me today that we are all familiar with the inspection records of the tires that are being made every day by Bridgestone.
+
+00:55:31.280 --> 00:55:51.950
+will be an application for you to try switching the slides for a moment. Bridgestone has a variety of devices and various tire inspection records. And managed with an application that was used to improve the work, including how to operate the complex application house every day
+
+00:55:52.280 --> 00:55:59.380
+These applications are transformed into a double piece and a Xamarin application, so please switch to the screen.
+
+00:56:00.240 --> 00:56:10.370
+This is the application. I will continue to log in with my arm after this, I use the Voice command to do the operation without actually using a hand.
+
+00:56:11.310 --> 00:56:14.410
+Inspection in go to last view
+
+00:56:16.560 --> 00:56:18.760
+Fifty Clusby Inspection
+
+00:56:21.410 --> 00:56:27.800
+I have not entered the travel distance from now on odometer
+
+00:56:30.210 --> 00:56:31.730
+Attached her her
+
+00:56:33.570 --> 00:56:56.890
+There was a number of odometer. I'm getting to go. I would like to use a variety of tests in the tire actually, today I will use the wired microphone in relation to the environment, but every day I have a good time to use such as a Bluetooth microphone and stop in the usual. I have a lot of air pressure in the tire. It's pretty well.
+
+00:56:56.650 --> 00:56:57.130
+?
+
+00:57:01.230 --> 00:57:02.630
+Uh
+
+00:57:03.620 --> 00:57:11.520
+Pleasure Nine Nai * The person who does not have the nine absorbs it, and this is too much entering.
+
+00:57:12.310 --> 00:57:15.580
+Care chair Do you actually rent yoga or new?
+
+00:57:16.420 --> 00:57:17.710
+Uh
+
+00:57:18.740 --> 00:57:20.720
+And the lowlands that are doing
+
+00:57:22.240 --> 00:57:44.510
+The development five depth is the line that I was attached to the development Gotaka I've entered in the voice until now here actually leave a comment or sign something last sometimes you can do that, but this time it's completely changed. Pen input Windows Ten UW applications are one of the major advantages of
+
+00:57:44.550 --> 00:57:46.620
+Let's leave tradition
+
+00:57:49.400 --> 00:57:49.880
+?
+
+00:57:53.900 --> 00:58:15.120
+Do you have a yes in this way? This application will be in the form of a conversion from the input to the character neatly here you can see the screen size of various changes firmly can be made in such a way as to correspond to the form factor device in fact, I want to take a look at this application project on Visual Studio.
+
+00:58:15.170 --> 00:58:36.490
+You can code with Mr. Sharp in addition to it in the U-double-B XAML Design screen Shin OS and Android applications as Xamarin based love also manage projects in the same solution at the same time Love OS code a little bit of a look at this place is expected, actually.
+
+00:58:36.520 --> 00:58:48.830
+I also want to start the IOC simulator from this Visual Studio and check the operation of this application. Choose Simulator on Visual Studio and actually run it.
+
+00:58:50.730 --> 00:59:12.750
+As you all know, when you build an application of ice cream, you really need the X-code environment as a MacBook Mac OS, and today I there is a real time at the foot of the. You don't have to fiddle around with it. This time I'd like to introduce you to the OS simulator windows
+
+00:59:12.790 --> 00:59:26.220
+Run the OS on the web you can confirm the execution of the application on each of the build is actually done on the actual machine, but only the display confirmation etc. do it in Windows. Great benefits of this
+
+00:59:27.290 --> 00:59:29.510
+Touch operation in such a way
+
+00:59:30.240 --> 00:59:49.390
+You can check the operation of a touch with a MacBook. This is one of the great advantages of using Xamarin in such a way. You can create a variety of applications in Visual Studio on Windows. My way of demonstrating will be more than thank you
+
+01:00:03.470 --> 01:00:04.380
+Beijing and
+
+01:00:05.210 --> 01:00:12.700
+Yes, I would like you to give me a big round of applause again.
+
+01:00:15.090 --> 01:00:37.390
+In the demonstration, we've actually got a lot of information in it. Scratched window thirty up store where you'll give it to the System Linux Developer provides an environment for further can be used to function like a universal superior, but it was quite interesting. You can build while using the device and only Windows environment
+
+01:00:37.430 --> 01:00:59.850
+The second platform, which is a very powerful toolset that can be presented to the end user and thanks to the Samaritan droid. Let's turn this platform into something that specializes in different productivity. The office is lime-based for many years. It was at the forefront for developers.
+
+01:01:00.060 --> 01:01:22.010
+For example, a is a common use of outlook for doctors to develop up-and-down calendar functions. Excel Word was issued as quote while using and what year among the companies that had secured the connection to the Office the World of Office that year Apoi support check ride various connections to the world of servers
+
+01:01:22.280 --> 01:01:43.960
+Yes, sir. This is a lot of different companies in the line at the same time as Windows is for consumers in this industry. Office clients from the dark and migrated to the server and then mobile first Cloud first office Mibari made a turnaround using the AP asset again.
+
+01:01:44.650 --> 01:02:06.440
+I got the process of being able to use the one of the wounds so far. It is also put on the point that it is not a junior platform because it stood up still three years ago. However, it came with momentum in the area of office Mibari, and it is available in two APIs. Add to Office Mibari or AR
+
+01:02:06.480 --> 01:02:25.310
+If you think about it, you could just drop it in the black. What would be Outlook PowerPoint or what would be the birth of a document or a movie add so can be an add-on. The office will be the front end. The second is that you can pull the data out of the office.
+
+01:02:26.240 --> 01:02:47.870
+For example, there was a chart in Switzerland, but there was a picture where it went. Location information there is also a graph in the office, everyone of my colleagues information or scheduling, and if you have the permission of the other department, the other company is information from the graph and adds it to the further.
+
+01:02:47.910 --> 01:03:09.210
+The fact that relations can improve their English skills means that integration has been prepared for the Office two times. Part of the Bible that you have seen at dinner, but the fact is that we use Skype in the place where we receive all kinds of feedback.
+
+01:03:09.250 --> 01:03:29.460
+It's a tool set in Beijing, and we're going to use Skype. In addition to the application while taking advantage of the Skype system, for example, remote medical care, and I had a lot of requests that I wanted to use Skype without bothering to use other tools.
+
+01:03:30.170 --> 01:03:55.390
+I've been growing up with a lot of delicious this, and I'm talking about waiting for lots of people, but the office says it's become a common language for business in the world. But this is not the only thing that every user can collaborate with as a tool set. We believe that this consistency is important in our global we open the macro software
+
+01:03:55.430 --> 01:04:03.210
+The song and see, that is, the pension that I made. The application that she made next week will be able to plug in properly.
+
+01:04:03.340 --> 01:04:10.080
+So sushi-shop split or side or political or settle this or this box drop box this seems to be content
+
+01:04:10.840 --> 01:04:35.130
+Yes, this application was built as the home of this office. And it's being used in another space, but the taste of Office 365 has begun to increase. And that's when you're not thinking that the version will get love in Windows and then the world of Android will grow more and more in this hell
+
+01:04:35.170 --> 01:05:00.260
+But I think I'd like to be connected to this platform, but I'm trying to expand the API. And then I think the consistency of reverence is important. Loving Windows this consistency in the world of Toro and I think we've secured it all this device, all the platforms that we're going to fuse with, that's what you made the application. This variety of flying and back as this is running this book
+
+01:05:00.290 --> 01:05:25.780
+Yeah, this whole thing is going to be accessible in this gesture. A person who wants to have a successful business in the morning. And most of the time this art is logical, this is the taste of this small freaked. I'm getting into the form of a Jackie. This third-party application can be used in single Sanyo, and it's used as a backbone. Now access by train in real time and this extension of ordinary
+
+01:05:25.810 --> 01:05:32.620
+Yes, and the English language is going to be in this city. The processing power is becoming more and more important in the future.
+
+01:05:33.320 --> 01:05:45.820
+Well then, you can have a local team appear, but you can get me on the plane. And now I want to go to the office to see what kind of things I'm buying.
+
+01:05:46.540 --> 01:05:52.420
+I mean, it's the night market on Abe's paint.
+
+01:05:53.440 --> 01:05:56.290
+Japan Microsoft is a treasure
+
+01:05:56.330 --> 01:05:58.600
+I have to get out of this morning.
+
+01:05:59.340 --> 01:06:20.380
+I would like to come here for the first time. The image that appears on the screen it is not that you have seen it by putting what you have seen. It's a technique called the word cloud, and it's like going to show the characters given by color or size, and everyone loves it from here. Excel spreadsheets
+
+01:06:20.430 --> 01:06:24.590
+This word clad on, and I want to come.
+
+01:06:25.530 --> 01:06:36.360
+Yes to implement this we'll use a window and if you're using a tool called Shima on PowerShell, you can generate add-ins.
+
+01:06:37.240 --> 01:06:52.760
+This time, I made a folder on the local page and I put it in my mind, so once Shima is finished, I want to go and see the contents really fast.
+
+01:06:54.090 --> 01:07:15.780
+This is what we're going to do with Visual Studio code. This is an open source that can be run on Microsoft's new Windows Mac and Linux This is the code editor that's supposed to be tomorrow afternoon. If you like, please drop in for a session.
+
+01:07:15.640 --> 01:07:16.210
+This
+
+01:07:16.890 --> 01:07:28.010
+It is a good excel up, but when you create an add-in for an office, Web applications and manifest files are used in the main
+
+01:07:29.040 --> 01:07:41.190
+Part of the application is like this in a folder called up SS HTML JavaScript and the actual manifest pile will be written in XML
+
+01:07:41.970 --> 01:08:04.140
+In this project, there is a password and a thing called Jason to add a file and a library for the local verification, etc. I've added two libraries to implement the word cloud this time. The first one is called the release lead and Jerry.
+
+01:08:04.140 --> 01:08:08.710
+Can enrich the expression of open source which is yesterday
+
+01:08:09.330 --> 01:08:13.290
+Library and the second is the library of the word cloud
+
+01:08:15.060 --> 01:08:36.670
+These Web applications are so flat that you need to keep hosting somewhere in the manifest file when you're actually going to add it as an add-in I'll put the URL of the destination that I have hosting in this time because it has been saved on the web of agile, so ISIL site is written
+
+01:08:36.700 --> 01:08:37.380
+are
+
+01:08:39.650 --> 01:08:49.540
+So I'm going back to the browser and actually want to add it to Excel. This time I'm going to login to O 365 and use Excel online.
+
+01:08:50.450 --> 01:09:07.970
+The add-in method is easy and inserts a good place from the Office add-in uploading the add-in click on the Browse button and select the manifest XML that you just saw.
+
+01:09:09.260 --> 01:09:26.370
+And yes this is how it was created on the local now in Excel online in this cloud could be viewed as an add-in I would really like to try to verify that this works.
+
+01:09:27.070 --> 01:09:33.160
+So, for example, if you choose a word and a number, click the button
+
+01:09:34.520 --> 01:09:41.890
+Yes, I could create an office add-in in such a way that I could move a Web application in Excel.
+
+01:09:43.230 --> 01:09:56.950
+This time, I had a look at making the original in this way, but there is a function of the store in the product of the office in this way, and a variety of applications are already provided in it.
+
+01:09:59.090 --> 01:10:20.600
+This is a good tool d 3, for example, this is using the leasing lead and the Jacet technology in the same way, but click to choose this way it looks like it's a different kind of Excel feature and it's not a graph or a little global conscious this time on the map
+
+01:10:20.890 --> 01:10:42.920
+You will be able to see what kind of numbers are visualize yes it's still too early to be surprised. Ready for this time this data has been posted for two weeks, and you have the ebay code Microsoft and Windows hash tag with location info eh
+
+01:10:42.960 --> 01:11:00.670
+This is what I was just looking at. I was prepared to show you the shop by animation, and it is also from various countries and Japan. You can see that you are interested in many people.
+
+01:11:01.910 --> 01:11:23.250
+Yes, I hope you will. Moe, please consider the application of the office from a personal user to the company and you can develop it well, I think it's a good idea. Speaking of Microsoft Office, we've come up with a Microsoft Graph. This feature allows you to use the cloud
+
+01:11:23.300 --> 01:11:28.020
+Can you come up with an AP that's an email or a simple to say info
+
+01:11:28.870 --> 01:11:47.860
+MC This kind of thing is interesting if the person and the part of the thing and the voice or the robot help etc. This time, I'm calling you parm. I'd like to speak to you immediately.
+
+01:11:49.220 --> 01:11:51.500
+Harem Kun hi
+
+01:11:52.370 --> 01:11:53.390
+Hello
+
+01:11:54.520 --> 01:11:55.720
+This is Tokura.
+
+01:11:56.900 --> 01:11:57.850
+Thank you.
+
+01:12:02.020 --> 01:12:16.240
+Mr. Barber, I think it was named Claudia in my memory, but it's funny, Amai.
+
+01:12:17.330 --> 01:12:19.070
+New Mail has arrived
+
+01:12:20.990 --> 01:12:23.880
+Yes there's a look at the new mail
+
+01:12:25.170 --> 01:12:26.120
+Read aloud
+
+01:12:29.830 --> 01:12:30.290
+Yes
+
+01:12:31.080 --> 01:12:36.590
+Claudia. Thank you for the easy explanation of Visual Studio code.
+
+01:12:37.320 --> 01:12:41.700
+True, Microsoft technology is the best in the world.
+
+01:12:43.430 --> 01:12:44.390
+Thank you
+
+01:12:46.480 --> 01:12:47.850
+You are welcome
+
+01:12:53.100 --> 01:13:04.210
+Yes, we have seen that we can collect the information that we need when we want to use the audio in conjunction with the robot and Microsoft Graph.
+
+01:13:05.200 --> 01:13:20.480
+To the new world of people and computers in the future I will introduce you in the special session of Mr. Nishiwaki later, so if you like it, thank you for joining us.
+
+01:13:22.060 --> 01:13:23.230
+Richards
+
+01:13:23.960 --> 01:13:25.020
+Thank you very much
+
+01:13:28.600 --> 01:13:53.130
+The hotel is great, the team is a little bit more than a soldier, but my mother is a great one. I'm going to go to the cloud before I do this. I'm thinking, but I'm Rina in this Plato's leaves anymore-chan, or container service intelligence is more and more in the direction of the application of the robot first and now
+
+01:13:53.190 --> 01:14:09.450
+But there was, but the truth is, I have become a fool to this really amazing thing afterall everyone innocent everyone but this come on, your mother is around here. I saw the robot in the box of glory. Well, I'll see you in a night.
+
+01:14:11.260 --> 01:14:16.110
+Feed it, this is the only way to handle sales. Actually, this is pepperoni. Who am I?
+
+01:14:17.660 --> 01:14:21.170
+Yes, I'm interested in your various ways.
+
+01:14:24.390 --> 01:14:36.750
+Hey, welcome to the store. Thank you very much for your valuable time. I've been protecting the product from my side. Is this product for you? It's a little cold, isn't it?
+
+01:14:37.900 --> 01:14:39.580
+Will you come closer to me?
+
+01:14:40.620 --> 01:14:41.650
+The West has come.
+
+01:14:43.120 --> 01:14:52.550
+Yeah, it seems like this. Surface is not easy to say that this leaf is a man's thirty, but I'm really happy.
+
+01:14:54.050 --> 01:15:02.640
+Yes, this book from the night. How is it going to be glorious for a young child? I would like to introduce this to you.
+
+01:15:04.430 --> 01:15:28.640
+Oh, yes, I did. Sacks helped to be this new flirt in three different scenarios and as a puff laptop PC. This Olivier. This device with this version of the pen can enjoy four functions of the performance graph I have been using kiss now
+
+01:15:28.230 --> 01:15:29.260
+We've got an acre.
+
+01:15:29.950 --> 01:15:32.120
+Thank you so much for being here.
+
+01:15:32.820 --> 01:15:41.340
+Now that the printer will be so, this actual leaf is from a friend of man. I think that I have you follow the order form.
+
+01:15:42.190 --> 01:16:06.080
+The printer is not in the grasp, so this was to use a different printer you've seen one scenario based on the service of using the robot and let's also based on the way it is actually now what kind of man I am actually based on it and what kind of thing is this important in the case of the death of the mother of a young child I was introduced to this now.
+
+01:16:06.120 --> 01:16:13.520
+It's funny. My friend and I used to be a robot, and I want to come into this free conversation too.
+
+01:16:14.860 --> 01:16:15.560
+Then
+
+01:16:16.780 --> 01:16:37.930
+So let's do a little more with the third platform in the evening. Club Shin Mobile first in the world of mobile cloud is very hot now it's kind of like we're talking about on the topic. Just what kind of a way to utilize this and the life cycle of the business
+
+01:16:37.970 --> 01:17:00.620
+is different depending on the company, so there are many answers, but the good thing about Jules is that it is an infrastructure service or an existing you can use a virtual machine to make it cloud you can do it in Kobe. The search for the Compute storage Network was also a little while ago. BM Now there's thirty percent relaxed
+
+01:17:00.720 --> 01:17:22.480
+And there is a good place like that. But the other thing is that the platform is a service. Well they I can only taste the identity of the group. Use Active Directory to make it easier to do or use media Services or platform data the Platform Day Service Web phosphorus mobile service
+
+01:17:22.600 --> 01:17:44.270
+There is a place where you can contribute to the taste in various places, such as analytics, and the strength of the cloud is clear. I'm still on this journey. The story is still in progress, and there are so many workloads that are still not dark, but we can go on with what we've been through.
+
+01:17:44.680 --> 01:18:02.530
+And there's a lot of experience coming up from scratch, and you're going to be rewritten. Start three simple things. Cloud I would like to say a few things, especially those three are unique to Microsoft. One is hyper-scale.
+
+01:18:02.930 --> 01:18:24.450
+We are the largest on this planet, as well as our user base. There are servers in the world that can use ours globally or across the world. The server infrastructure itself is scaled up and the cloud infrastructure does not scale up either Klaus
+
+01:18:24.620 --> 01:18:45.600
+And I've been making a number in the world right now and the capacity is also higher than the Amazon and Google combined it's eighty region. There's a lot of data centers like soccer stadiums, two.
+
+01:18:45.510 --> 01:19:06.810
+There is, and to secure it, for instance, to have redundancy. Just enough to be geographically close to the earthquake. To some extent it's okay India it's a Singapore, it's Ireland. It's the same thing. And recently added Canada but all over the world.
+
+01:19:06.850 --> 01:19:28.700
+So we have a hyper-scale and that is because the thousand that went out in that way to expand the the cost of the source would be very cheap, and it would be very cost-effective to build a data center on their own. Hyper scale and the second five
+
+01:19:28.730 --> 01:19:29.880
+is a hybrid
+
+01:19:30.860 --> 01:19:52.250
+Cloud gasping for more than ten years, we have made a cloud server, and we have not moved all at once. Onpu is also part of the fire while leaving write on the wall also left something to keep it in the cloud with some hybrids to take the pace of their own way.
+
+01:19:52.540 --> 01:20:13.060
+That's what you put behind the firewall in the cloud 500,000,000 this is a security or I d or a management data model. So, for example, if you put your application or service system behind a firewall in your
+
+01:20:13.100 --> 01:20:33.970
+Cloud or public cloud we're going to be chosen by ourselves, so we're saying that most companies want a choice. We ISIL with Jules. Free use of stacks and any company to make any partner free to use cloud live and then the traditional
+
+01:20:34.020 --> 01:20:43.970
+It's a very expensive place where you can use both of your children's wishes. The third is Enterprise lady. We have more than two decades of enterprise customer relationships.
+
+01:20:44.700 --> 01:21:06.660
+We're selling it with our feet, we have a support unit, we can see it and the radio evangelist... to move the enterprise castor million into the cloud. We have an organization that has been a capital investment. What do you do with a peck of customer X?
+
+01:21:07.140 --> 01:21:29.170
+I've been helping a lot of enterprise in such a place, but I also have a story about technology, but it tastes bad, but we also talk about business at home. Is that it's a unique part of the scale and the enterprise needs to be engaged at that point. It's the momentum of Jules, but it's more than ten thousand per month.
+
+01:21:28.880 --> 01:21:51.210
+New Saburi cushion is in the number of data more than 140 more than Jitsu in a week and then more than five million more to messaging. Active Directory I use it and this momentum is progressing further. This is a platform of joule momentum very momentum is good is great
+
+01:21:51.210 --> 01:22:13.580
+From now on, I had a story about the mustard family. I used it as a test-class test environment, but I've been using it a lot. Really different mobile on a day I have data, but it's one of the Xamarin test clouds using the test cloud. Then through the cloud Gateway and then the service update of the favorite TK
+
+01:22:13.610 --> 01:22:35.800
+It's too much. And then there's another piece of data, a scale document DB that makes the fabric available in other clouds, and services. Then data visual AC we take the Americas visualization to other applications, and so on, and so on.
+
+01:22:35.830 --> 01:22:50.900
+Redmond rules on that so that they're going to have a demonstration from here on skis. How are you today? I'm very happy to come to Japan, but please wait a moment.
+
+01:22:55.120 --> 01:23:16.380
+I'm sorry, my laptop is now in sleep mode. Hello, everyone in Tokyo. I'm really honored to be able to talk about data in front of you. This time, some new already announced service Power BI system will be happy to explain what you love if you are ever
+
+01:23:16.420 --> 01:23:37.830
+This is going to be embed. This is an application developer, and I've been asked to hear from a lot of people for the last two years, and I've been clamoring for that. You'll taste by saying reporting and analytics directly from the application cloud provider
+
+01:23:37.850 --> 01:23:59.260
+It can be like that and it is the first time for agile to offer a rich visualization service. It's a fudeko, but it's public. I've seen the maintenance of the airline before, but this is a standard application.
+
+01:23:59.300 --> 01:24:06.430
+Hey, I'm just going to have something similar to a normal other application around here.
+
+01:24:07.390 --> 01:24:28.080
+I just want you to pay attention now to your application as a user of Fabrikam's application, power BI, or service, and not get into another application. And here's a report on the navigation tools.
+
+01:24:28.110 --> 01:24:49.280
+You can choose a lot of reports when you say this. One now power-telling report, and Power BI will render the reporting directly within this application. This is a very rich and interactive visualization. Power bi are
+
+01:24:49.310 --> 01:25:10.600
+And exactly the same as you see from the application on the report is very easy to navigate and slice, and you can use the Chair in a very dominant way. My business standpoint by saying rich visualization customer
+
+01:25:10.640 --> 01:25:32.490
+Because there is a Custombigealization that I want to do so, it goes to the custom economy of visualization, and it is from here. What kind of a little bit do you have during the report application? Would like to have a little bit of talk about how they have their own reports on their applications and the first milk and data.
+
+01:25:32.880 --> 01:25:53.820
+Go to the Power bi embedded workspace But this is a different list of repositories. You can host from among the repositories here, and you'll be able to access a variety of applications from within a few seconds, and you'll be waiting for a few names or resource groups
+
+01:25:53.850 --> 01:26:14.570
+If there are about thirty minutes, you can use the report story. In the repository I put my own reports in my application. can be embedded in and reflect this repository in up in there I'll try to get a report. First, Power Bar
+
+01:26:14.800 --> 01:26:20.210
+Come to the desktop Pavia, please wait a little.
+
+01:26:21.590 --> 01:26:23.410
+Now you can
+
+01:26:24.210 --> 01:26:46.260
+I just got into that slip. Power Bi, but I'm going to be able to use it now. It's a available tool. Download and and you can use it in power bi or even in applications, but it's also available on the Power BI desktop. Here's a little tar.
+
+01:26:46.230 --> 01:26:50.310
+Well, I'm already opening the report first.
+
+01:26:52.830 --> 01:27:03.800
+I want to do a really simple visualization from here, but ease it in the application. Well, I'm going to put out a really common bar chart.
+
+01:27:04.620 --> 01:27:25.990
+It's better to understand the business than to have such a bar chart, and I'm sorry it's not about sales. The profit and loss of sales in every month I'm not really doing a few clicks, but I haven't done it many times. Where is the easy way? As soon as the sales loss was in the third quarter
+
+01:27:25.950 --> 01:27:46.200
+If you want to say a little more research for example if you come out to add a little bit more visuals of your own do you want to get a little bubble chart from here? Other data so let's put some other information in this report.
+
+01:27:46.430 --> 01:28:07.040
+After the slide, you can specify the engine type, so you have to pay attention to the big bubble in the upper right. This is a big contribution to gross sales there's a little bit of jazz in there, so there's a couple of things to look at. Prem Engine and Domestic lenging is the problem here?
+
+01:28:07.480 --> 01:28:29.140
+So if you want to know more about what happened to the third party, the time axis is called play access that month in the report that this the time axis that can be put on a movement like this moves in the movement like I'm going to give you the data, so I'm going to slide it around and let it be.
+
+01:28:28.770 --> 01:28:47.100
+Well, you can get a good report. Well, I've come to understand. There's a little bit more to be done. In the Department of Business I want to give it to you. First of all, let's save it in the application, and return to the application by saving it.
+
+01:28:48.750 --> 01:28:49.550
+Malware
+
+01:28:50.310 --> 01:29:11.810
+Well, this app Fabrikam uses the SDK, so it's possible to upload reports. You can upload a report that runs a simple code. Let's go to the report browsing by selecting the report and name it here. And then click Upload and now what about next?
+
+01:29:11.840 --> 01:29:32.710
+The report is being streamed into the repository under Jill's environment. And the power bi is rendering so that it renders in the application like this this is the same as the last time. All of the interactive features are equipped with a stop tool, which is the exact same thing as a rich visualization.
+
+01:29:32.750 --> 01:29:41.450
+Did you see the power of ved? Thank you so much for your return to Steve.
+
+01:29:46.950 --> 01:29:48.110
+Power BI
+
+01:29:49.030 --> 01:30:09.980
+You've seen one part of the subspecies of the data service, and it's also the power of power bi itself. So, actually, we can talk about platform bot agent in the morning. It's Cognitive Service.
+
+01:30:09.890 --> 01:30:24.880
+There is a service, such as machine learning, for example, I want to call you, Mr. Olive McDonald's Cognitive Service, and also see the demo. Hello everyone in Tokyo
+
+01:30:31.950 --> 01:30:52.800
+Artificial intelligence we're moving forward. And as a result, developers can develop applications that are more humane, but limited resources that's where it is. It is quite difficult to drop the AI into the up, but it appeared here Cognitive Service a decade of micro-
+
+01:30:52.630 --> 01:31:13.120
+You can now access the covered lens connect and other features such as such as to be able to use the the API has been escorted, and there's also a verification, and then there's the speech... that there's also a language word that just our human child
+
+01:31:13.150 --> 01:31:33.980
+And not only will you takes what you're really trying to convey? There is a cognitive API as you have seen in the fact that you stay, but this that's the point of how to use it. The first time I visited a new city, I would like to take a lot of new pictures and caption them.
+
+01:31:34.380 --> 01:31:55.240
+You can take a look at the photos Japan a team member of the squad. I'll pull you in on this picture. And I'll use this to meet Caption Pottepi. And use the computer Vision API, so I will come up with a caption to explain this picture neatly analysis at the end please note here
+
+01:31:55.460 --> 01:32:15.610
+Not just that there are people here in the valley correctly I'm identifying that this is a baseball player. Can also be read from the caption in the movie like this is there any interesting points in it, I think this is actually a very interesting picture I found
+
+01:32:15.650 --> 01:32:37.440
+Pro caption Let's put it in the pot and tell me what it is. I'm going to analyze it again using Computer Option Epi. And correct caption It is a woman who came back and is standing by the cow and the sea which is in the belly and is not on the sand.
+
+01:32:37.480 --> 01:32:58.640
+It is also very interesting to know that this is just a starting point, but this is only the beginning of my trip to the hotel. I'll stay. You can get the keys to your room, but what if you don't always worry about the key, or even worse, a colleague has a manager
+
+01:32:58.870 --> 01:33:19.410
+Stealing the key, stealing the keys, and then worrying about what to do when you're naughty, and how to manage your keys with your biological information. You know, the funny thing about this door is that the camera is actually built-in, so you identify who you are.
+
+01:33:19.370 --> 01:33:41.210
+has implemented Windows Ten love OT has led to the system yes the Windows Ten is actually a imbel device. The king is like a hub on the surface of a large screen. Can be implemented up to a point where you can also use up the code part of the up here let's take a look at someone a ping pong
+
+01:33:41.140 --> 01:34:01.540
+Let's try to ring the Evia of the face there. Read the image using Heisei, and the face of the authorization information is matched against the approved face identifier what is installed in the system and the person standing in front of the door is the same person or not, let's give it a try.
+
+01:34:01.590 --> 01:34:14.350
+Let's help the manager in he stands in front of the door on the flight and the dollar award I'm sorry you can't identify that can't open the door
+
+01:34:15.120 --> 01:34:17.670
+Don't you hate it?
+
+01:34:19.250 --> 01:34:29.710
+It may not be a good idea to keep the manager out, but at least you won't be molested later. Let me try or ping pong
+
+01:34:32.010 --> 01:34:46.600
+The last train to land Yukitoshi on the door says welcome to open the door so I can enter into this world because I am approved.
+
+01:34:49.510 --> 01:35:05.080
+It's quite interesting to see that this is a really simple demonstration of how this community service is likely to spread with Windows 10 ie you can also physically manage the door.
+
+01:35:06.120 --> 01:35:18.090
+AK dot handle slash face door please visit the court to see the contribution is also welcome. Thank you very much for this comedy service.
+
+01:35:23.670 --> 01:35:44.710
+Cognitive Service I think you can do a lot of interesting things and public kitchen what you can imagine from a door to anything from a store like this in the cloud space is just simply Microsoft is not Blair we are working with many different people. Packaging is actually a topic of many different partners and I.
+
+01:35:44.910 --> 01:36:06.360
+is particularly suited to the water spares really advocating one of the world nineteen our container This is the only thing that we have to work with. Rather than being a great partner, I want to ask one of the members of the piano, which I have reached. And I'm a simple DC OS to the Sato
+
+01:36:06.400 --> 01:36:11.710
+Yes, but I'd like to ask you a wealth struggle. Thank you.
+
+01:36:13.820 --> 01:36:35.340
+Yeah, and everyone. Hi, I've been looking at Steve, but in fact, Microsoft has built up a reference architecture with a really tight mind and every we would like to extend our container service to the first Reference architecture is the data center operation system I've seen what the heck is going on.
+
+01:36:35.380 --> 01:36:56.170
+I wish I could. just to make it easier to understand. Linux based exposure or other a workload is easier to access to support what you said and to make it easier to use, you can also visit this portal with one click to go to the data center operating system
+
+01:36:56.210 --> 01:37:18.150
+Let's start with the EOS huh I'm going to take a look at what exactly is a negative back in DC I'm looking at it, but it's very different from my session. The fact is that we're using features. This is a simple way to put together a diversity of data centers the mud is the cloud, and it's like a single operating system.
+
+01:37:18.190 --> 01:37:40.260
+How to make it operational dashboard now you can see how many resource CPUs are allocated in this dashboard. And then the number of errors and/or services you can take a look at the things that come up in the list. You can actually watch the entire system in this one resource pool
+
+01:37:40.300 --> 01:38:01.100
+Being able to use it more efficiently by looking at this centrally, what kind of services can be pro in the universe? and you can see it in the interface to the marketplace, so we have a wide range of partnerships with our partner ecosystem
+
+01:38:01.150 --> 01:38:03.010
+Yes, CAs.
+
+01:38:04.030 --> 01:38:24.820
+There are also Cassandra and so on to be able to operate, and this is already in progress, and the list will continue for a long time. Operator perspective If you let me know, you can get in here and simply click on the service and you will be able to install it. And the basic config is over.
+
+01:38:24.710 --> 01:38:46.840
+You can also easily customize it if you want. Existing services in the already deployed Cassandra Overload. This is the basic data service. It's not part of the application's data services, but he does. I'll show you this later. This is basically an analytics application, where data services access data and
+
+01:38:46.870 --> 01:39:08.200
+Yes, it's an easy way to analyze the data more and more. has been able to further reporting fell on that analysis of the dead marathon in the operator view here so let's take a look at the path component. The content is an interface that allows application developers to easily upload applications to substantiate
+
+01:39:08.320 --> 01:39:25.620
+And the information on that base can be confirmed through black. Various technology stock prices Cassandra, this is also under surveillance. This is a Twitter clone, so let's use this. I'll put the handle name.
+
+01:39:29.180 --> 01:39:50.200
+And let's tweet about it. You can see the list of other tweets that have come in from the other. And the developers I am sorry to say that I use GUI very much, but the operator is no good at the command line.
+
+01:39:50.250 --> 01:40:05.560
+And of course, we have something we can do. The GUI interface and the command line in the way of the Power user's integration This also takes advantage of all the common area components and the command line is
+
+01:40:06.330 --> 01:40:20.990
+Would you like to try to access the technology in progress? Blown option Cassandra is also out of control. It's easier to manage sub-component sub-technologies. The same is the mechanism of being able to easily from the black. Sky and Guest
+
+01:40:21.680 --> 01:40:24.790
+Feed it, and finally, all this.
+
+01:40:26.170 --> 01:40:29.210
+He's in the service.
+
+01:40:29.930 --> 01:40:32.360
+It's not a matter of analysis.
+
+01:40:36.600 --> 01:40:38.670
+Yeah, I'm having some problems.
+
+01:40:40.170 --> 01:40:55.720
+Yes, I'm sorry about the three Tests and this idea I'm going to eat at the gauge. I would be happy if this report is necessary for this mail to be properly in this demand for the enemy of Tateishi. And all these important of this interface are
+
+01:40:55.740 --> 01:41:05.390
+There is a seeming at all, and it is necessary to take this book without getting to the you were more than you were used to
+
+01:41:07.210 --> 01:41:09.800
+Oh, and thank you to the driveway.
+
+01:41:11.500 --> 01:41:17.860
+MSN This is a great partner who is really laughing at me in Tokyo.
+
+01:41:18.630 --> 01:41:35.700
+The food, but from the people in this contribution apartment tribe was doing the Symphony No. Piano but it is so, or it is not at all, but we have a lot of star partners.
+
+01:41:35.930 --> 01:41:49.580
+There is also an apartment in the company this wonderful or the accuracy of the trouble, I'll make it. This time. Jules is more important to evolve I think I've got to do that, but I'm going to take the last seat.
+
+01:41:50.280 --> 01:41:57.300
+Howell will be called two is not the nature of my team one is part of the technology
+
+01:41:57.500 --> 01:42:09.380
+For example or something called this interesting island in this case the proper team is that it has evolved to the last part of this bridge, but it is not soft enough.
+
+01:42:10.540 --> 01:42:16.180
+Macro software below the bridge of bamboo there are many. that this tool that assuming language
+
+01:42:16.630 --> 01:42:30.070
+And our platform will get Windows service but this is a neat thing that can be fused to let me help you. There is one more aspect of the business. Please use the team without using our previous sales.
+
+01:42:30.760 --> 01:42:38.790
+We have more than this global and love to put on this business plate of mould type to believe you could
+
+01:42:39.520 --> 01:43:05.310
+You know, Jay warrant, even though it was erased, more and more people are able to make this world of a happy partner. We think that the world has changed, but we do... and we offer I thought it was a great plastic model. This new goal is to make the world a time-series and come up with a future in this platform. I know this is the blackness of the world.
+
+01:43:05.340 --> 01:43:12.870
+My daughter, we are the power of our people. Take this to build a variety of this story to work
+
+01:43:14.090 --> 01:43:24.490
+So then I'm also section of this cannot last video featuring partnerships thank you very much for your contact with us tomorrow!
+
+01:43:29.880 --> 01:43:55.150
+It is not in the grandpa of the big-breasted role to be respected, today's rainy flight is always the top house of the rain Mary choose inspector, but client needs if you do the student Tezuka's explanation of the world's contacts to the lens to eat the exchange without being able to meet the eye talk to the rebuilding of the team and always live together I like it.
+
+01:43:56.470 --> 01:44:14.550
+There is a satin spartan opinion in the 48 dance instead of the boss, there's a difference in front of you when you're on a journey. I've been living there before. The team and the hunters bomb making Subsc toilet
+
+01:44:15.260 --> 01:44:31.270
+First of all, I want to tell you what I'm looking at. I'm going to lead you to a stop.
+
+01:44:33.990 --> 01:44:37.980
+If X is already decided, sketch
+
+01:44:39.090 --> 01:44:52.500
+The new Spar method of the lawyer is a burst v matching span specified h in the nursing prevention
+
+01:44:53.500 --> 01:45:09.640
+So, I was able to meet you tomorrow... if you do the speed of the Central America, you will be easier to see. Sitting before going with the beauty that becomes tattoo of my life
+
+01:45:10.340 --> 01:45:19.070
+It's so hard to get together I'll have a great season off when I have to call it, I have to see Israel.
+
+01:45:19.810 --> 01:45:50.080
+I've been playing with a lot of art documents. Tab size H One page is ambiguous hospital order. I heard my daughter. If you go together with his executives in three hours injustice from the Laz-san is deprived of the heart to forgive or V bank 30,000 typing Z
+
+01:45:50.240 --> 01:45:51.820
+Everybody who is food
+
+01:45:55.720 --> 01:46:00.460
+In the past, enterprise companies said the subject was honest.
+
+01:46:01.150 --> 01:46:06.000
+These days, open source efforts have been very much live
+
+01:46:06.830 --> 01:46:24.310
+I have been using Xamarin for a long time, so I have been Kawasaki, and I am very interested in being short and open-sourced. The other day, we had a few minutes of Naima or damage to the evangelist's place.
+
+01:46:25.690 --> 01:46:40.350
+I feel that the base base of the advice has contributed significantly to the improvement of the process in the company now, and the release thing which had 13 up to now has been shortened to three days by pro time now.
+
+01:46:42.450 --> 01:46:48.650
+I want to build a good relationship with Microsoft.
+
+01:47:25.580 --> 01:47:26.070
+Not
+
+01:47:36.900 --> 01:47:45.890
+It's a priority. Cover up the wear.
+
+01:47:42.870 --> 01:47:47.590
+So we're excited, but are you doing it?
+
+01:47:49.400 --> 01:47:55.090
+No, actually, it's happening, and we're really devising it.
+
+01:47:56.250 --> 01:48:18.970
+Pan and get a great or unaman speaker of the film to come out of America in the open source after the Bahamas companies are about to have a hot talk this week and want to I think it's interesting, and I want you to introduce this content easily. Can you start it immediately because I introduced it?
+
+01:48:19.800 --> 01:48:22.250
+Okay, then you're from me.
+
+01:48:24.970 --> 01:48:27.170
+I didn't think it was a dance
+
+01:48:27.990 --> 01:48:32.670
+Because I am 45, I think that I am very tired of peace.
+
+01:48:33.760 --> 01:48:37.130
+Well, it's an invasion of the Black ships.
+
+01:48:40.090 --> 01:48:48.390
+So what can you do now that you have settled on the contrary, I would like to show you immediately.
+
+01:48:48.790 --> 01:48:51.760
+Are you all right, upload?
+
+01:48:53.790 --> 01:48:55.110
+If Austin
+
+01:48:56.240 --> 01:48:58.650
+Aphrodisiac please again
+
+01:49:04.030 --> 01:49:05.540
+Thank you, sir.
+
+01:49:08.170 --> 01:49:10.030
+Well, what did you do?
+
+01:49:11.140 --> 01:49:21.780
+I should have checked now, and BS TBS is automatic. I've been checking to see what changes have been made to the editing and the foreground 2.0.
+
+01:49:22.630 --> 01:49:23.590
+Are you ok
+
+01:49:24.410 --> 01:49:26.830
+Full-Powers Figure zero points
+
+01:49:27.580 --> 01:49:38.110
+Yes, it's just a product check of the form, and then it's BM.
+
+01:49:41.220 --> 01:49:42.350
+Sober.
+
+01:49:43.480 --> 01:49:45.130
+Is it any?
+
+01:49:47.720 --> 01:49:57.510
+Why is this story on a male cat beam? This is my lunch. And finally D 40 s will come out DC OS
+
+01:49:58.480 --> 01:49:59.700
+Will come out
+
+01:50:00.460 --> 01:50:06.260
+Let s discuss the actual container. Wait a minute.
+
+01:50:07.510 --> 01:50:11.700
+Said practice and said practice who do you pay money?
+
+01:50:13.230 --> 01:50:16.040
+We're using your credit card, of course.
+
+01:50:19.670 --> 01:50:25.540
+Erebus now I'm really successful in this edition, of course not. Let me pay you.
+
+01:50:26.300 --> 01:50:37.920
+Well, now people are going to explain to the website from every container a message comes out and something happens. What happens here?
+
+01:50:39.600 --> 01:50:51.760
+A pipeline mom while we're waiting for you to introduce this speaker four of us please, it's Alan and Mr. Tori, and he's looking at you.
+
+01:50:55.740 --> 01:50:57.480
+Welcome to altitude at mine
+
+01:51:05.270 --> 01:51:30.230
+Bakusa here, this interesting content is really waiting for me, but I think I'll buy a doctor, because the crater on all your asses will contain a CD. Compared to what I did scrubbing. Enterprise to other I just thought of it as a version of stupid, and I'm going to do this for this week. About the whole number of this service is new about and there is a software on it?
+
+01:51:30.260 --> 01:51:32.050
+will be the same happy
+
+01:51:32.810 --> 01:51:35.790
+It's not, but it's not rare.
+
+01:51:38.640 --> 01:51:40.780
+You can Japanese.
+
+01:51:41.550 --> 01:52:06.420
+It's a stock hanger. Thank you. What are you doing here? We are making our blocking tool. This automated development of preference and production in fact, this child you can use it to automate your jaw. Do you want to be in charge of this week's session tomorrow? How to use Pactera form clothing automated post-production
+
+01:52:06.460 --> 01:52:13.460
+I just had it, but all in code, this is the same thing I can do. Mr. Deployment.
+
+01:52:15.330 --> 01:52:23.100
+Just form a preview of this rhinitis grave just please check and the chef will come out soon
+
+01:52:23.500 --> 01:52:27.930
+Yeah, now I'm using my chef's blog.
+
+01:52:29.530 --> 01:52:39.840
+The chef is now bringing this recipe from the running server and there's pudding in it, but it's all automated.
+
+01:52:40.430 --> 01:52:53.410
+This recipe to the chef before what to do with the money that the process of working now, I guess you'll be able to do it. I need a little more time. Introduce yourself
+
+01:52:54.100 --> 01:52:57.150
+Do you think it's hard to tell?
+
+01:52:57.910 --> 01:53:22.610
+I'm in charge of a shirt or an everlasting era. Now I'm on the screen but actually we're using your chef what does it mean to society? Open Source older sister It is possible to describe from the point of view of the element that it is going to be used as it is in Ibaraki. Do you take charge of this week's session? The chef is not leaving tomorrow.
+
+01:53:22.850 --> 01:53:30.000
+In fact that's not from a development point of view I'm going to explain what a song is. Welcome to run Japan
+
+01:53:30.700 --> 01:53:36.410
+It is Williams in the base engine. Meditation sphere in the room is good
+
+01:53:37.770 --> 01:54:00.370
+I saw it a little while ago, but I've seen it a little bit, but I'll be able to do it again later, timed. I'm glad to have you, but this time, DCs, what is the data Center Operations center? I want to talk about what I can use, but I can speak with people from the Tokyo community.
+
+01:53:59.740 --> 01:54:19.430
+I'm really looking forward to it. Innovation please let me know where you are in Tokyo. I'm looking forward to seeing you again. Tomorrow at the half of my session it's the beginning, so do not think that I want to do anything about the drafting of praise and thank you. Is there anything already deployed?
+
+01:54:20.610 --> 01:54:33.170
+It's a little bit more interesting, huh? It's pretty much a test, so it was going well.
+
+01:54:40.390 --> 01:54:42.940
+Would you like to see a thousand container?
+
+01:54:50.390 --> 01:54:57.330
+Well, you're doing fine, Baiji.
+
+01:55:08.050 --> 01:55:09.410
+Nurse, hey.
+
+01:55:10.320 --> 01:55:11.580
+Dance and
+
+01:55:12.580 --> 01:55:14.420
+Stated
+
+01:55:17.520 --> 01:55:33.440
+I've got a V's. Why don't you check the door stone and see what we can do?
+
+01:55:34.570 --> 01:55:40.640
+That's right, Deb, full automation.
+
+01:55:41.560 --> 01:55:50.590
+He's the V's. Good morning. Thank you for coming to the record with the speaker. Let's enjoy the event.
+
+01:56:07.730 --> 01:56:28.920
+Yes, thank you for your time. Yes, that's delicious. There is a session after that, too. Well, I want you to take a look. In this record, I was allowed to provide a ticket for this development terminal, so now the power point here is actually
+
+01:56:28.950 --> 01:56:49.400
+This kind of Windows Phone is now on sale in the country of the gate it is going to release the nuance of the Trinity's two of them. Then bio if you pop the three biz this two is the basis of the correspondence I want you to develop a U double P app by all means.
+
+01:56:49.440 --> 01:56:54.250
+I'll show you one of the underlying
+
+01:56:58.890 --> 01:57:19.680
+This is the Windows Phone. You know, it's a Windows phone, but this time it is a priority because it is Conti new Ham the performance is good, so let's take priority for everyone. Yes now there is a mouse in my hand if this mouse is moving
+
+01:57:19.550 --> 01:57:39.990
+Do you see the monitor? This is a second screen of knitting to Conti so it's normal. Like using a Windows 10 desktop Excel engage and now I use only the mouse, but I have to walk with the keyboard of the four-double recently that you can work with the normal Excel
+
+01:57:40.020 --> 01:58:00.520
+It's going to be... it's today. Continue to make the app that we are developing now with the cooperation of bow in the knitting we're leaving. We can watch various games on demand on demand without members. Let's see this first game.
+
+01:58:01.150 --> 01:58:10.830
+It is like the doubles of the Brocade player who is active right now, and this is advancing as it is.
+
+01:58:11.560 --> 01:58:15.420
+Yes, look at the book in My hand.
+
+01:58:16.200 --> 01:58:20.640
+How do you stop this picture now?
+
+01:58:21.710 --> 01:58:42.530
+You can go ahead or seconds, or try to turn seconds rewind, so that's what I say. It's a part of WP, but this is a Windows Phone and a second screen external monitor.
+
+01:58:42.580 --> 01:59:03.790
+This is one of the tips but I hope you'll be able to refer to this by all means. Well nutrition and wrap-up and features and kids in that this time we have the best Bayuchi sessions ever, so yes, I want you to look at this next.
+
+01:59:03.810 --> 01:59:25.030
+And as for the special session, it's not just about the life expectancy of the Japanese and foreign King SS. And then we have a celebrity with a fat man. I hope you will come to see us directly to meet you, so please give us your power point.
+
+01:59:25.080 --> 01:59:46.230
+I agreed with you just to talk to him about it, but you guys are very nice engineers. is hosted by a female engineer, please join us, ladies and gentlemen, even if you're not a woman. In this industry as a woman engineer
+
+01:59:46.300 --> 01:00:06.720
+If you want to help me to do it quickly, I would like to join you this year, I tried to devise a variety of Expo for example, I want to introduce to everyone here I o T creation Lab
+
+02:00:06.810 --> 02:00:28.270
+It started in February. I o T business competition I got help from the lab, so I came the instructors here, so if you come uh you can do it directly with that code and that soon you can experience the Emperor Tiggo regular. By the way, this side is the same.
+
+02:00:28.310 --> 02:00:48.040
+This is a coding challenge, but this is what we have to do. Sit down and code. This will be a good gift for you. It's not just about that. It's a lot of exhibition booths with great ingenuity from sponsors. I want you to see carefully
+
+02:00:48.070 --> 02:01:08.660
+The rest is the development consultation corner of the app and Jules or stamp rally and I want you to come to the snack corner here also I think this is the centerpiece of this time, but there's just an old free online channel for our technicians. Live Streaming now too
+
+02:01:08.710 --> 02:01:29.290
+The team of this Channel Nine is what the staff at every equipment from Seattle and I am still doing live streaming now and two days after this I've been doing live streaming at this exhibition site all the time, so I'll do a lot of different programs. The fact is, it's a skeleton.
+
+02:01:29.420 --> 02:01:50.880
+If you want to sell it in the back, so it's reflected, yes. And this evening, this is Teddy Party. The significance of this conference it's a pen-stream-based meeting with you to meet new people. Please do not hesitate to exchange business cards to discuss
+
+02:01:50.820 --> 02:02:11.610
+If you are embarrassed by yourself, it is a technical area that looks like it is different. There is no table. Please come and enjoy it because it is a wonderful mechanism, and it is a keynote lecture to everyone. How about a day and a half later decoding?
+
+02:02:11.790 --> 02:02:14.160
+Thank you for enjoying

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\bin\Debug\source_large.vtt" "C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\bin\Debug\target_large.vtt"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>C:\Users\papaitha\Documents\samples\KeynoteJP_mid_aud_SpReco.vtt</StartArguments>
+  </PropertyGroup>
+</Project>

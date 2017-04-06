@@ -1,0 +1,6 @@
+C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\bin\Debug\AzureTranslatorConsoleApp.exe.config
+C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\bin\Debug\AzureTranslatorConsoleApp.exe
+C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\bin\Debug\AzureTranslatorConsoleApp.pdb
+C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\obj\Debug\AzureTranslatorConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\obj\Debug\AzureTranslatorConsoleApp.exe
+C:\Users\papaitha\Documents\GitHub\Akihabara-sample2\referencecode\Azure-Media-Services-Samples-Indexer_Translator\AzureTranslatorConsoleApp\obj\Debug\AzureTranslatorConsoleApp.pdb
